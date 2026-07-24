@@ -1,5 +1,6 @@
 import sys
 from src.models import Job
+from src.store import load_jobs, save_jobs
 
 def update():
     print("Starting internship update...")
@@ -13,8 +14,14 @@ def update():
         external_id="12345",
     )
 
-    print(sample_job)
+    save_jobs([sample_job])
 
+    saved_jobs = load_jobs()
+
+    print(f"Loaded {len(saved_jobs)} job(s) from data/jobs.json")
+
+    for job in saved_jobs:
+        print(job.company, "-", job.title)
 
 def main():
     if len(sys.argv) < 2:
