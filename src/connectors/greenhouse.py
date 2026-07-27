@@ -1,7 +1,10 @@
+from turtle import title
+
 import requests
 
 from src.classify import classify_employment_type
 from src.models import Job
+from src.categories import classify_job_category
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards"
 
@@ -29,6 +32,7 @@ def normalize_greenhouse_job(
     if employment_type is None:
         return None
 
+    category = classify_job_category(title)
     return Job(
         company=company_name,
         fortune_rank=fortune_rank,
@@ -38,5 +42,6 @@ def normalize_greenhouse_job(
         source="greenhouse",
         external_id=str(raw_job.get("id", "")),
         employment_type=employment_type,
+        category=category,
         updated_at=raw_job.get("updated_at", ""),
     )

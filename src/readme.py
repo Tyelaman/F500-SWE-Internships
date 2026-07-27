@@ -9,6 +9,17 @@ README_PATH = PROJECT_ROOT / "README.md"
 JOBS_DIRECTORY = PROJECT_ROOT / "jobs"
 INTERNSHIPS_PATH = JOBS_DIRECTORY / "internships.md"
 FULL_TIME_PATH = JOBS_DIRECTORY / "full-time.md"
+CATEGORY_ORDER = [
+    "Software & IT",
+    "Data & AI",
+    "Product & Design",
+    "Engineering",
+    "Finance & Accounting",
+    "Sales & Marketing",
+    "Operations & Supply Chain",
+    "People & Legal",
+    "Other",
+]
 
 
 def clean_markdown(text: str) -> str:
@@ -44,6 +55,53 @@ def create_job_table(jobs: list[Job]) -> str:
 
     return "\n".join(lines)
 
+def create_category_sections(jobs: list[Job]) -> str:
+    if not jobs:
+        return create_job_table([])
+
+    jobs_by_category = {}
+
+    for job in jobs:
+        category = job.category or "Other"
+
+        if category not in jobs_by_category:
+            jobs_by_category[category] = []
+
+        jobs_by_category[category].append(job)
+
+    categories = []
+
+    for category in CATEGORY_ORDER:
+        if category in jobs_by_category:
+            categories.append(category)
+
+    extra_categories = sorted(
+        category
+        for category in jobs_by_category
+        if category not in CATEGORY_ORDER
+    )
+
+    categories.extend(extra_categories)
+
+    sections = []
+
+    for category in categories:
+        category_jobs = jobs_by_category[category]
+
+        category_jobs.sort(
+            key=lambda job: parse_updated_at(job.updated_at),
+            reverse=True,
+        )
+
+        section = (
+            f"## {category}\n\n"
+            f"Open positions: {len(category_jobs)}\n\n"
+            f"{create_job_table(category_jobs)}"
+        )
+
+        sections.append(section)
+
+    return "\n\n".join(sections)
 
 def generate_markdown_files(jobs: list[Job]) -> None:
     JOBS_DIRECTORY.mkdir(exist_ok=True)
@@ -73,14 +131,14 @@ def generate_markdown_files(jobs: list[Job]) -> None:
         "# Fortune 500 Internships\n\n"
         f"Last updated: {updated_at}\n\n"
         f"Open internships: {len(internships)}\n\n"
-        f"{create_job_table(internships)}\n"
+        f"{create_category_sections(internships)}\n"
     )
 
     full_time_content = (
         "# Fortune 500 Full-Time Positions\n\n"
         f"Last updated: {updated_at}\n\n"
         f"Open full-time positions: {len(full_time_jobs)}\n\n"
-        f"{create_job_table(full_time_jobs)}\n"
+        f"{create_category_sections(full_time_jobs)}\n"
     )
 
     readme_content = (

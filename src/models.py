@@ -11,6 +11,7 @@ class Job:
     source: str
     external_id: str
     employment_type: str
+    category: str = "Other"
     updated_at: str = ""
     first_seen_at: str = ""
 
@@ -28,6 +29,7 @@ class Job:
             source=data["source"],
             external_id=data["external_id"],
             employment_type=data["employment_type"],
+            category=data.get("category", "Other"),
             updated_at=data.get("updated_at", ""),
             first_seen_at=data.get("first_seen_at", ""),
         )
