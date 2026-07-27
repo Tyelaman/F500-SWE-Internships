@@ -1,27 +1,32 @@
 import sys
-from src.models import Job
+
+from src.readme import generate_markdown_files
+from src.pipeline import collect_jobs
 from src.store import load_jobs, save_jobs
 
+
 def update():
-    print("Starting internship update...")
+    print("Starting job update...")
 
-    sample_job = Job(
-        company="Walmart",
-        title="Software Engineering Intern",
-        location="Bentonville, AR",
-        url="https://example.com/apply",
-        source="greenhouse",
-        external_id="12345",
-    )
+    jobs = collect_jobs()
 
-    save_jobs([sample_job])
+    save_jobs(jobs)
+    generate_markdown_files(jobs)
 
     saved_jobs = load_jobs()
 
-    print(f"Loaded {len(saved_jobs)} job(s) from data/jobs.json")
+    print(f"Saved {len(saved_jobs)} jobs.")
+    print("Generated README.md")
+    print("Generated jobs/internships.md")
+    print("Generated jobs/full-time.md")
 
-    for job in saved_jobs:
-        print(job.company, "-", job.title)
+    for job in saved_jobs[:5]:
+        print(
+            f"{job.company} | "
+            f"{job.title} | "
+            f"{job.employment_type}"
+        )
+
 
 def main():
     if len(sys.argv) < 2:
