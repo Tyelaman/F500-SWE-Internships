@@ -46,5 +46,29 @@
     "fortune_rank": 192,
     "source": "workday",
     "identifier": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced"
+  },
+  {
+  "name": "Dell Technologies",
+  "fortune_rank": 41,
+  "source": "workday",
+  "identifier": "https://dell.wd1.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Capital One",
+    "fortune_rank": 63,
+    "source": "workday",
+    "identifier": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One"
+  },
+  {
+    "name": "Northrop Grumman",
+    "fortune_rank": 112,
+    "source": "workday",
+    "identifier": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site"
+  },
+  {
+    "name": "Mastercard",
+    "fortune_rank": 141,
+    "source": "workday",
+    "identifier": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers"
   }
 ]
