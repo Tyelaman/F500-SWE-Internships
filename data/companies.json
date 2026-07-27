@@ -28,5 +28,23 @@
   "fortune_rank": 430,
   "source": "workday",
   "identifier": "https://workday.wd5.myworkdayjobs.com/en-US/Workday"
+  },
+  {
+  "name": "NVIDIA",
+  "fortune_rank": 16,
+  "source": "workday",
+  "identifier": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+  },
+  {
+    "name": "Salesforce",
+    "fortune_rank": 114,
+    "source": "workday",
+    "identifier": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site"
+  },
+  {
+    "name": "Adobe",
+    "fortune_rank": 192,
+    "source": "workday",
+    "identifier": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced"
   }
 ]
