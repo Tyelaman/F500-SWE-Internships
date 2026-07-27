@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
 from pathlib import Path
+import re
 from src.companies import load_companies
 
 from src.models import Job
@@ -27,6 +28,12 @@ CATEGORY_ORDER = [
 def clean_markdown(text: str) -> str:
     return text.replace("|", "/").replace("\n", " ").strip()
 
+def create_category_slug(category: str) -> str:
+    return re.sub(
+        r"[^a-z0-9]+",
+        "-",
+        category.lower(),
+    ).strip("-")
 
 def create_job_table(jobs: list[Job]) -> str:
     lines = [
@@ -85,25 +92,49 @@ def create_category_sections(jobs: list[Job]) -> str:
 
     categories.extend(extra_categories)
 
+    category_links = []
+
+    for category in categories:
+        slug = create_category_slug(category)
+        count = len(jobs_by_category[category])
+
+        category_links.append(
+            f"[{category} ({count})](#{slug})"
+        )
+
+    navigation = (
+        "## Categories\n\n"
+        + " · ".join(category_links)
+    )
+
     sections = []
 
     for category in categories:
         category_jobs = jobs_by_category[category]
 
         category_jobs.sort(
-            key=lambda job: parse_updated_at(job.updated_at),
+            key=lambda job: parse_updated_at(
+                job.updated_at
+            ),
             reverse=True,
         )
 
+        slug = create_category_slug(category)
+
         section = (
+            f'<a id="{slug}"></a>\n\n'
             f"## {category}\n\n"
             f"Open positions: {len(category_jobs)}\n\n"
-            f"{create_job_table(category_jobs)}"
+            f"{create_job_table(category_jobs)}\n\n"
+            f"[Back to categories](#categories)"
         )
 
         sections.append(section)
 
-    return "\n\n".join(sections)
+    return (
+        f"{navigation}\n\n"
+        + "\n\n".join(sections)
+    )
 
 def generate_markdown_files(jobs: list[Job]) -> None:
     JOBS_DIRECTORY.mkdir(exist_ok=True)

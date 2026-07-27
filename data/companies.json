@@ -70,5 +70,53 @@
     "fortune_rank": 141,
     "source": "workday",
     "identifier": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers"
+  },
+  {
+  "name": "Boeing",
+  "fortune_rank": 47,
+  "source": "workday",
+  "identifier": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS"
+  },
+  {
+    "name": "HP",
+    "fortune_rank": 84,
+    "source": "workday",
+    "identifier": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite"
+  },
+  {
+    "name": "Intel",
+    "fortune_rank": 88,
+    "source": "workday",
+    "identifier": "https://intel.wd1.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Qualcomm",
+    "fortune_rank": 108,
+    "source": "workday",
+    "identifier": "https://qualcomm.wd12.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Visa",
+    "fortune_rank": 119,
+    "source": "workday",
+    "identifier": "https://visa.wd5.myworkdayjobs.com/en-US/Visa"
+  },
+  {
+    "name": "Micron Technology",
+    "fortune_rank": 125,
+    "source": "workday",
+    "identifier": "https://micron.wd1.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "PayPal",
+    "fortune_rank": 139,
+    "source": "workday",
+    "identifier": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+  },
+  {
+    "name": "S&P Global",
+    "fortune_rank": 294,
+    "source": "workday",
+    "identifier": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers"
   }
 ]
