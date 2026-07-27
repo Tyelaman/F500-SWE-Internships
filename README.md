@@ -11,16 +11,16 @@ Edit README_TEMPLATE.md instead of editing README.md directly.
 
 An automated Python pipeline that collects open positions from Fortune 500 company career sites, normalizes them into a shared format, classifies them by employment type and job category, and publishes searchable Markdown job lists.
 
-**Last updated:** July 27, 2026 at 12:59 UTC
+**Last updated:** July 27, 2026 at 13:16 UTC
 
 ## Current listings
 
 | Metric | Count |
 |---|---:|
 | Tracked companies | 12 |
-| Internships | 5 |
-| Full-time positions | 6938 |
-| Total positions | 6943 |
+| Internships | 1 |
+| Full-time positions | 4224 |
+| Total positions | 4225 |
 
 ### Browse the data
 
