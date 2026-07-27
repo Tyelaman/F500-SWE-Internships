@@ -9,6 +9,10 @@ from src.connectors.lever import (
     fetch_lever_jobs,
     normalize_lever_job,
 )
+from src.connectors.workday import (
+    fetch_workday_jobs,
+    normalize_workday_job,
+)
 from src.models import Job
 
 
@@ -20,6 +24,10 @@ CONNECTORS = {
     "lever": (
         fetch_lever_jobs,
         normalize_lever_job,
+    ),
+    "workday": (
+        fetch_workday_jobs,
+        normalize_workday_job,
     ),
 }
 
