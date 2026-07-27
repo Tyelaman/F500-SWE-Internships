@@ -13,6 +13,7 @@ from src.connectors.workday import (
     fetch_workday_jobs,
     normalize_workday_job,
 )
+from src.locations import is_us_location
 from src.models import Job
 
 
@@ -79,7 +80,10 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
                     fortune_rank=company["fortune_rank"],
                 )
 
-                if job is not None:
+                if (
+                    job is not None
+                    and is_us_location(job.location)
+                ):
                     collected_jobs.append(job)
 
         except RequestException as error:
