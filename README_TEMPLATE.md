@@ -9,7 +9,7 @@ Edit README_TEMPLATE.md instead of editing README.md directly.
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An automated Python pipeline that collects open positions from Fortune 500 company career sites, normalizes them into a shared format, classifies them by employment type and job category, and publishes searchable Markdown job lists.
+An automated Python pipeline that collects United States-based positions from Fortune 500 company career sites, normalizes postings from multiple hiring platforms, classifies them by employment type and job category, and publishes continuously updated Markdown and JSON job listings.
 
 **Last updated:** {{LAST_UPDATED}}
 
@@ -22,27 +22,31 @@ An automated Python pipeline that collects open positions from Fortune 500 compa
 | Full-time positions | {{FULL_TIME_COUNT}} |
 | Total positions | {{TOTAL_COUNT}} |
 
-### Browse the data
+### Browse the listings
 
 - [Internship listings](jobs/internships.md)
 - [Full-time listings](jobs/full-time.md)
 - [Machine-readable job data](data/jobs.json)
 - [Tracked company configuration](data/companies.json)
 
+The internship and full-time pages include clickable category navigation for Software & IT, Data & AI, Engineering, Product & Design, Finance, Operations, and other job families.
+
 ## Features
 
-- Collects jobs from multiple applicant-tracking systems
-- Supports Greenhouse, Lever, and Workday career sites
-- Normalizes platform-specific postings into one shared job model
+- Collects public jobs from Fortune 500 company career sites
+- Supports Greenhouse, Lever, and Workday
+- Normalizes different hiring-platform responses into one shared `Job` model
+- Filters listings to United States locations
 - Separates internships from full-time positions
 - Excludes part-time, contract, temporary, seasonal, and freelance roles
 - Classifies jobs into categories such as Software & IT, Data & AI, Engineering, Finance, and Operations
+- Generates clickable category navigation in each Markdown job list
 - Removes duplicate postings using company, source, and external job identifiers
-- Preserves existing listings when an individual company request fails
-- Records when each posting was first discovered
-- Produces both Markdown and JSON output
-- Runs automatically through GitHub Actions
-- Includes automated tests for connectors, pagination, classification, and deduplication
+- Preserves previous listings when an individual company request temporarily fails
+- Records when each job was first discovered
+- Publishes Markdown listings and machine-readable JSON data
+- Runs automatically every six hours with GitHub Actions
+- Includes automated tests for connectors, pagination, classification, location filtering, Markdown generation, and deduplication
 
 ## How it works
 
@@ -52,26 +56,29 @@ data/companies.json
         v
 Connector registry
         |
-        +-- Greenhouse connector
-        +-- Lever connector
-        +-- Workday connector
+        +-- Greenhouse
+        +-- Lever
+        +-- Workday
         |
         v
 Platform-specific normalization
         |
         v
-Employment and category classification
+Employment classification
         |
         v
-Deduplication and safe merge
+United States location filtering
+        |
+        v
+Job-category classification
+        |
+        v
+Deduplication and failure-safe merge
         |
         +-- data/jobs.json
         +-- jobs/internships.md
         +-- jobs/full-time.md
         +-- README.md
-```
-
-Each connector retrieves jobs from one hiring platform and converts the results into the shared `Job` model. The pipeline then classifies, deduplicates, merges, and writes the final output files.
 
 ## Supported hiring platforms
 
@@ -159,13 +166,27 @@ python -m pip install -r requirements.txt
 python -m pytest
 ```
 
-### 5. Update the listings
 
-```bash
-python run.py update
-```
+Be careful: because the outer section contains a code block, copy it directly into the Markdown file rather than placing it inside another code block.
 
-The command retrieves jobs, updates `data/jobs.json`, and regenerates the Markdown files.
+## 5. Update the project structure
+
+Add `locations.py`:
+
+```text
+├── src/
+│   ├── connectors/
+│   │   ├── greenhouse.py
+│   │   ├── lever.py
+│   │   └── workday.py
+│   ├── categories.py
+│   ├── classify.py
+│   ├── companies.py
+│   ├── locations.py
+│   ├── models.py
+│   ├── pipeline.py
+│   ├── readme.py
+│   └── store.py
 
 ## Adding a company
 
@@ -240,12 +261,14 @@ Do not permanently edit these files by hand. Update the source code, company con
 
 ## Known limitations
 
-- Employment type and category classification are based on job titles and available metadata.
-- Some career platforms expose more information than others.
-- Public career-site structures may change without notice.
-- Fortune rankings and company identifiers must be updated manually.
-- A listing may close between an automated update and an application attempt.
-- The project currently tracks open positions rather than maintaining a historical archive of closed listings.
+- Employment type and job category are inferred from titles and available posting metadata.
+- Location formats differ between hiring platforms.
+- Country-unspecified remote positions are excluded because they cannot be verified as United States-based.
+- A posting containing both U.S. and international locations is included when at least one recognized U.S. location is present.
+- Public career-site endpoints and identifiers may change without notice.
+- Fortune rankings and company configurations must be maintained manually.
+- Job postings may close between automated updates.
+- The tracker stores current open positions rather than a historical archive of closed jobs.
 
 ## Disclaimer
 
