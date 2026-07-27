@@ -5,8 +5,25 @@ from src.connectors.greenhouse import (
     fetch_greenhouse_jobs,
     normalize_greenhouse_job,
 )
+from src.connectors.lever import (
+    fetch_lever_jobs,
+    normalize_lever_job,
+)
 from src.models import Job
 
+def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
+    unique_jobs = {}
+    
+    for job in jobs:
+        key = (
+            job.source,
+            job.company.lower().strip(),
+            job.external_id,
+        )
+
+        unique_jobs[key] = job
+
+    return list(unique_jobs.values())
 
 def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
     companies = load_companies()
@@ -35,6 +52,22 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
 
                     if job is not None:
                         collected_jobs.append(job)
+            elif source == "lever":
+                raw_jobs = fetch_lever_jobs(
+                    company["identifier"]
+                )
+
+                successful_companies.add(company_name)
+
+                for raw_job in raw_jobs:
+                    job = normalize_lever_job(
+                        raw_job=raw_job,
+                        company_name=company_name,
+                        fortune_rank=company["fortune_rank"],
+                    )
+
+                    if job is not None:
+                        collected_jobs.append(job)
             else:
                 print(
                     f"Skipping {company_name}: "
@@ -49,8 +82,10 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
                 f"{company_name}: {error}"
             )
 
+    deduplicated_jobs = deduplicate_jobs(collected_jobs)
+
     return (
-        collected_jobs,
+        deduplicated_jobs,
         successful_companies,
         failed_companies,
     )
