@@ -1,6 +1,7 @@
 # Fortune 500 Full-Time Positions
 
 Last updated: July 27, 2026 at 03:56 UTC
+Last updated: July 27, 2026 at 02:15 UTC
 
 Open full-time positions: 480
 
