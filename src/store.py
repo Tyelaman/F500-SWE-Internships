@@ -35,25 +35,40 @@ def load_jobs() -> list[Job]:
 def merge_jobs(
     collected_jobs: list[Job],
     existing_jobs: list[Job],
+    failed_companies: set[str],
 ) -> list[Job]:
     existing_by_id = {}
 
     for job in existing_jobs:
-        key = f"{job.source}:{job.external_id}"
+        key = (
+            f"{job.source}:"
+            f"{job.company}:"
+            f"{job.external_id}"
+        )
         existing_by_id[key] = job
 
     now = datetime.now(timezone.utc).isoformat()
     merged_jobs = []
 
     for job in collected_jobs:
-        key = f"{job.source}:{job.external_id}"
+        key = (
+            f"{job.source}:"
+            f"{job.company}:"
+            f"{job.external_id}"
+        )
         existing_job = existing_by_id.get(key)
 
         if existing_job is not None:
-            job.first_seen_at = existing_job.first_seen_at or now
+            job.first_seen_at = (
+                existing_job.first_seen_at or now
+            )
         else:
             job.first_seen_at = now
 
         merged_jobs.append(job)
+
+    for existing_job in existing_jobs:
+        if existing_job.company in failed_companies:
+            merged_jobs.append(existing_job)
 
     return merged_jobs

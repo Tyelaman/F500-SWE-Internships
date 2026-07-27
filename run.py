@@ -9,19 +9,33 @@ def update():
     print("Starting job update...")
 
     existing_jobs = load_jobs()
-    collected_jobs = collect_jobs()
 
-    if not collected_jobs:
-        print("No jobs were collected.")
-        print("Existing job data and Markdown files were not changed.")
+    (
+        collected_jobs,
+        successful_companies,
+        failed_companies,
+    ) = collect_jobs()
+
+    if not successful_companies:
+        print("Every supported company fetch failed.")
+        print("Existing files were not changed.")
         return
 
-    jobs = merge_jobs(collected_jobs, existing_jobs)
+    jobs = merge_jobs(
+        collected_jobs,
+        existing_jobs,
+        failed_companies,
+    )
 
     save_jobs(jobs)
     generate_markdown_files(jobs)
 
     print(f"Saved {len(jobs)} jobs.")
+
+    if failed_companies:
+        failed_names = ", ".join(sorted(failed_companies))
+        print(f"Preserved old jobs for: {failed_names}")
+
     print("Generated README.md")
     print("Generated jobs/internships.md")
     print("Generated jobs/full-time.md")
