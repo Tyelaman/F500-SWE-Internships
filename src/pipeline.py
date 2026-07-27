@@ -11,9 +11,22 @@ from src.connectors.lever import (
 )
 from src.models import Job
 
+
+CONNECTORS = {
+    "greenhouse": (
+        fetch_greenhouse_jobs,
+        normalize_greenhouse_job,
+    ),
+    "lever": (
+        fetch_lever_jobs,
+        normalize_lever_job,
+    ),
+}
+
+
 def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
     unique_jobs = {}
-    
+
     for job in jobs:
         key = (
             job.source,
@@ -25,6 +38,7 @@ def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
 
     return list(unique_jobs.values())
 
+
 def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
     companies = load_companies()
     collected_jobs = []
@@ -35,44 +49,30 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
         source = company["source"]
         company_name = company["name"]
 
+        connector = CONNECTORS.get(source)
+
+        if connector is None:
+            print(
+                f"Skipping {company_name}: "
+                f"unsupported source '{source}'"
+            )
+            continue
+
+        fetch_jobs, normalize_job = connector
+
         try:
-            if source == "greenhouse":
-                raw_jobs = fetch_greenhouse_jobs(
-                    company["identifier"]
+            raw_jobs = fetch_jobs(company["identifier"])
+            successful_companies.add(company_name)
+
+            for raw_job in raw_jobs:
+                job = normalize_job(
+                    raw_job=raw_job,
+                    company_name=company_name,
+                    fortune_rank=company["fortune_rank"],
                 )
 
-                successful_companies.add(company_name)
-
-                for raw_job in raw_jobs:
-                    job = normalize_greenhouse_job(
-                        raw_job=raw_job,
-                        company_name=company_name,
-                        fortune_rank=company["fortune_rank"],
-                    )
-
-                    if job is not None:
-                        collected_jobs.append(job)
-            elif source == "lever":
-                raw_jobs = fetch_lever_jobs(
-                    company["identifier"]
-                )
-
-                successful_companies.add(company_name)
-
-                for raw_job in raw_jobs:
-                    job = normalize_lever_job(
-                        raw_job=raw_job,
-                        company_name=company_name,
-                        fortune_rank=company["fortune_rank"],
-                    )
-
-                    if job is not None:
-                        collected_jobs.append(job)
-            else:
-                print(
-                    f"Skipping {company_name}: "
-                    f"unsupported source '{source}'"
-                )
+                if job is not None:
+                    collected_jobs.append(job)
 
         except RequestException as error:
             failed_companies.add(company_name)
