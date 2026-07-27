@@ -1,12 +1,12 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: July 27, 2026 at 13:16 UTC
+Last updated: July 27, 2026 at 15:15 UTC
 
-Open full-time positions: 4224
+Open full-time positions: 4220
 
 ## Software & IT
 
-Open positions: 936
+Open positions: 934
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -115,7 +115,17 @@ Open positions: 936
 | 16 | NVIDIA | Director, Software TPM - Server Firmware and System Software | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-TPM---Server-Firmware-and-System-Software_JR2007277-1) |
 | 16 | NVIDIA | Senior Systems Software Security Engineer – Data Center Systems | US, CO, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Senior-Systems-Software-Security-Engineer---Data-Center-Systems_JR2004966-1) |
 | 114 | Salesforce | Software Engineer (Backend) - MTS | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716) |
-| 114 | Salesforce | Lead Full Stack Engineer | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Lead-Full-Stack-Engineer_JR353136) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R247632-1) |
+| 63 | Capital One | Lead Software Engineer | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Scala--JavaScript-_R244114-1) |
+| 63 | Capital One | Lead Software Engineer, Back End (Java, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R237266-1) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245454-1) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245452-1) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245458-1) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245462) |
+| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246065-1) |
+| 63 | Capital One | Lead Software Engineer, Back End | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Back-End_R247814-1) |
+| 63 | Capital One | Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS) | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--TypeScript--Vuejs--Nodejs--AWS-_R245651-1) |
+| 63 | Capital One | Lead Software Engineer, Back End (Go, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End--Go--AWS-_R246210-1) |
 | 63 | Capital One | Lead Software Engineer - Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer---Full-Stack_R246629-1) |
 | 63 | Capital One | Lead Software Engineer - Manager IC (Python, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer---Manager-IC--Python--AWS-_R244047-2) |
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R243836-1) |
@@ -165,10 +175,8 @@ Open positions: 936
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246882-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246795-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246788-1) |
-| 63 | Capital One | Lead Software Engineer, Back End | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R237266-1) |
 | 63 | Capital One | Lead Software Engineer (Go, Java, AWS) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Go--Java--AWS-_R246219-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (Risk Tech) | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Risk-Tech-_R241805-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS) | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--TypeScript--Vuejs--Nodejs--AWS-_R245651-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Back End (Enterprise Platforms Technology) | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Lead-Software-Engineer--Back-End--Enterprise-Platforms-Technology-_R246268-1) |
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R244122-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246104-1) |
@@ -176,11 +184,9 @@ Open positions: 936
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246018-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Full-Stack_R246295-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R241175-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246065-1) |
 | 63 | Capital One | Lead Software Engineer | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R242987-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246185-1) |
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R246170-1) |
-| 63 | Capital One | Lead Software Engineer, Back End (Go, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End--Go--AWS-_R246210-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245913-1) |
 | 63 | Capital One | Lead Software Engineer | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer_R246115-1) |
 | 63 | Capital One | Senior Manager, Software Engineering, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Software-Engineering--Full-Stack_R245391-1) |
@@ -196,14 +202,10 @@ Open positions: 936
 | 63 | Capital One | Lead Software Engineer, Back End | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Back-End_R245770) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (Cyber) | San Jose, CA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Lead-Software-Engineer--Full-Stack--Cyber-_R245805-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack-IC | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack-IC_R243494-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245458-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245462) |
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R245666-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245665-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245593-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R245588-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245454-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R245452-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Go/Java, Angular, AWS) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--Go-Java--Angular--AWS-_R245187-1) |
 | 63 | Capital One | Lead Software Engineer | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-Software-Engineer_R245431-1) |
 | 63 | Capital One | Sr Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer_R245460) |
@@ -216,7 +218,6 @@ Open positions: 936
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R244834-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Java, Angular, AWS) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--Java--Angular--AWS-_R243988-2) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R244726-1) |
-| 63 | Capital One | Lead Software Engineer | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Scala--JavaScript-_R244114-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (Enterprise Platforms Technology) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R241539-2) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Enterprise Platform Technology) | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack--Enterprise-Platform-Technology-_R244223-1) |
 | 63 | Capital One | Lead Software Engineer - Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer---Full-Stack_R244516-1) |
@@ -255,6 +256,10 @@ Open positions: 936
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Go, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Go--AWS-_R238739-1) |
 | 63 | Capital One | Principal Associate - Software Engineering | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineering_R237903-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R231925-1) |
+| 112 | Northrop Grumman | Systems Engineer - TRMC Integrator (Principal or Senior Principal Level) | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer---Integrator--Principal-or-Senior-Principal-Level-_R10241408) |
+| 112 | Northrop Grumman | Principal Software Engineer (AHT) | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal-Software-Engineer--AHT-_R10242384) |
+| 112 | Northrop Grumman | Staff Systems Engineer | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Staff-Systems-Engineer_R10241230) |
+| 112 | Northrop Grumman | Staff RF Electronic Systems Engineer | United States-Virginia-Fairfax | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Staff-RF-Electronic-Systems-Engineer_R10242180) |
 | 112 | Northrop Grumman | Software Engineer: Automation/AI - Level 2 or 3 (Chandler) | United States-Arizona-Chandler | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Automation-AI---Level-2-or-3--Chandler-_R10237384) |
 | 112 | Northrop Grumman | Principal / Senior Principal Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Software-Engineer_R10242338) |
 | 112 | Northrop Grumman | Engineer Software | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software_R10242339-1) |
@@ -294,7 +299,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Software Test Engineer (Hardware) | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Test-Engineer--Hardware-_R10241896-1) |
 | 112 | Northrop Grumman | Sr. Principal DevOps Engineer | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Staff-DevOps-Engineer_R10234469) |
 | 112 | Northrop Grumman | Sr. Staff Software Architect-Guidance Systems Integration-14255 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Staff-Software-Architect-Guidance-Systems-Integration-14255_R10241904) |
-| 112 | Northrop Grumman | Systems Engineer - Integrator (Principal or Senior Principal Level) | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer---Integrator--Principal-or-Senior-Principal-Level-_R10241408) |
 | 112 | Northrop Grumman | Principal Engineer Software (Avionics) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software--Avionics-_R10240761) |
 | 112 | Northrop Grumman | EMI/C Systems Engineer - Level 3 or 4 | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/EMI-C-Systems-Engineer---Level-3-or-4_R10241857) |
 | 112 | Northrop Grumman | EMI/C Systems Engineer - Level 3 or 4 | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/EMI-C-Systems-Engineer---Level-3-or-4_R10241855) |
@@ -359,7 +363,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Software Engineer/Principal Software Engineer–Java (TS/SCI-CI Poly) (AHT) | United States-Ohio-Wright-Patterson AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer-Principal-Software-Engineer-Java--TS-SCI-CI-Poly---AHT-_R10241339) |
 | 112 | Northrop Grumman | Sentinel - Thread Support Staff Systems Engineer - 17388 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Thread-Support-Staff-Systems-Engineer---17388_R10239177) |
 | 112 | Northrop Grumman | Sentinel - Thread Support Staff Systems Engineer - 18064 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Thread-Support-Staff-Systems-Engineer---18064_R10239173) |
-| 112 | Northrop Grumman | Staff Systems Engineer | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Staff-Systems-Engineer_R10241230) |
 | 112 | Northrop Grumman | Principal/Sr Principal Systems Engineer | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Sr-Principal-Systems-Engineer_R10241218) |
 | 112 | Northrop Grumman | Software Configuration Management Analyst – Level 2 or 3 | United States-Colorado-Boulder | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Configuration-Management-Analyst---Level-2-or-3_R10241281) |
 | 112 | Northrop Grumman | Sentinel Sr Principal Modeling & Simulation Systems Engineer- 18980 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Sr-Principal-Modeling---Simulation-Systems-Engineer--18980_R10238557) |
@@ -672,7 +675,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Staff/Sr. Principal Cybersecurity Systems Engineer (CSE) | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Staff-Sr-Principal-Cybersecurity-Systems-Engineer--CSE-_R10237566) |
 | 112 | Northrop Grumman | Software Developer - Level 3/4 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Developer---Level-3-4_R10226413) |
 | 112 | Northrop Grumman | Software Engineer / Principal Software Engineer (AHT) | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer--AHT-_R10237557) |
-| 112 | Northrop Grumman | Software Integration & Test Engineer / Principal Software Integration & Test Engineer (AHT) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Integration---Test-Engineer---Principal-Software-Integration---Test-Engineer--AHT-_R10237488) |
 | 112 | Northrop Grumman | Principal Systems Engineer | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Systems-Engineer_R10237425) |
 | 112 | Northrop Grumman | Systems Engineer / Principal Systems Engineer - Integration & Test | United States-California-Woodland Hills | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Systems-Engineer---Principal-Systems-Engineer---Integration---Test_R10237359) |
 | 112 | Northrop Grumman | Staff Engineer Software (Flight Management System Software Architect) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Engineer-Software--Flight-Management-System-Software-Architect-_R10220345) |
@@ -732,7 +734,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Software Systems Integration Engineer - Level 4 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Systems-Integration-Engineer---Level-4_R10235852) |
 | 112 | Northrop Grumman | Software Systems Integration Engineer - Level 5 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Systems-Integration-Engineer---Level-5_R10235844) |
 | 112 | Northrop Grumman | Cybersecurity Analyst (SkillBridge) - Tampa FL | United States-Florida-Tampa | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/Cybersecurity-Analyst--SkillBridge----Tampa-FL_R10236759) |
-| 112 | Northrop Grumman | Software Systems Integrator - 3 or 4 | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Software-Systems-Integrator---3-or-4_R10236731) |
 | 112 | Northrop Grumman | Systems Engineer - Level 4 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-4_R10230131) |
 | 112 | Northrop Grumman | Systems Engineer - Level 2 or Level 3 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Systems-Engineer---Level-2-or-Level-3_R10232342) |
 | 112 | Northrop Grumman | 2026 Associate Modeling & Simulation Systems Engineer - Colorado Springs CO | United States-Colorado-Schriever AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/XMLNAME-2026-Associate-Modeling---Simulation-Systems-Engineer---Colorado-Springs-CO_R10236634) |
@@ -809,7 +810,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Principal / Sr. Principal Simulation Software Engineer | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal---Sr-Principal-Simulation-Software-Engineer_R10235282) |
 | 112 | Northrop Grumman | Staff Systems Engineer/Architect | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Systems-Engineer-Architect_R10231449-1) |
 | 112 | Northrop Grumman | SkillBridge Principal Software Engineer/ Software Engineer | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/SkillBridge-Principal-Software-Engineer--Software-Engineer_R10235154) |
-| 112 | Northrop Grumman | Engineer Software - UI Developer (Melbourne FL) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---UI-Developer--Melbourne-FL-_R10220383-1) |
 | 112 | Northrop Grumman | Systems Engineer MBSE - All Levels | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-Engineer-MBSE---All-Levels_R10235159) |
 | 112 | Northrop Grumman | Software/DevOps Engineer - All Levels | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-DevOps-Engineer---All-Levels_R10235153) |
 | 112 | Northrop Grumman | Principal/Sr. Principal RF Electronic Systems Engineer | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Principal-Sr-Principal-RF-Electronic-Systems-Engineer_R10235140) |
@@ -911,7 +911,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Principal Engineer Software | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software_R10229879) |
 | 112 | Northrop Grumman | Principal/ Sr. Principal Cloud Engineer (AHT) | United States-Ohio-Wright-Patterson AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal--Sr-Principal-Cloud-Engineer--AHT-_R10229438) |
 | 112 | Northrop Grumman | Principal/Sr. Principal Cloud Engineer (AHT) | United States-New York-Rome | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Principal-Sr-Principal-Cloud-Engineer--AHT-_R10229454-1) |
-| 112 | Northrop Grumman | Principal Engineer Software - Embedded and Real Time (Melbourne FL) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Melbourne-FL-_R10230777) |
 | 112 | Northrop Grumman | Software Engineer Level 6 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-6_R10230234-1) |
 | 112 | Northrop Grumman | Sentinel - Principal / Sr. Principal Systems Engineer - 18478 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Principal---Sr-Principal-Systems-Engineer---18478_R10229286) |
 | 112 | Northrop Grumman | Staff Embedded Software Engineer | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Embedded-Software-Engineer_R10216396) |
@@ -945,7 +944,6 @@ Open positions: 936
 | 112 | Northrop Grumman | Principal Engineer Software/Senior Principal Engineer Software (Tracking) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software-Senior-Principal-Engineer-Software--Tracking-_R10220254) |
 | 112 | Northrop Grumman | Principal Cybersecurity Analyst | United States-Florida-Tampa | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/Principal-Cybersecurity-Analyst_R10219438) |
 | 112 | Northrop Grumman | Sr. Principal Space Communications Systems Engineer | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Space-Communications-Systems-Engineer_R10218877) |
-| 141 | Mastercard | Lead Software Engineer | Atlanta, Georgia (675 Ponce De Leon Ave NE) | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Atlanta-Georgia-675-Ponce-De-Leon-Ave-NE/Lead-Software-Engineer_R-279508) |
 
 ## Data & AI
 
@@ -1096,7 +1094,7 @@ Open positions: 140
 
 ## Product & Design
 
-Open positions: 35
+Open positions: 34
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1120,7 +1118,6 @@ Open positions: 35
 | 430 | Workday | Senior Product Manager, Core Financials AI | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Product-Manager--Core-Financials-AI_JR-0106826-1) |
 | 430 | Workday | Product Manager | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Product-Manager_JR-0107140-1) |
 | 430 | Workday | Product Manager | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Product-Manager_JR-0107137-1) |
-| 114 | Salesforce | Director, Product Management , Agentic Optimization | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Director--Product-Management---Agentic-Optimization_JR352468) |
 | 63 | Capital One | Director, Product Management | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Director--Product-Management_R247519) |
 | 63 | Capital One | Sr. Manager, Project Management — AI in Product Management (AIPM) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Manager--Project-Management---AI-in-Product-Management--AIPM-_R246345-1) |
 | 63 | Capital One | Manager, Product Management-Emerging Payments | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Manager--Product-Management-Emerging-Payments_R247548-1) |
@@ -1521,10 +1518,12 @@ Open positions: 58
 
 ## Sales & Marketing
 
-Open positions: 148
+Open positions: 151
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 329 | DoorDash | Manager, Merchant Partnership Marketing | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, DC | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8083779) |
+| 329 | DoorDash | Associate Manager, Integrated Marketing, Consumer - Local (Emerging Markets) | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington D.C. | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7760015) |
 | 329 | DoorDash | Manager, Retention Marketing, Commerce Platform | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, DC | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046443) |
 | 329 | DoorDash | Associate Manager, Consumer Lifecycle Marketing, New | New York, NY | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8035314) |
 | 329 | DoorDash | Senior Manager, Lifecycle Marketing, B2B | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, DC | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7749466) |
@@ -1649,6 +1648,7 @@ Open positions: 148
 | 63 | Capital One | Emerging Sales Associate - August 2027 | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Emerging-Sales-Associate---August-2027_R244419-1) |
 | 63 | Capital One | Manager, Brand Partnerships & Social Media Strategist (Auto) | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Manager--Brand-Partnerships---Social-Media-Strategist--Auto-_R244138) |
 | 63 | Capital One | Senior Associate, Talent Brand Strategist - Talent Marketing | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Associate--Talent-Brand-Strategist---Talent-Marketing_R243212-1) |
+| 112 | Northrop Grumman | Director of Business Development | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Director-of-Business-Development_R10238013) |
 | 112 | Northrop Grumman | Sr. Principal Communications Electronics Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Communications-Electronics-Engineer_R10242021) |
 | 112 | Northrop Grumman | Sr. Principal  BLOS Communications Electronics Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal--BLOS-Communications-Electronics-Engineer_R10242006) |
 | 112 | Northrop Grumman | Principal Network Communications Administrator - Secret | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Network-Communications-Administrator---Secret_R10240045) |
@@ -1676,7 +1676,7 @@ Open positions: 148
 
 ## Operations & Supply Chain
 
-Open positions: 290
+Open positions: 289
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1684,7 +1684,6 @@ Open positions: 290
 | 132 | Coupang | Operations Lead | Riverside, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=4116451) |
 | 329 | DoorDash | Partner Operations Analyst, Food Access | New York, NY; Washington D.C.; Atlanta, GA; Philadelphia, PA; Boston, MA; Raleigh, NC; Miami, FL; LA, Seattle, WA; Chicago, IL; Austin, TX; Denver, CO | Jul 25, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8080784) |
 | 329 | DoorDash | Senior Associate - Strategy and Operations | San Francisco, CA; Phoenix, AZ; Chicago, IL; United States - Remote | Jul 25, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8078689) |
-| 329 | DoorDash | Manager, Strategy & Operations, DoorDash for Business | New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA | Jul 25, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8078248) |
 | 329 | DoorDash | Associate, Strategy and Operations - Dasher Fraud | New York, NY; Chicago, IL | Jul 24, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8077587) |
 | 357 | Airbnb | Senior Business Operations and Growth Lead, Ticketing | United States | Jul 24, 2026 | [Apply](https://careers.airbnb.com/positions/8065827?gh_jid=8065827) |
 | 329 | DoorDash | Sr. Associate, Strategy and Operations, Fraud | San Francisco, CA; Seattle, WA; Tempe, AZ; Chicago, IL; New York, NY; Washington, DC; United States - Remote | Jul 24, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8081294) |
@@ -1726,7 +1725,6 @@ Open positions: 290
 | 329 | DoorDash | Associate Manager, New Verticals - Retail Strategy & Operations | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Chicago, IL; Tempe, AZ; Denver, CO; Washington, DC | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8056158) |
 | 357 | Airbnb | Global Law Enforcement Operations Enablement Manager | United States | Jul 13, 2026 | [Apply](https://careers.airbnb.com/positions/8055459?gh_jid=8055459) |
 | 329 | DoorDash | Senior Associate, Merchant Strategy & Operations | New York, NY; San Francisco, CA; Chicago, IL; Austin, TX; Denver, CO; Los Angeles, CA; Miami, FL; Seattle, WA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8049483) |
-| 329 | DoorDash | Operations Associate | Tucson, AZ | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7315714) |
 | 329 | DoorDash | Variable Schedule Operations Associate, Dashmart | Indianapolis, IN | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7627134) |
 | 329 | DoorDash | Infrastructure Supply Chain Manager, Autonomy & Robotics | Oakland, CA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8056130) |
 | 329 | DoorDash | Associate Manager, Merchant Strategy & Operations | New York, NY; San Francisco, CA; Seattle, WA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8052242) |
@@ -1801,6 +1799,9 @@ Open positions: 290
 | 16 | NVIDIA | Senior Program Manager, Logistics and Fulfillment Technology Enablement | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Program-Manager--Logistics-and-Fulfillment-Technology-Enablement_JR2021872) |
 | 63 | Capital One | Principal Coordinator, Support Operations | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Coordinator--Support-Operations_R247763-1) |
 | 63 | Capital One | Principal Coordinator, Support Operations | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Principal-Coordinator--Support-Operations_R246643-1) |
+| 112 | Northrop Grumman | F-35 Supply Chain/Principal Supply Chain Subcontract Specialist | United States-California-El Segundo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/F-35-Supply-Chain-Principal-Supply-Chain-Subcontract-Specialist_R10240356) |
+| 112 | Northrop Grumman | BACN E-11A Principal Supply Chain Logistics Specialist Deployable - Secret | United States-Georgia-Robins AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Robins-AFB/BACN-E-11A-Principal-Supply-Chain-Logistics-Specialist-Deployable---Secret_R10242371-1) |
+| 112 | Northrop Grumman | Sr. Principal Logistics Management Analyst (SkillBridge) | United States-California-Northridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Sr-Principal-Logistics-Management-Analyst--SkillBridge-_R10242369) |
 | 112 | Northrop Grumman | Principal Supply Chain Planning Specialist | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Principal-Supply-Chain-Planning-Specialist_R10239480) |
 | 112 | Northrop Grumman | Sr Principal Supply Chain Planning Specialist | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Supply-Chain-Planning-Specialist_R10239986) |
 | 112 | Northrop Grumman | Sr Principal Supply Chain Subcontract Specialist | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Sr-Principal-Supply-Chain-Subcontract-Specialist_R10237128) |
@@ -1838,14 +1839,12 @@ Open positions: 290
 | 112 | Northrop Grumman | SCA Warehouse Specialist | United States-Georgia-Warner Robins | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/SCA-Warehouse-Specialist_R10237388) |
 | 112 | Northrop Grumman | Supply Chain Planning Specialist (SkillBridge) | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Supply-Chain-Planning-Specialist--SkillBridge-_R10240506) |
 | 112 | Northrop Grumman | Principal Logistics Management Analyst | United States-California-Lemoore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Lemoore/Principal-Logistics-Management-Analyst_R10241311) |
-| 112 | Northrop Grumman | Supply Chain Procurement Specialist | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Supply-Chain-Procurement-Specialist_R10240352-1) |
 | 112 | Northrop Grumman | Principal Supply Chain Planning Specialist | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Supply-Chain-Planning-Specialist_R10240984) |
 | 112 | Northrop Grumman | Staff Program Planning and Operations Lead | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Program-Planning-and-Operations-Lead_R10241126) |
 | 112 | Northrop Grumman | Supply Chain Planning Specialist | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Supply-Chain-Planning-Specialist_R10241139) |
 | 112 | Northrop Grumman | Manufacturing Operations Manager 3 | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manufacturing-Operations-Manager-3_R10240808) |
 | 112 | Northrop Grumman | Sr Principal Supply Chain Planning Specialist | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Supply-Chain-Planning-Specialist_R10241031) |
 | 112 | Northrop Grumman | Operations Project Management Manager 2 | United States-Florida-Apopka | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/Operations-Project-Management-Manager-2_R10233792) |
-| 112 | Northrop Grumman | Supply Chain Subcontract Specialist | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Supply-Chain-Subcontract-Specialist_R10240973) |
 | 112 | Northrop Grumman | Supply Chain Subcontract Specialist | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Supply-Chain-Subcontract-Specialist_R10240971) |
 | 112 | Northrop Grumman | Manager Depot Operations 3 | United States-Louisiana-Lake Charles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/Manager-Depot-Operations-3_R10240970) |
 | 112 | Northrop Grumman | Principal/Sr Principal Supply Chain Subcontract Specialist | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Sr-Principal-Supply-Chain-Subcontract-Specialist_R10240890) |
@@ -1977,8 +1976,8 @@ Open positions: 15
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 357 | Airbnb | HR Generalist / HR Business Partner | United States | Jul 27, 2026 | [Apply](https://careers.airbnb.com/positions/8084251?gh_jid=8084251) |
 | 132 | Coupang | AI & Product Counsel | Mountain View, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7992108) |
-| 357 | Airbnb | HR Generalist | United States | Jul 24, 2026 | [Apply](https://careers.airbnb.com/positions/8084251?gh_jid=8084251) |
 | 357 | Airbnb | Associate Counsel, Innovation and Thought Leadership | United States | Jul 21, 2026 | [Apply](https://careers.airbnb.com/positions/8074833?gh_jid=8074833) |
 | 191 | Block | Compliance Technology Program Lead | New York, NY, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5225220008?gh_jid=5225220008) |
 | 191 | Block | Lending Regulatory Counsel | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5287479008?gh_jid=5287479008) |
@@ -1995,10 +1994,11 @@ Open positions: 15
 
 ## Other
 
-Open positions: 2291
+Open positions: 2288
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 329 | DoorDash | Senior Associate, Food Access | Washington, DC; Atlanta, GA; Philadelphia, PA; Boston, MA; Raleigh-Durham, NC; Miami, FL; Los Angeles, CA; Seattle, WA; Chicago, IL; Austin, TX; Denver, CO | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8081834) |
 | 329 | DoorDash | Senior Product Design Manager, Integrity | San Francisco, CA; New York, NY; Seattle, WA | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7863636) |
 | 132 | Coupang | Director of Data Science | Mountain View, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7901575) |
 | 132 | Coupang | FC Associate - All Shifts | Riverside, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=3934901) |
@@ -2123,7 +2123,6 @@ Open positions: 2291
 | 357 | Airbnb | AMER Gathering Programs Manager | New York, United States, Los Angeles, United States | Jul 15, 2026 | [Apply](https://careers.airbnb.com/positions/8067991?gh_jid=8067991) |
 | 329 | DoorDash | Kitchen Manager, DashMart | Newport News, VA | Jul 15, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8067234) |
 | 329 | DoorDash | Shift Lead - Pembroke Park | Tucson, AZ | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7344739) |
-| 329 | DoorDash | DashMart Team Member - Huntsville | Huntsville, AL | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6898584) |
 | 329 | DoorDash | Regional Merchant Lead, New Verticals | Philadelphia, PA | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8065140) |
 | 329 | DoorDash | Shift Lead - Nashville | Nashville, TN | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7216540) |
 | 329 | DoorDash | Manager, Inside Account Development | Tempe, AZ; Phoenix, AZ; Chicago, IL | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7912807) |
@@ -2145,14 +2144,8 @@ Open positions: 2291
 | 329 | DoorDash | Team Member - Mahwah | Mahwah, NJ | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7050131) |
 | 329 | DoorDash | DashMart Team Member | Indianapolis, IN | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7093699) |
 | 329 | DoorDash | DashMart Team Member - Morrow | Morrow, GA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7245979) |
-| 329 | DoorDash | DashMart Team Member - Congaree Vista | Columbia, SC | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6791152) |
-| 329 | DoorDash | DashMart Team Member - Aurora | Aurora, CO | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6917338) |
-| 329 | DoorDash | DashMart Team Member - 11 Mile & Gratiot | Roseville, MI | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7301336) |
-| 329 | DoorDash | DashMart Team Member - East Colorado Springs | Colorado Springs, CO | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7194825) |
-| 329 | DoorDash | DashMart Team Member - North Valley | Albuquerque, NM | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6395535) |
 | 329 | DoorDash | DashMart Team Member - Downtown Oklahoma City | Oklahoma City, OK | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6813470) |
 | 329 | DoorDash | DashMart Team Member - Castleton | Indianapolis, IN | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6132180) |
-| 329 | DoorDash | DashMart Team Member - Ellendale | St. Louis, MO | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6852542) |
 | 329 | DoorDash | DashMart Team Member - East Memphis | Memphis, TN | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7163454) |
 | 329 | DoorDash | DashMart Team Member - North Sacramento | Sacramento, CA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7219523) |
 | 329 | DoorDash | DashMart Team Member - Tallmadge | Akron, OH | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6770099) |
@@ -2161,12 +2154,9 @@ Open positions: 2291
 | 329 | DoorDash | DashMart Variable Schedule Team Member | Morrow, GA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7616066) |
 | 329 | DoorDash | DashMart Variable Schedule Team Member | Tempe, AZ | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7436104) |
 | 329 | DoorDash | DashMart Team Member  - Sharon Hill | Sharon Hill, PA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6104302) |
-| 329 | DoorDash | DashMart Team Member  - Madison Park | Charlotte, NC | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5509004) |
 | 329 | DoorDash | DashMart Team Member - Lexington | Lexington, KY | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/4522583) |
 | 329 | DoorDash | DashMart Team Member - Millcreek | Millcreek, UT | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6119296) |
 | 329 | DoorDash | DashMart Team Member - University | Charlotte, NC | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5517406) |
-| 329 | DoorDash | DashMart Team Member - Deer Park | Newport News, VA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5593102) |
-| 329 | DoorDash | DashMart Team Member - East Norfolk | Norfolk, VA | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5705408) |
 | 329 | DoorDash | DashMart Team Member - Grandview | Columbus, OH | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6133069) |
 | 329 | DoorDash | Shift Lead - South Austin | Austin, TX | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6101593) |
 | 329 | DoorDash | Assistant Site Manager, Dashmart | Madison, WI | Jul 13, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8059915) |
@@ -2180,8 +2170,8 @@ Open positions: 2291
 | 329 | DoorDash | Shift Lead, Dashmart | Norfolk, VA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7517631) |
 | 329 | DoorDash | Shift Lead - Central Harlem | Philadelphia, PA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7368098) |
 | 329 | DoorDash | Shift Lead | Sterling Heights, MI | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7230365) |
-| 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5199080) |
 | 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7838799) |
+| 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5199080) |
 | 329 | DoorDash | Shift Lead - Eastside | Syracuse, New York | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7683334) |
 | 329 | DoorDash | Shift Lead - Underwood Hills | Atlanta, GA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7248556) |
 | 329 | DoorDash | Shift Lead - Ardmore | Winston-Salem, NC | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/4441674) |
@@ -2296,10 +2286,10 @@ Open positions: 2291
 | 357 | Airbnb | Product Program Manager, Roadmap Planning & Program Management | San Francisco, United States | May 28, 2026 | [Apply](https://careers.airbnb.com/positions/6557174?gh_jid=6557174) |
 | 329 | DoorDash | Senior Manager, Customer Experience Partner Success | New York, NY; San Francisco, CA; Phoenix, AZ | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7872005) |
 | 329 | DoorDash | Engineering Manager – Drive Growth & New Bets | Sunnyvale, CA; San Francisco, CA; Seattle, WA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7277325) |
-| 329 | DoorDash | Account Manager, CPG | New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7612643) |
-| 329 | DoorDash | Account Manager, CPG | New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7592588) |
-| 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7868596) |
 | 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7852785) |
+| 329 | DoorDash | Account Manager, CPG | New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7592588) |
+| 329 | DoorDash | Account Manager, CPG | New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7612643) |
+| 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7868596) |
 | 329 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) | San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | 329 | DoorDash | Associate, Drive | New York, NY; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7684729) |
 | 329 | DoorDash | Associate, Federal Affairs | Washington D.C. | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7950837) |
@@ -2332,7 +2322,6 @@ Open positions: 2291
 | 16 | NVIDIA | Senior Architect, SOC Modeling | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Architect--SOC-Modeling_JR2022003) |
 | 16 | NVIDIA | Global Immigration Specialist | US, CA, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Global-Immigration-Speciaist_JR2021601) |
 | 16 | NVIDIA | Senior Firmware Engineer -  Development, Verification and Infrastructure | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787) |
-| 16 | NVIDIA | Principal Firmware Engineer – Server Manageability and Observability | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Firmware-Engineer---Server-Manageability-and-Observability_JR2001996) |
 | 192 | Adobe | Senior AEM Co-Innovation Engineer | Remote Illinois | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Illinois/Senior-AEM-Co-Innovation-Engineer_R162937) |
 | 63 | Capital One | Principal Associate, Process Manager | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Associate--Process-Manager_R245735-1) |
 | 63 | Capital One | Full Time Branch Ambassador - NYC | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Time-Branch-Ambassador---NYC_R247750-1) |
@@ -2483,6 +2472,18 @@ Open positions: 2291
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Business Manager | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Business-Manager_R235130) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 112 | Northrop Grumman | Program Manager 3 | United States-Maryland-Elkton | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/Program-Manager-3_R10242376) |
+| 112 | Northrop Grumman | Firefighter 4 | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Firefighter-4_R10237781) |
+| 112 | Northrop Grumman | Program Cost Control Analyst | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Cost-Control-Analyst_R10242385) |
+| 112 | Northrop Grumman | Engineering Manager 1 | United States-Minnesota-Elk River | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Elk-River/Engineering-Manager-1_R10235850) |
+| 112 | Northrop Grumman | Principal Antenna Test Engineer | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Antenna-Test-Engineer_R10241057) |
+| 112 | Northrop Grumman | Antenna Test Engineer | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Antenna-Test-Engineer_R10241052) |
+| 112 | Northrop Grumman | Material Processor | United States-Maryland-Sykesville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Material-Processor_R10242141) |
+| 112 | Northrop Grumman | Administrative Assistant 4- Active Clearance Required | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Administrative-Assistant-4--Active-Clearance-Required_R10241674) |
+| 112 | Northrop Grumman | Engineer or Principal Engineer Navigation | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-or-Principal-Engineer-Navigation_R10242372) |
+| 112 | Northrop Grumman | Principal Project Management | United States-Maryland-Elkton | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/Principal-Project-Management_R10241998) |
+| 112 | Northrop Grumman | Quality Manager 1 - 1st Shift | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Quality-Manager-1---1st-Shift_R10241715) |
+| 112 | Northrop Grumman | Manager Quality 1 - 2nd Shift | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manager-Quality-1---2nd-Shift_R10241720) |
 | 112 | Northrop Grumman | Principal/Sr. Principal Engineer Electromechanical | United States-Virginia-Fairfax | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Principal-Sr-Principal-Engineer-Electromechanical_R10242187) |
 | 112 | Northrop Grumman | Tooling Engineer Energetics Manufacturing - level 2/3 | United States-Maryland-Elkton | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/Tooling-Engineer-Energetics-Manufacturing---level-2-3_R10241553) |
 | 112 | Northrop Grumman | Information Systems Project Manager 3/4 | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Information-Systems-Project-Manager-3-4_R10241531) |
@@ -2530,7 +2531,6 @@ Open positions: 2291
 | 112 | Northrop Grumman | Sentinel - Command Systems - Integration & Test Program Manager 3 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Command-Systems---Integration---Test-Program-Manager-3_R10241892) |
 | 112 | Northrop Grumman | Assembler | United States-New York-Buffalo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Assembler_R10242228) |
 | 112 | Northrop Grumman | Assembler 3 | United States-New York-Buffalo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Assembler-3_R10242231) |
-| 112 | Northrop Grumman | Flight Test Technician 4 | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Flight-Test-Technician-4_R10233651) |
 | 112 | Northrop Grumman | Cyber Systems Administrator (Active TS-SCI clearance) | United States-Florida-Tampa | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/Cyber-Systems-Administrator--Active-TS-SCI-clearance-_R10231611) |
 | 112 | Northrop Grumman | Principal Systems Modeling Simulation Engineer – Global Algo Engr (26-282) | United States-Colorado-Colorado Springs | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Principal-Systems-Modeling-Simulation-Engineer---Global-Algo-Engr--26-282-_R10242085) |
 | 112 | Northrop Grumman | Sentinel Test Engineering Manager 2 (15234-1) | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Test-Engineering-Manager-2--15234-1-_R10241792) |
@@ -2802,7 +2802,6 @@ Open positions: 2291
 | 112 | Northrop Grumman | Principal / Sr Principal Flying Test Bed LCS Analyst/Architect | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal---Sr-Principal-Flying-Test-Bed-LCS-Analyst-Architect_R10237706) |
 | 112 | Northrop Grumman | Manager Programs 2 | United States-Colorado-Colorado Springs | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Manager-Programs-2_R10241296-1) |
 | 112 | Northrop Grumman | Sentinel Systems Safety Engineer - 17922* | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Systems-Engineer---17922_R10235626) |
-| 112 | Northrop Grumman | Material Estimating Pricing Analyst | United States-West Virginia-Rocket Center | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Material-Estimating-Pricing-Analyst_R10230369) |
 | 112 | Northrop Grumman | Sr. Principal Digital Signal Processing Engineer | United States-Ohio-Cincinnati | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Sr-Principal-Digital-Signal-Processing-Engineer_R10241310) |
 | 112 | Northrop Grumman | Staff Digital Signal Processing Engineer | United States-Ohio-Cincinnati | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Staff-Digital-Signal-Processing-Engineer_R10241306) |
 | 112 | Northrop Grumman | Sentinel Aero-Fluids Manager 2 - 19102 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Aero-Fluids-Manager-2---19102_R10241305-1) |
@@ -3089,7 +3088,6 @@ Open positions: 2291
 | 112 | Northrop Grumman | Bonder Metal or Composite 2 | United States-California-El Segundo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Bonder-Metal-or-Composite-2_R10229811) |
 | 112 | Northrop Grumman | Staff Digital Engineer | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Staff-Digital-Engineer_R10237138) |
 | 112 | Northrop Grumman | Sr Principal Technical Editor and Writer | United States-Florida-Saint Augustine | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/Sr-Principal-Technical-Editor-and-Writer_R10238046) |
-| 112 | Northrop Grumman | Production Operator - Level 1 | United States-North Carolina-Charlotte | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Charlotte/Production-Operator---Level-1_R10240050) |
 | 112 | Northrop Grumman | Staff Systems Architect Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Systems-Architect-Engineer_R10239792) |
 | 112 | Northrop Grumman | Program Planning and Scheduling Analyst - Level 2 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-2_R10240030) |
 | 112 | Northrop Grumman | Manager Programs 2 | United States-California-Camarillo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/Manager-Programs-2_R10240019) |
@@ -3880,7 +3878,6 @@ Open positions: 2291
 | 112 | Northrop Grumman | Missile Embedded DevSecOps Lead Level 4 (AHT) | United States-California-Northridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Missile-Embedded-DevSecOps-Lead-Level-4--AHT-_R10234997) |
 | 112 | Northrop Grumman | Specialty Engineering Manager 2 | United States-California-Azusa | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Specialty-Engineering-Manager-2_R10235183) |
 | 112 | Northrop Grumman | 2026 Associate Program Planning & Scheduling Analyst/Program Planning & Scheduling Analyst | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Program-Planning---Scheduling-Analyst-Program-Planning---Scheduling-Analyst_R10231952) |
-| 112 | Northrop Grumman | Sr Principal Public Relations Representative (International) | United States-Virginia-Falls Church | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Sr-Principal-Public-Relations-Representative--International-_R10235455) |
 | 112 | Northrop Grumman | Manager Tool Die Making 2 | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Manager-Tool-Die-Making-2_R10235044) |
 | 112 | Northrop Grumman | Numerical Control Program | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Numerical-Control-Program_R10234865) |
 | 112 | Northrop Grumman | Test Engineer | United States-Waynesboro-Virginia | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Waynesboro-Virginia/Test-Engineer_R10235262) |
@@ -4035,7 +4032,6 @@ Open positions: 2291
 | 112 | Northrop Grumman | Missile Development Program Manager 3 | United States-California-Northridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Program-Manager-3_R10233144) |
 | 112 | Northrop Grumman | Supplier/Principal Supplier Mission Assurance Engineer - 18812 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Supplier-Principal-Supplier-Mission-Assurance-Engineer---18812_R10233557) |
 | 112 | Northrop Grumman | Principal/Senior Principal Engineer - Survivability (Edwards AFB) | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Principal-Senior-Principal-Engineer---Survivability--Edwards-AFB-_R10233900) |
-| 112 | Northrop Grumman | Project Management/Principal Project Management | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Project-Management-Principal-Project-Management_R10233287) |
 | 112 | Northrop Grumman | Business Planning Analyst level 2/3 | United States-West Virginia-Rocket Center | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Business-Planning-Analyst-level-2-3_R10233825) |
 | 112 | Northrop Grumman | Sr Staff Engineer Signal Processing | United States-California-McClellan | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Sr-Staff-Engineer-Signal-Processing_R10230410-1) |
 | 112 | Northrop Grumman | Non Destructive Test Technician (NDT)  – Level 2 or Level 3 | United States-Utah-Corinne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Non-Destructive-Test-Technician--NDT-----Level-2-or-Level-3_R10233804-1) |
@@ -4212,13 +4208,11 @@ Open positions: 2291
 | 112 | Northrop Grumman | E-6B IMMC SCA Aircraft Mechanic 3 - Structures | United States-Louisiana-Lake Charles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/E-6B-IMMC-SCA-Aircraft-Mechanic-3---Structures_R10215358) |
 | 112 | Northrop Grumman | Principal Program Cost and Schedule Control Analyst | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Cost-and-Schedule-Control-Analyst_R10224481) |
 | 112 | Northrop Grumman | Sentinel - Principal Configuration Analyst - 16500 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Principal-Configuration-Analyst---16500_R10229283) |
-| 112 | Northrop Grumman | Sr Principal Engineer Mission Assurance | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Sr-Principal-Engineer-Mission-Assurance_R10228336) |
 | 112 | Northrop Grumman | Principal Engineer Mission Assurance | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Principal-Engineer-Mission-Assurance_R10228965-2) |
 | 112 | Northrop Grumman | Principal Program Cost and Schedule Control Analyst | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Cost-and-Schedule-Control-Analyst_R10224204) |
 | 112 | Northrop Grumman | Principal Program Planning and Scheduling Analyst | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Planning-and-Scheduling-Analyst_R10226875) |
 | 112 | Northrop Grumman | FPGA Design Engineer (Level 3 or 4) | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/FPGA-Design-Engineer--Level-3-or-4-_R10229306) |
 | 112 | Northrop Grumman | Sr Principal Program Cost and Schedule Control Analyst | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Program-Cost-and-Schedule-Control-Analyst_R10229144) |
-| 112 | Northrop Grumman | SDS Director of Programs 1 – Production Master Planner | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/SDS-Director-of-Programs-1---Production-Master-Planner_R10229080-1) |
 | 112 | Northrop Grumman | Staff Test Engineer Instrumentation | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Test-Engineer-Instrumentation_R10227927) |
 | 112 | Northrop Grumman | Manager Program Control 2 | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Manager-Program-Control-2_R10228890) |
 | 112 | Northrop Grumman | NDI Tech / Flight Inspector | United States-North Dakota-Emerado | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/NDI-Tech---Flight-Inspector_R10228325) |
@@ -4288,5 +4282,7 @@ Open positions: 2291
 | 112 | Northrop Grumman | Full Rate Machinist(Off Shift) | United States-West Virginia-Rocket Center | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Full-Rate-Machinist-Off-Shift-_R10211848) |
 | 112 | Northrop Grumman | F-35 Program Manager RIO Manager 3 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/F-35-Program-Manager-RIO-Manager-3_R10211140-1) |
 | 112 | Northrop Grumman | Composite Bonder Technician 2 | United States-Utah-Clearfield | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Composite-Bonder-Technician-2_R10191491-1) |
-| 141 | Mastercard | Manager, Strategy Pricing & Interchange | Purchase, New York | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--Strategy-Pricing---Interchange_R-286462) |
+| 141 | Mastercard | Senior Physical Security Administrator | O'Fallon, Missouri | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Senior-Physical-Security-Administrator_R-281193) |
 | 141 | Mastercard | Director, Platform Engineering | O'Fallon, Missouri | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Director--Platform-Engineering_R-273321) |
+| 141 | Mastercard | Vice President, Public Policy | Washington, District of Columbia | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Washington-District-of-Columbia/Vice-President--Public-Policy_R-271615) |
+| 141 | Mastercard | Manager, People Business Partner | Purchase, New York | — | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Manager--People-Business-Partner_R-279369) |
