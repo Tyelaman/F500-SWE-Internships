@@ -2,7 +2,7 @@
 
 An automatically updated collection of positions from supported Fortune 500 company career pages.
 
-**Last updated:** July 27, 2026 at 01:42 UTC
+**Last updated:** July 27, 2026 at 01:53 UTC
 
 **Internships:** 0  
 **Full-time positions:** 480  

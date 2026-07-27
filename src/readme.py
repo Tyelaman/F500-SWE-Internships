@@ -17,8 +17,8 @@ def clean_markdown(text: str) -> str:
 
 def create_job_table(jobs: list[Job]) -> str:
     lines = [
-        "| Rank | Company | Position | Location | Apply |",
-        "|---:|---|---|---|---|",
+        "| Rank | Company | Position | Location | Updated | Apply |",
+        "|---:|---|---|---|---|---|",
     ]
 
     for job in jobs:
@@ -26,19 +26,21 @@ def create_job_table(jobs: list[Job]) -> str:
         title = clean_markdown(job.title)
         location = clean_markdown(job.location)
         apply_link = f"[Apply]({job.url})"
+        updated = format_updated_at(job.updated_at)
 
         row = (
             f"| {job.fortune_rank} "
             f"| {company} "
             f"| {title} "
             f"| {location} "
+            f"| {updated} "
             f"| {apply_link} |"
         )
 
         lines.append(row)
 
     if not jobs:
-        lines.append("| — | — | No positions found | — | — |")
+        lines.append("| — | — | No positions found | — | — | — |")
 
     return "\n".join(lines)
 
@@ -55,8 +57,15 @@ def generate_markdown_files(jobs: list[Job]) -> None:
         elif job.employment_type == "full-time":
             full_time_jobs.append(job)
 
-    internships.sort(key=lambda job: (job.fortune_rank, job.company, job.title))
-    full_time_jobs.sort(key=lambda job: (job.fortune_rank, job.company, job.title))
+    internships.sort(
+        key=lambda job: parse_updated_at(job.updated_at),
+        reverse=True,
+    )
+
+    full_time_jobs.sort(
+        key=lambda job: parse_updated_at(job.updated_at),
+        reverse=True,
+    )
 
     updated_at = datetime.now(timezone.utc).strftime("%B %d, %Y at %H:%M UTC")
 
@@ -92,3 +101,23 @@ def generate_markdown_files(jobs: list[Job]) -> None:
     INTERNSHIPS_PATH.write_text(internships_content, encoding="utf-8")
     FULL_TIME_PATH.write_text(full_time_content, encoding="utf-8")
     README_PATH.write_text(readme_content, encoding="utf-8")
+
+def parse_updated_at(value: str) -> datetime:
+    if not value:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+
+def format_updated_at(value: str) -> str:
+    if not value:
+        return "—"
+
+    try:
+        updated_at = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return updated_at.strftime("%b %d, %Y")
+    except ValueError:
+        return "—"

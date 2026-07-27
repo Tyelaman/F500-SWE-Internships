@@ -11,6 +11,8 @@ class Job:
     source: str
     external_id: str
     employment_type: str
+    updated_at: str = ""
+    first_seen_at: str = ""
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -26,4 +28,6 @@ class Job:
             source=data["source"],
             external_id=data["external_id"],
             employment_type=data["employment_type"],
+            updated_at=data.get("updated_at", ""),
+            first_seen_at=data.get("first_seen_at", ""),
         )

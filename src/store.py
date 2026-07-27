@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from datetime import datetime, timezone
 
 from src.models import Job
 
@@ -30,3 +31,29 @@ def load_jobs() -> list[Job]:
         jobs.append(Job.from_dict(data))
 
     return jobs
+
+def merge_jobs(
+    collected_jobs: list[Job],
+    existing_jobs: list[Job],
+) -> list[Job]:
+    existing_by_id = {}
+
+    for job in existing_jobs:
+        key = f"{job.source}:{job.external_id}"
+        existing_by_id[key] = job
+
+    now = datetime.now(timezone.utc).isoformat()
+    merged_jobs = []
+
+    for job in collected_jobs:
+        key = f"{job.source}:{job.external_id}"
+        existing_job = existing_by_id.get(key)
+
+        if existing_job is not None:
+            job.first_seen_at = existing_job.first_seen_at or now
+        else:
+            job.first_seen_at = now
+
+        merged_jobs.append(job)
+
+    return merged_jobs

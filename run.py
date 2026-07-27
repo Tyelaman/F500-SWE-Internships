@@ -2,25 +2,31 @@ import sys
 
 from src.readme import generate_markdown_files
 from src.pipeline import collect_jobs
-from src.store import load_jobs, save_jobs
+from src.store import load_jobs, merge_jobs, save_jobs
 
 
 def update():
     print("Starting job update...")
 
-    jobs = collect_jobs()
+    existing_jobs = load_jobs()
+    collected_jobs = collect_jobs()
+
+    if not collected_jobs:
+        print("No jobs were collected.")
+        print("Existing job data and Markdown files were not changed.")
+        return
+
+    jobs = merge_jobs(collected_jobs, existing_jobs)
 
     save_jobs(jobs)
     generate_markdown_files(jobs)
 
-    saved_jobs = load_jobs()
-
-    print(f"Saved {len(saved_jobs)} jobs.")
+    print(f"Saved {len(jobs)} jobs.")
     print("Generated README.md")
     print("Generated jobs/internships.md")
     print("Generated jobs/full-time.md")
 
-    for job in saved_jobs[:5]:
+    for job in jobs[:5]:
         print(
             f"{job.company} | "
             f"{job.title} | "

@@ -38,4 +38,5 @@ def normalize_greenhouse_job(
         source="greenhouse",
         external_id=str(raw_job.get("id", "")),
         employment_type=employment_type,
+        updated_at=raw_job.get("updated_at", ""),
     )
