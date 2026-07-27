@@ -1,11 +1,13 @@
 from datetime import datetime, timezone
 from pathlib import Path
+from src.companies import load_companies
 
 from src.models import Job
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 README_PATH = PROJECT_ROOT / "README.md"
+README_TEMPLATE_PATH = PROJECT_ROOT / "README_TEMPLATE.md"
 JOBS_DIRECTORY = PROJECT_ROOT / "jobs"
 INTERNSHIPS_PATH = JOBS_DIRECTORY / "internships.md"
 FULL_TIME_PATH = JOBS_DIRECTORY / "full-time.md"
@@ -141,19 +143,47 @@ def generate_markdown_files(jobs: list[Job]) -> None:
         f"{create_category_sections(full_time_jobs)}\n"
     )
 
+    companies = sorted(
+        load_companies(),
+        key=lambda company: company["fortune_rank"],
+    )
+
+    company_rows = "\n".join(
+        (
+            f"| {company['fortune_rank']} "
+            f"| {clean_markdown(company['name'])} "
+            f"| {company['source'].title()} |"
+        )
+        for company in companies
+    )
+
+    readme_template = README_TEMPLATE_PATH.read_text(
+        encoding="utf-8"
+    )
+
     readme_content = (
-        "# Fortune 500 Job Tracker\n\n"
-        "An automatically updated collection of positions from supported "
-        "Fortune 500 company career pages.\n\n"
-        f"**Last updated:** {updated_at}\n\n"
-        f"**Internships:** {len(internships)}  \n"
-        f"**Full-time positions:** {len(full_time_jobs)}  \n"
-        f"**Total positions:** {len(jobs)}\n\n"
-        "## Job Lists\n\n"
-        "- [Internships](jobs/internships.md)\n"
-        "- [Full-Time Positions](jobs/full-time.md)\n\n"
-        "Listings are collected from official company hiring platforms. "
-        "Always confirm that a position is still available before applying.\n"
+        readme_template
+        .replace("{{LAST_UPDATED}}", updated_at)
+        .replace(
+            "{{COMPANY_COUNT}}",
+            str(len(companies)),
+        )
+        .replace(
+            "{{INTERNSHIP_COUNT}}",
+            str(len(internships)),
+        )
+        .replace(
+            "{{FULL_TIME_COUNT}}",
+            str(len(full_time_jobs)),
+        )
+        .replace(
+            "{{TOTAL_COUNT}}",
+            str(len(jobs)),
+        )
+        .replace(
+            "{{COMPANY_ROWS}}",
+            company_rows,
+        )
     )
 
     INTERNSHIPS_PATH.write_text(internships_content, encoding="utf-8")
