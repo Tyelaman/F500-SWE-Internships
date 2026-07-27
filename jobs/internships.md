@@ -1,8 +1,8 @@
 # Fortune 500 Internships
 
-Last updated: July 27, 2026 at 05:28 UTC
+Last updated: July 27, 2026 at 12:59 UTC
 
-Open internships: 3
+Open internships: 5
 
 ## Sales & Marketing
 
@@ -14,9 +14,11 @@ Open positions: 1
 
 ## Other
 
-Open positions: 2
+Open positions: 4
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
-| 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Toronto, Ontario , Canada | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) |
+| 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 63 | Capital One | Current PhD - Data Science Internship - Summer 2027 | 8 Locations | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2027_R244287-1) |
+| 63 | Capital One | Current Master's - Data Science Internship - Summer 2027 | 8 Locations | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) |
