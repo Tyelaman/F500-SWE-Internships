@@ -22,5 +22,11 @@
     "fortune_rank": 357,
     "source": "greenhouse",
     "identifier": "airbnb"
+  },
+  {
+  "name": "Workday",
+  "fortune_rank": 430,
+  "source": "workday",
+  "identifier": "https://workday.wd5.myworkdayjobs.com/en-US/Workday"
   }
 ]
