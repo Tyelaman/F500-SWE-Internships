@@ -1,24 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: July 28, 2026 at 08:54 UTC
+Last updated: July 28, 2026 at 14:40 UTC
 
-Open internships: 3
+Open internships: 2
 
 ## Categories
 
-[Software & IT (1)](#software-it) · [Other (2)](#other)
-
-<a id="software-it"></a>
-
-## Software & IT
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Returning Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) |
-
-[Back to categories](#categories)
+[Other (2)](#other)
 
 <a id="other"></a>
 
