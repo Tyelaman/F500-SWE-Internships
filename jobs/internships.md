@@ -1,24 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: July 29, 2026 at 19:45 UTC
+Last updated: July 30, 2026 at 03:30 UTC
 
-Open internships: 3
+Open internships: 2
 
 ## Categories
 
-[Software & IT (1)](#software-it) · [Other (2)](#other)
-
-<a id="software-it"></a>
-
-## Software & IT
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 88 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) |
-
-[Back to categories](#categories)
+[Other (2)](#other)
 
 <a id="other"></a>
 
