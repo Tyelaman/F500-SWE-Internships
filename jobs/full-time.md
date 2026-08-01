@@ -1,6 +1,6 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 01, 2026 at 13:57 UTC
+Last updated: August 01, 2026 at 19:36 UTC
 
 Open full-time positions: 4992
 
@@ -264,6 +264,7 @@ Open positions: 1013
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Go, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Go--AWS-_R238739-1) |
 | 63 | Capital One | Principal Associate - Software Engineering | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineering_R237903-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R231925-1) |
+| 112 | Northrop Grumman | Systems Engineer Level 2/ 3 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2--3_R10241613) |
 | 112 | Northrop Grumman | Staff Systems Engineer – Systems Analyst (26-348) | United States-Colorado-Colorado Springs | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Staff-Systems-Engineer---Systems-Analyst--26-348-_R10243305) |
 | 112 | Northrop Grumman | Software Quality Assurance Manager 2 | United States-California-Northridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Quality-Assurance-Manager-2_R10243221) |
 | 112 | Northrop Grumman | Systems Engineer - Level 2 or 3 | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Principal-Engineer-Systems_R10243207) |
@@ -429,7 +430,6 @@ Open positions: 1013
 | 112 | Northrop Grumman | Systems Engineer: Electrical | United States-Arizona-Chandler | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Systems-Engineer--Electrical_R10241556-1) |
 | 112 | Northrop Grumman | Systems Engineer - TRMC IFC (Principal or Senior Principal) | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer---TRMC-IFC--Principal-or-Senior-Principal-_R10241253) |
 | 112 | Northrop Grumman | Cyber Systems Engineer / Principal Cyber Systems Engineer (AHT) | United States-California-Manhattan Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Cyber-Systems-Engineer---Principal-Cyber-Systems-Engineer--AHT-_R10241619) |
-| 112 | Northrop Grumman | Systems Engineer Level 2/ 3 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Systems-Engineer-Level-2--3_R10241613) |
 | 112 | Northrop Grumman | Sr Principal Cyber Systems Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Sr-Principal-Cyber-Systems-Engineer_R10238907) |
 | 112 | Northrop Grumman | Sr Principal Embedded Software Engineer | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Embedded-Software-Engineer_R10237534) |
 | 112 | Northrop Grumman | Staff Embedded Software Engineer | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Staff-Embedded-Software-Engineer_R10240666) |
@@ -2717,6 +2717,7 @@ Open positions: 2873
 | 63 | Capital One | Senior Business Banker - Philadelphia Market | Philadelphia, PA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211) |
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 112 | Northrop Grumman | Engineering Program Manager Level 3 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Program-Manager-Level-3_R10243332) |
 | 112 | Northrop Grumman | Senior Principal Test Conductor | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Senior-Principal-Test-Conductor_R10243323) |
 | 112 | Northrop Grumman | Material Processor for Split Shift | United States-Maryland-Sykesville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Material-Processor-for-Split-Shift_R10242901) |
 | 112 | Northrop Grumman | Principal Technical Editor and Writer- Product Support | United States-North Dakota-Emerado | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/Principal-Technical-Editor-and-Writer--Product-Support_R10242261) |
@@ -4606,7 +4607,6 @@ Open positions: 2873
 | 47 | Boeing | Senior Structural Analysis Engineer – Interiors Stress | USA - North Charleston, SC | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Senior-Structural-Analysis-Engineer---Interiors-Stress_JR2026514618-1) |
 | 47 | Boeing | Test and Evaluation Engineering Manager | USA - Seattle, WA | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Test-and-Evaluation-Engineering-Manager_JR2026519346) |
 | 84 | HP | Enterprise Account Manager | All Cities, Colorado, United States of America | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-Colorado-United-States-of-America/Enterprise-Account-Manager_3166312-2) |
-| 84 | HP | Apprenti-e Responsable E-commerce B2B junior h/f | Meudon, Hauts-de-Seine, France | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Meudon-Hauts-de-Seine-France/Apprenti-e-Responsable-E-commerce-B2B-junior-h-f_3166616-1) |
 | 88 | Intel | CPU Physical Design Engineer | US, Texas, Austin | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Physical-Design-Engineer_JR0284360) |
 | 88 | Intel | CPU Memory Design Engineer | US, Texas, Austin | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Memory-Design-Engineer_JR0284351) |
 | 88 | Intel | CPU Memory Design Engineer | US, Texas, Austin | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-Memory-Design-Engineer_JR0284350-1) |

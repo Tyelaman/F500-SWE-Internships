@@ -11,7 +11,7 @@ Edit README_TEMPLATE.md instead of editing README.md directly.
 
 An automated Python pipeline that collects United States-based positions from Fortune 500 company career sites, normalizes postings from multiple hiring platforms, classifies them by employment type and job category, and publishes continuously updated Markdown and JSON job listings.
 
-**Last updated:** August 01, 2026 at 13:57 UTC
+**Last updated:** August 01, 2026 at 19:36 UTC
 
 ## Current listings
 
