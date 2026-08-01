@@ -1322,7 +1322,7 @@
     "external_id": "5279307008",
     "employment_type": "full-time",
     "category": "Product & Design",
-    "updated_at": "2026-08-01T04:25:37-04:00",
+    "updated_at": "2026-08-01T06:05:38-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1790,7 +1790,7 @@
     "external_id": "5282973008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-20T19:10:26-04:00",
+    "updated_at": "2026-08-01T06:41:06-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2297,7 +2297,7 @@
     "external_id": "5293278008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-08-01T04:25:33-04:00",
+    "updated_at": "2026-08-01T05:33:18-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2336,7 +2336,7 @@
     "external_id": "5278847008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-08-01T04:22:15-04:00",
+    "updated_at": "2026-08-01T05:33:18-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2375,7 +2375,7 @@
     "external_id": "5322098008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-08-01T04:27:28-04:00",
+    "updated_at": "2026-08-01T05:33:18-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2388,7 +2388,7 @@
     "external_id": "5375861008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-08-01T04:31:21-04:00",
+    "updated_at": "2026-08-01T05:33:18-04:00",
     "first_seen_at": "2026-07-31T03:52:17.072850+00:00"
   },
   {
@@ -9908,6 +9908,19 @@
   {
     "company": "NVIDIA",
     "fortune_rank": 16,
+    "title": "Distinguished Software Architect - Deep Learning and HPC Communications",
+    "location": "US, CA, Santa Clara",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127",
+    "source": "workday",
+    "external_id": "/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
+  },
+  {
+    "company": "NVIDIA",
+    "fortune_rank": 16,
     "title": "Manager, System Software Engineering - Factory",
     "location": "US, CA, Santa Clara",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--System-Software-Engineering---Factory_JR2021001",
@@ -10101,19 +10114,6 @@
     "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
   },
   {
-    "company": "NVIDIA",
-    "fortune_rank": 16,
-    "title": "Physical Design Engineer, Synthesis and Implementation",
-    "location": "US, MA, Westford",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1",
-    "source": "workday",
-    "external_id": "/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
     "company": "Salesforce",
     "fortune_rank": 114,
     "title": "Software Engineer (Backend) - MTS",
@@ -10242,6 +10242,19 @@
     "category": "Other",
     "updated_at": "",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
+  },
+  {
+    "company": "Capital One",
+    "fortune_rank": 63,
+    "title": "Principal Financial Analyst, International Markets Team",
+    "location": "Riverwoods, IL",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Principal-Financial-Analyst--International-Markets-Team_R248192-1",
+    "source": "workday",
+    "external_id": "/job/Riverwoods-IL/Principal-Financial-Analyst--International-Markets-Team_R248192-1",
+    "employment_type": "full-time",
+    "category": "Finance & Accounting",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
   },
   {
     "company": "Capital One",
@@ -10786,19 +10799,6 @@
     "external_id": "/job/New-York-NY/Lead-Machine-Learning-Engineer--Card-Tech_R246242-1",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "",
-    "first_seen_at": "2026-07-29T14:35:25.718867+00:00"
-  },
-  {
-    "company": "Capital One",
-    "fortune_rank": 63,
-    "title": "Principal Financial Analyst, International Markets Team",
-    "location": "Riverwoods, IL",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Principal-Financial-Analyst--International-Markets-Team_R247915-1",
-    "source": "workday",
-    "external_id": "/job/Riverwoods-IL/Principal-Financial-Analyst--International-Markets-Team_R247915-1",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
     "updated_at": "",
     "first_seen_at": "2026-07-29T14:35:25.718867+00:00"
   },
@@ -12565,19 +12565,6 @@
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Front-End_R246678-1",
     "source": "workday",
     "external_id": "/job/McLean-VA/Lead-Software-Engineer--Front-End_R246678-1",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "",
-    "first_seen_at": "2026-07-27T12:59:18.968046+00:00"
-  },
-  {
-    "company": "Capital One",
-    "fortune_rank": 63,
-    "title": "Sr. Lead Software Engineer (Java, Golang, AWS)",
-    "location": "Plano, TX",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Sr-Lead-Software-Engineer--Java--Golang--AWS-_R246926-2",
-    "source": "workday",
-    "external_id": "/job/Plano-TX/Sr-Lead-Software-Engineer--Java--Golang--AWS-_R246926-2",
     "employment_type": "full-time",
     "category": "Software & IT",
     "updated_at": "",
@@ -15572,6 +15559,19 @@
     "category": "Software & IT",
     "updated_at": "",
     "first_seen_at": "2026-07-27T12:59:18.968046+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "fortune_rank": 112,
+    "title": "Staff Systems Engineer \u2013 Systems Analyst (26-348)",
+    "location": "United States-Colorado-Colorado Springs",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Staff-Systems-Engineer---Systems-Analyst--26-348-_R10243305",
+    "source": "workday",
+    "external_id": "/job/United-States-Colorado-Colorado-Springs/Staff-Systems-Engineer---Systems-Analyst--26-348-_R10243305",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -56409,6 +56409,45 @@
   {
     "company": "Boeing",
     "fortune_rank": 47,
+    "title": "Associate Help Desk Technician",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "source": "workday",
+    "external_id": "/job/USA---Berkeley-MO/Associate-Help-Desk-Technician_JR2026503880-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
+  },
+  {
+    "company": "Boeing",
+    "fortune_rank": 47,
+    "title": "Windows Systems Administrator (Associate or Mid-Level)",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Windows-Systems-Administrator--Associate-or-Mid-Level-_JR2026511568-2",
+    "source": "workday",
+    "external_id": "/job/USA---Berkeley-MO/Windows-Systems-Administrator--Associate-or-Mid-Level-_JR2026511568-2",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
+  },
+  {
+    "company": "Boeing",
+    "fortune_rank": 47,
+    "title": "Windows Systems Administrator (Mid-Level or Senior)",
+    "location": "USA - Berkeley, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Windows-Systems-Administrator--Mid-Level-or-Senior-_JR2026504982-1",
+    "source": "workday",
+    "external_id": "/job/USA---Berkeley-MO/Windows-Systems-Administrator--Mid-Level-or-Senior-_JR2026504982-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
+  },
+  {
+    "company": "Boeing",
+    "fortune_rank": 47,
     "title": "Structural Analysis Engineer (Associate or Mid- Level)",
     "location": "USA - North Charleston, SC",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Structural-Analysis-Engineer--Associate-or-Mid--Level-_JR2026514263-1",
@@ -56739,71 +56778,6 @@
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Test-and-Evaluation-Engineering-Manager_JR2026519346",
     "source": "workday",
     "external_id": "/job/USA---Seattle-WA/Test-and-Evaluation-Engineering-Manager_JR2026519346",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Design Engineer (Associate, Experienced, or Senior)",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Design-Engineer--Associate--Experienced--or-Senior-_JR2026520897-1",
-    "source": "workday",
-    "external_id": "/job/USA---El-Segundo-CA/Design-Engineer--Associate--Experienced--or-Senior-_JR2026520897-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Experienced Software Engineer \u2013 Vehicle Management Systems",
-    "location": "USA - Seal Beach, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Software-Engineer---Vehicle-Management-Systems_JR2026516293-1",
-    "source": "workday",
-    "external_id": "/job/USA---Seal-Beach-CA/Experienced-Software-Engineer---Vehicle-Management-Systems_JR2026516293-1",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Senior Network Architect **Sign on Bonus Potential**",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Network-Architect---Sign-on-Bonus-Potential--_JR2026520877",
-    "source": "workday",
-    "external_id": "/job/USA---Berkeley-MO/Senior-Network-Architect---Sign-on-Bonus-Potential--_JR2026520877",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Experienced Support Engineering Data Specialist",
-    "location": "USA - Daytona Beach, FL",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Experienced-Support-Engineering-Data-Specialist_JR2026520763",
-    "source": "workday",
-    "external_id": "/job/USA---Daytona-Beach-FL/Experienced-Support-Engineering-Data-Specialist_JR2026520763",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Mid-Level Video Conferencing and Multimedia Technician **Sign on Bonus Potential**",
-    "location": "USA - Berkeley, MO",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mid-Level-Video-Conferencing-and-Multimedia-Technician---Sign-on-Bonus-Potential--_JR2026513048-2",
-    "source": "workday",
-    "external_id": "/job/USA---Berkeley-MO/Mid-Level-Video-Conferencing-and-Multimedia-Technician---Sign-on-Bonus-Potential--_JR2026513048-2",
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "",
@@ -57315,6 +57289,19 @@
     "category": "Data & AI",
     "updated_at": "",
     "first_seen_at": "2026-07-30T08:53:32.247347+00:00"
+  },
+  {
+    "company": "Micron Technology",
+    "fortune_rank": 125,
+    "title": "CAD Engineer",
+    "location": "Richardson, TX",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/CAD-Engineer_JR103696",
+    "source": "workday",
+    "external_id": "/job/Richardson-TX/CAD-Engineer_JR103696",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T13:57:44.645439+00:00"
   },
   {
     "company": "Micron Technology",
