@@ -620,7 +620,7 @@
     "external_id": "5367290008",
     "employment_type": "full-time",
     "category": "People & Legal",
-    "updated_at": "2026-07-31T07:16:53-04:00",
+    "updated_at": "2026-08-01T04:29:51-04:00",
     "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
   },
   {
@@ -646,7 +646,7 @@
     "external_id": "5115890008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-24T14:32:56-04:00",
+    "updated_at": "2026-08-01T04:15:09-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -657,6 +657,19 @@
     "url": "http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008",
     "source": "greenhouse",
     "external_id": "5232001008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-07-20T19:10:26-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Business Development Rep Associate",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008",
+    "source": "greenhouse",
+    "external_id": "5232007008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-07-20T19:10:26-04:00",
@@ -692,23 +705,10 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Business Development Rep Associate",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008",
+    "location": "Scottsdale, AZ, United States of America",
+    "url": "http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008",
     "source": "greenhouse",
-    "external_id": "5232007008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-20T19:10:26-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Business Development Rep Associate",
-    "location": "Atlanta, GA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008",
-    "source": "greenhouse",
-    "external_id": "5231999008",
+    "external_id": "5232002008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-07-20T19:10:26-04:00",
@@ -731,10 +731,10 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Business Development Rep Associate",
-    "location": "Scottsdale, AZ, United States of America",
-    "url": "http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008",
+    "location": "Atlanta, GA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008",
     "source": "greenhouse",
-    "external_id": "5232002008",
+    "external_id": "5231999008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-07-20T19:10:26-04:00",
@@ -763,7 +763,7 @@
     "external_id": "5183572008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:00:49-04:00",
+    "updated_at": "2026-08-01T04:17:50-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -776,72 +776,7 @@
     "external_id": "5225220008",
     "employment_type": "full-time",
     "category": "People & Legal",
-    "updated_at": "2026-07-31T07:05:15-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Detroit, MI, United States of America",
-    "url": "http://block.xyz/careers/jobs/5229662008?gh_jid=5229662008",
-    "source": "greenhouse",
-    "external_id": "5229662008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Minneapolis, MN, United States of America",
-    "url": "http://block.xyz/careers/jobs/5229650008?gh_jid=5229650008",
-    "source": "greenhouse",
-    "external_id": "5229650008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Oklahoma City, OK, United States of America",
-    "url": "http://block.xyz/careers/jobs/5229669008?gh_jid=5229669008",
-    "source": "greenhouse",
-    "external_id": "5229669008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Pittsburgh, PA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5229663008?gh_jid=5229663008",
-    "source": "greenhouse",
-    "external_id": "5229663008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Indianapolis, IN, United States of America",
-    "url": "http://block.xyz/careers/jobs/5229653008?gh_jid=5229653008",
-    "source": "greenhouse",
-    "external_id": "5229653008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
+    "updated_at": "2026-08-01T04:20:46-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -854,7 +789,59 @@
     "external_id": "5229655008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Indianapolis, IN, United States of America",
+    "url": "http://block.xyz/careers/jobs/5229653008?gh_jid=5229653008",
+    "source": "greenhouse",
+    "external_id": "5229653008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Oklahoma City, OK, United States of America",
+    "url": "http://block.xyz/careers/jobs/5229669008?gh_jid=5229669008",
+    "source": "greenhouse",
+    "external_id": "5229669008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Pittsburgh, PA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5229663008?gh_jid=5229663008",
+    "source": "greenhouse",
+    "external_id": "5229663008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Detroit, MI, United States of America",
+    "url": "http://block.xyz/careers/jobs/5229662008?gh_jid=5229662008",
+    "source": "greenhouse",
+    "external_id": "5229662008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -867,20 +854,7 @@
     "external_id": "5229661008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Director of Field Sales, Central Region",
-    "location": "Chicago, IL, United States of America",
-    "url": "http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008",
-    "source": "greenhouse",
-    "external_id": "5199100008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
+    "updated_at": "2026-08-01T04:19:05-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -893,7 +867,33 @@
     "external_id": "5229648008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:02:19-04:00",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Chicago, IL, United States of America",
+    "url": "http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008",
+    "source": "greenhouse",
+    "external_id": "5199100008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Director of Field Sales, Central Region",
+    "location": "Minneapolis, MN, United States of America",
+    "url": "http://block.xyz/careers/jobs/5229650008?gh_jid=5229650008",
+    "source": "greenhouse",
+    "external_id": "5229650008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:19:05-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -906,7 +906,7 @@
     "external_id": "5265109008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:06:56-04:00",
+    "updated_at": "2026-08-01T04:22:06-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -945,7 +945,7 @@
     "external_id": "5364976008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:13:53-04:00",
+    "updated_at": "2026-08-01T04:27:02-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -958,7 +958,7 @@
     "external_id": "5318292008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:14:27-04:00",
+    "updated_at": "2026-08-01T04:27:35-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -984,7 +984,7 @@
     "external_id": "5294486008",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-31T07:14:01-04:00",
+    "updated_at": "2026-08-01T04:27:10-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -997,7 +997,7 @@
     "external_id": "5217611008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:03:06-04:00",
+    "updated_at": "2026-08-01T04:19:49-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1010,7 +1010,7 @@
     "external_id": "4809166008",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-31T06:54:15-04:00",
+    "updated_at": "2026-08-01T04:10:55-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1036,20 +1036,7 @@
     "external_id": "5218714008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:03:33-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Legal Systems Engineer",
-    "location": "San Francisco, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5195925008?gh_jid=5195925008",
-    "source": "greenhouse",
-    "external_id": "5195925008",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:07-04:00",
+    "updated_at": "2026-08-01T04:20:12-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1062,7 +1049,20 @@
     "external_id": "5195926008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:07-04:00",
+    "updated_at": "2026-08-01T04:18:52-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Legal Systems Engineer",
+    "location": "San Francisco, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5195925008?gh_jid=5195925008",
+    "source": "greenhouse",
+    "external_id": "5195925008",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "2026-08-01T04:18:52-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1075,7 +1075,7 @@
     "external_id": "5287479008",
     "employment_type": "full-time",
     "category": "People & Legal",
-    "updated_at": "2026-07-31T07:12:42-04:00",
+    "updated_at": "2026-08-01T04:26:09-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1088,7 +1088,7 @@
     "external_id": "5348079008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:16:08-04:00",
+    "updated_at": "2026-08-01T04:29:09-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1101,7 +1101,7 @@
     "external_id": "5026064008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T06:55:59-04:00",
+    "updated_at": "2026-08-01T04:13:06-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1114,20 +1114,7 @@
     "external_id": "5286821008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:12:25-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Manager, Mid-Market Sales",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5267739008?gh_jid=5267739008",
-    "source": "greenhouse",
-    "external_id": "5267739008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T06:55:18-04:00",
+    "updated_at": "2026-08-01T04:25:58-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1140,7 +1127,20 @@
     "external_id": "5267748008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T06:55:18-04:00",
+    "updated_at": "2026-08-01T04:12:21-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Manager, Mid-Market Sales",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5267739008?gh_jid=5267739008",
+    "source": "greenhouse",
+    "external_id": "5267739008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:12:21-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1153,20 +1153,7 @@
     "external_id": "5258486008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:09:54-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Manager, SMB Sales",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008",
-    "source": "greenhouse",
-    "external_id": "5267743008",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T11:32:38-04:00",
+    "updated_at": "2026-08-01T04:24:42-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1179,7 +1166,20 @@
     "external_id": "5267747008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T11:32:38-04:00",
+    "updated_at": "2026-08-01T04:12:12-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Manager, SMB Sales",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008",
+    "source": "greenhouse",
+    "external_id": "5267743008",
+    "employment_type": "full-time",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-08-01T04:12:12-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1192,7 +1192,7 @@
     "external_id": "5247603008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:03:56-04:00",
+    "updated_at": "2026-08-01T04:20:20-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1212,10 +1212,10 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Mid-Market Account Executive ",
-    "location": "Boston, MA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008",
     "source": "greenhouse",
-    "external_id": "5282545008",
+    "external_id": "5310596008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-07-20T19:10:26-04:00",
@@ -1225,10 +1225,10 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Mid-Market Account Executive ",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008",
+    "location": "Boston, MA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008",
     "source": "greenhouse",
-    "external_id": "5310596008",
+    "external_id": "5282545008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-07-20T19:10:26-04:00",
@@ -1296,7 +1296,7 @@
     "external_id": "5358204008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:16:16-04:00",
+    "updated_at": "2026-08-01T04:29:16-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1309,7 +1309,7 @@
     "external_id": "5356588008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:06:13-04:00",
+    "updated_at": "2026-08-01T04:21:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1322,7 +1322,7 @@
     "external_id": "5279307008",
     "employment_type": "full-time",
     "category": "Product & Design",
-    "updated_at": "2026-07-31T07:11:19-04:00",
+    "updated_at": "2026-08-01T04:25:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1335,7 +1335,7 @@
     "external_id": "5281304008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:10:39-04:00",
+    "updated_at": "2026-08-01T04:25:15-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1348,7 +1348,7 @@
     "external_id": "5228520008",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
-    "updated_at": "2026-07-31T07:04:38-04:00",
+    "updated_at": "2026-08-01T04:20:23-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1361,7 +1361,7 @@
     "external_id": "4963850008",
     "employment_type": "full-time",
     "category": "Product & Design",
-    "updated_at": "2026-07-31T06:54:44-04:00",
+    "updated_at": "2026-08-01T04:11:42-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1374,7 +1374,7 @@
     "external_id": "5235913008",
     "employment_type": "full-time",
     "category": "Product & Design",
-    "updated_at": "2026-07-31T07:05:27-04:00",
+    "updated_at": "2026-08-01T04:20:58-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1387,7 +1387,7 @@
     "external_id": "5068977008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:56:07-04:00",
+    "updated_at": "2026-08-01T04:13:15-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1400,7 +1400,7 @@
     "external_id": "5230139008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:05:10-04:00",
+    "updated_at": "2026-08-01T04:20:42-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1413,7 +1413,7 @@
     "external_id": "5375187008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T06:59:30-04:00",
+    "updated_at": "2026-08-01T04:16:32-04:00",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
   },
   {
@@ -1439,7 +1439,7 @@
     "external_id": "5212159008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:03:17-04:00",
+    "updated_at": "2026-08-01T04:19:59-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1452,7 +1452,7 @@
     "external_id": "5340591008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:15:02-04:00",
+    "updated_at": "2026-08-01T04:28:07-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1465,7 +1465,7 @@
     "external_id": "4962872008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T06:54:51-04:00",
+    "updated_at": "2026-08-01T04:11:51-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1478,7 +1478,7 @@
     "external_id": "5281312008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T07:10:57-04:00",
+    "updated_at": "2026-08-01T04:25:22-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1491,7 +1491,7 @@
     "external_id": "5249776008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:06:13-04:00",
+    "updated_at": "2026-08-01T04:21:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1504,7 +1504,7 @@
     "external_id": "5370450008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:06:41-04:00",
+    "updated_at": "2026-08-01T04:21:56-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1517,7 +1517,7 @@
     "external_id": "5243440008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T07:06:04-04:00",
+    "updated_at": "2026-08-01T04:21:27-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1556,7 +1556,7 @@
     "external_id": "5116191008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:58:28-04:00",
+    "updated_at": "2026-08-01T04:15:33-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1569,7 +1569,7 @@
     "external_id": "5256694008",
     "employment_type": "full-time",
     "category": "Finance & Accounting",
-    "updated_at": "2026-07-31T07:07:31-04:00",
+    "updated_at": "2026-08-01T04:22:27-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1595,7 +1595,7 @@
     "external_id": "5365984008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:16:23-04:00",
+    "updated_at": "2026-08-01T04:29:23-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1615,19 +1615,6 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Senior Site Reliability Engineer",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008",
-    "source": "greenhouse",
-    "external_id": "5182994008",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "2026-07-20T19:10:26-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Senior Site Reliability Engineer",
     "location": "Bay Area, CA, United States of America",
     "url": "http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008",
     "source": "greenhouse",
@@ -1640,14 +1627,14 @@
   {
     "company": "Block",
     "fortune_rank": 191,
-    "title": "Senior Software Engineer, Cash App Taxes",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+    "title": "Senior Site Reliability Engineer",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008",
     "source": "greenhouse",
-    "external_id": "5196187008",
+    "external_id": "5182994008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:25-04:00",
+    "updated_at": "2026-07-20T19:10:26-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1660,7 +1647,20 @@
     "external_id": "5207134008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:25-04:00",
+    "updated_at": "2026-08-01T04:19:10-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Senior Software Engineer, Cash App Taxes",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+    "source": "greenhouse",
+    "external_id": "5196187008",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "2026-08-01T04:19:10-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1673,7 +1673,7 @@
     "external_id": "4989505008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T06:55:34-04:00",
+    "updated_at": "2026-08-01T04:12:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1686,7 +1686,7 @@
     "external_id": "5366105008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:12:01-04:00",
+    "updated_at": "2026-08-01T04:25:51-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1699,20 +1699,7 @@
     "external_id": "5281196008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:12:01-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Senior Software Engineer, Square Financial Services ",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008",
-    "source": "greenhouse",
-    "external_id": "5284343008",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "2026-07-31T07:12:54-04:00",
+    "updated_at": "2026-08-01T04:25:51-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1725,7 +1712,20 @@
     "external_id": "5284783008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:12:54-04:00",
+    "updated_at": "2026-08-01T04:26:16-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Senior Software Engineer, Square Financial Services ",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008",
+    "source": "greenhouse",
+    "external_id": "5284343008",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "2026-08-01T04:26:16-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1738,7 +1738,7 @@
     "external_id": "5172117008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T12:33:38-04:00",
+    "updated_at": "2026-08-01T04:14:51-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1751,7 +1751,7 @@
     "external_id": "5228394008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:59:22-04:00",
+    "updated_at": "2026-08-01T04:16:24-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1764,7 +1764,7 @@
     "external_id": "5175673008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:59:22-04:00",
+    "updated_at": "2026-08-01T04:16:24-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1777,7 +1777,7 @@
     "external_id": "5012351008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-24T14:32:51-04:00",
+    "updated_at": "2026-08-01T04:12:41-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1803,7 +1803,7 @@
     "external_id": "5374762008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:16:34-04:00",
+    "updated_at": "2026-08-01T04:29:33-04:00",
     "first_seen_at": "2026-07-30T03:30:26.385981+00:00"
   },
   {
@@ -1816,20 +1816,7 @@
     "external_id": "5358198008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:15:57-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Software Engineer, Cash App - Lending Products",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008",
-    "source": "greenhouse",
-    "external_id": "5196173008",
-    "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:29-04:00",
+    "updated_at": "2026-08-01T04:29:02-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1842,7 +1829,20 @@
     "external_id": "5201726008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:29-04:00",
+    "updated_at": "2026-08-01T04:19:13-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Software Engineer, Cash App - Lending Products",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008",
+    "source": "greenhouse",
+    "external_id": "5196173008",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "2026-08-01T04:19:13-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1855,7 +1855,7 @@
     "external_id": "5369941008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:14:37-04:00",
+    "updated_at": "2026-08-01T04:27:46-04:00",
     "first_seen_at": "2026-07-28T03:37:38.841763+00:00"
   },
   {
@@ -1868,7 +1868,7 @@
     "external_id": "5238423008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T06:54:28-04:00",
+    "updated_at": "2026-08-01T04:11:16-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1881,7 +1881,7 @@
     "external_id": "4884159008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T06:54:28-04:00",
+    "updated_at": "2026-08-01T04:11:16-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1894,7 +1894,7 @@
     "external_id": "4969342008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T06:55:02-04:00",
+    "updated_at": "2026-08-01T04:12:05-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1907,33 +1907,7 @@
     "external_id": "5248631008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T06:55:02-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Staff Data Analyst, Block Compliance",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
-    "source": "greenhouse",
-    "external_id": "5114747008",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "updated_at": "2026-07-31T06:57:07-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Staff Data Analyst, Block Compliance",
-    "location": "Bay Area, CA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
-    "source": "greenhouse",
-    "external_id": "5098519008",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "updated_at": "2026-07-31T06:57:07-04:00",
+    "updated_at": "2026-08-01T04:12:05-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1946,7 +1920,33 @@
     "external_id": "5114793008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T06:57:07-04:00",
+    "updated_at": "2026-08-01T04:14:12-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Staff Data Analyst, Block Compliance",
+    "location": "Bay Area, CA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
+    "source": "greenhouse",
+    "external_id": "5098519008",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "updated_at": "2026-08-01T04:14:12-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Staff Data Analyst, Block Compliance",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
+    "source": "greenhouse",
+    "external_id": "5114747008",
+    "employment_type": "full-time",
+    "category": "Data & AI",
+    "updated_at": "2026-08-01T04:14:12-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1959,7 +1959,7 @@
     "external_id": "5364922008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T06:59:14-04:00",
+    "updated_at": "2026-08-01T04:16:15-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -1972,7 +1972,7 @@
     "external_id": "5370444008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T07:05:19-04:00",
+    "updated_at": "2026-08-01T04:20:50-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2037,20 +2037,7 @@
     "external_id": "5366284008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T07:01:50-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Staff Product Data Scientist, Lending",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
-    "source": "greenhouse",
-    "external_id": "5366281008",
-    "employment_type": "full-time",
-    "category": "Data & AI",
-    "updated_at": "2026-07-31T07:01:50-04:00",
+    "updated_at": "2026-08-01T04:18:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2063,20 +2050,20 @@
     "external_id": "5192640008",
     "employment_type": "full-time",
     "category": "Data & AI",
-    "updated_at": "2026-07-31T07:01:50-04:00",
+    "updated_at": "2026-08-01T04:18:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
     "company": "Block",
     "fortune_rank": 191,
-    "title": "Staff Software Engineer, Cash App Banking",
+    "title": "Staff Product Data Scientist, Lending",
     "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
+    "url": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
     "source": "greenhouse",
-    "external_id": "5207148008",
+    "external_id": "5366281008",
     "employment_type": "full-time",
-    "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:02-04:00",
+    "category": "Data & AI",
+    "updated_at": "2026-08-01T04:18:37-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2089,7 +2076,20 @@
     "external_id": "5196194008",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-31T07:02:02-04:00",
+    "updated_at": "2026-08-01T04:18:48-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Staff Software Engineer, Cash App Banking",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
+    "source": "greenhouse",
+    "external_id": "5207148008",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "2026-08-01T04:18:48-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2102,7 +2102,7 @@
     "external_id": "4684349008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:54:11-04:00",
+    "updated_at": "2026-08-01T04:10:51-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2148,26 +2148,26 @@
     "company": "Block",
     "fortune_rank": 191,
     "title": "Strategic Programs Lead",
-    "location": "Seattle, WA, United States of America",
-    "url": "http://block.xyz/careers/jobs/5375085008?gh_jid=5375085008",
-    "source": "greenhouse",
-    "external_id": "5375085008",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-31T06:59:02-04:00",
-    "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Strategic Programs Lead",
     "location": "Los Angeles, CA, United States of America",
     "url": "http://block.xyz/careers/jobs/5375086008?gh_jid=5375086008",
     "source": "greenhouse",
     "external_id": "5375086008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:59:02-04:00",
+    "updated_at": "2026-08-01T04:16:03-04:00",
+    "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Strategic Programs Lead",
+    "location": "Seattle, WA, United States of America",
+    "url": "http://block.xyz/careers/jobs/5375085008?gh_jid=5375085008",
+    "source": "greenhouse",
+    "external_id": "5375085008",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-08-01T04:16:03-04:00",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
   },
   {
@@ -2180,7 +2180,7 @@
     "external_id": "5375079008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:59:02-04:00",
+    "updated_at": "2026-08-01T04:16:03-04:00",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
   },
   {
@@ -2193,21 +2193,8 @@
     "external_id": "5375080008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:59:02-04:00",
+    "updated_at": "2026-08-01T04:16:03-04:00",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
-  },
-  {
-    "company": "Block",
-    "fortune_rank": 191,
-    "title": "Tech Lead, Business Platform Engineering (Bizplat)",
-    "location": "New York, NY, United States of America",
-    "url": "http://block.xyz/careers/jobs/5311661008?gh_jid=5311661008",
-    "source": "greenhouse",
-    "external_id": "5311661008",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-31T06:56:03-04:00",
-    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
     "company": "Block",
@@ -2219,7 +2206,20 @@
     "external_id": "5025564008",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-31T06:56:03-04:00",
+    "updated_at": "2026-08-01T04:13:10-04:00",
+    "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
+  },
+  {
+    "company": "Block",
+    "fortune_rank": 191,
+    "title": "Tech Lead, Business Platform Engineering (Bizplat)",
+    "location": "New York, NY, United States of America",
+    "url": "http://block.xyz/careers/jobs/5311661008?gh_jid=5311661008",
+    "source": "greenhouse",
+    "external_id": "5311661008",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-08-01T04:13:10-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2245,7 +2245,7 @@
     "external_id": "5371615008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:16:49-04:00",
+    "updated_at": "2026-08-01T04:29:47-04:00",
     "first_seen_at": "2026-07-27T19:58:09.657947+00:00"
   },
   {
@@ -2258,7 +2258,7 @@
     "external_id": "5276748008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:11:02-04:00",
+    "updated_at": "2026-08-01T04:25:26-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2271,7 +2271,7 @@
     "external_id": "5370001008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:17:13-04:00",
+    "updated_at": "2026-08-01T04:30:02-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2284,7 +2284,7 @@
     "external_id": "5363212008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T17:45:07-04:00",
+    "updated_at": "2026-08-01T04:26:02-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2297,7 +2297,7 @@
     "external_id": "5293278008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:11:11-04:00",
+    "updated_at": "2026-08-01T04:25:33-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2310,7 +2310,7 @@
     "external_id": "5291046008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:13:43-04:00",
+    "updated_at": "2026-08-01T04:26:52-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2323,7 +2323,7 @@
     "external_id": "5371601008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:16:49-04:00",
+    "updated_at": "2026-08-01T04:29:47-04:00",
     "first_seen_at": "2026-07-27T19:58:09.657947+00:00"
   },
   {
@@ -2336,7 +2336,7 @@
     "external_id": "5278847008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:07:11-04:00",
+    "updated_at": "2026-08-01T04:22:15-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2349,7 +2349,7 @@
     "external_id": "5322122008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:15:21-04:00",
+    "updated_at": "2026-08-01T04:28:25-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2362,7 +2362,7 @@
     "external_id": "5315955008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:14:55-04:00",
+    "updated_at": "2026-08-01T04:28:04-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2375,7 +2375,7 @@
     "external_id": "5322098008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:14:19-04:00",
+    "updated_at": "2026-08-01T04:27:28-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2388,7 +2388,7 @@
     "external_id": "5375861008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:18:23-04:00",
+    "updated_at": "2026-08-01T04:31:21-04:00",
     "first_seen_at": "2026-07-31T03:52:17.072850+00:00"
   },
   {
@@ -2401,7 +2401,7 @@
     "external_id": "5322116008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:15:14-04:00",
+    "updated_at": "2026-08-01T04:28:18-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2414,7 +2414,7 @@
     "external_id": "5314837008",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-31T07:15:17-04:00",
+    "updated_at": "2026-08-01T04:28:21-04:00",
     "first_seen_at": "2026-07-27T05:28:18.847019+00:00"
   },
   {
@@ -2474,6 +2474,45 @@
     "fortune_rank": 329,
     "title": "Account Manager, CPG",
     "location": "San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7868596",
+    "source": "greenhouse",
+    "external_id": "7868596",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-05-28T13:39:07-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Account Manager, CPG",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7612643",
+    "source": "greenhouse",
+    "external_id": "7612643",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-05-28T13:39:07-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Account Manager, CPG",
+    "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588",
+    "source": "greenhouse",
+    "external_id": "7592588",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-05-28T13:39:07-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Account Manager, CPG",
+    "location": "San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7852785",
     "source": "greenhouse",
     "external_id": "7852785",
@@ -2498,40 +2537,14 @@
   {
     "company": "DoorDash",
     "fortune_rank": 329,
-    "title": "Account Manager, CPG",
-    "location": "New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7592588",
+    "title": "Account Manager, Enterprise Ad Sales",
+    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; United States - Remote",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8001716",
     "source": "greenhouse",
-    "external_id": "7592588",
+    "external_id": "8001716",
     "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-05-28T13:39:07-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Account Manager, CPG",
-    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7612643",
-    "source": "greenhouse",
-    "external_id": "7612643",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-05-28T13:39:07-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Account Manager, CPG",
-    "location": "San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7868596",
-    "source": "greenhouse",
-    "external_id": "7868596",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-05-28T13:39:07-04:00",
+    "category": "Sales & Marketing",
+    "updated_at": "2026-07-09T09:22:53-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2545,19 +2558,6 @@
     "employment_type": "full-time",
     "category": "Sales & Marketing",
     "updated_at": "2026-06-24T14:48:56-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Account Manager, Enterprise Ad Sales",
-    "location": "New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8001716",
-    "source": "greenhouse",
-    "external_id": "8001716",
-    "employment_type": "full-time",
-    "category": "Sales & Marketing",
-    "updated_at": "2026-07-09T09:22:53-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2629,26 +2629,13 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Account Manager, SMB",
-    "location": "Austin, TX; Dallas, TX; Houston, TX",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7797773",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8029215",
     "source": "greenhouse",
-    "external_id": "7797773",
+    "external_id": "8029215",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-13T17:42:21-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Account Manager, SMB",
-    "location": "Philadelphia, PA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8060846",
-    "source": "greenhouse",
-    "external_id": "8060846",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-13T17:46:24-04:00",
+    "updated_at": "2026-07-13T17:42:39-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2668,13 +2655,13 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Account Manager, SMB",
-    "location": "Los Angeles, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8029215",
+    "location": "Austin, TX; Dallas, TX; Houston, TX",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7797773",
     "source": "greenhouse",
-    "external_id": "8029215",
+    "external_id": "7797773",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-13T17:42:39-04:00",
+    "updated_at": "2026-07-13T17:42:21-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2688,6 +2675,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-13T17:44:57-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Account Manager, SMB",
+    "location": "Philadelphia, PA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8060846",
+    "source": "greenhouse",
+    "external_id": "8060846",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-13T17:46:24-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2811,13 +2811,13 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Assistant Site Manager",
-    "location": "Denver, CO",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046559",
+    "location": "Sharon Hill, PA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7729892",
     "source": "greenhouse",
-    "external_id": "8046559",
+    "external_id": "7729892",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-07T13:56:12-04:00",
+    "updated_at": "2026-06-23T18:50:31-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2837,6 +2837,19 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Assistant Site Manager",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984848",
+    "source": "greenhouse",
+    "external_id": "7984848",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-17T16:27:01-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Assistant Site Manager",
     "location": "Atlanta, GA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983727",
     "source": "greenhouse",
@@ -2844,19 +2857,6 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-30T13:49:18-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Assistant Site Manager",
-    "location": "Garden City, ID",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983731",
-    "source": "greenhouse",
-    "external_id": "7983731",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-06-08T20:21:55-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -2876,6 +2876,32 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Assistant Site Manager",
+    "location": "Denver, CO",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8046559",
+    "source": "greenhouse",
+    "external_id": "8046559",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-07T13:56:12-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Assistant Site Manager",
+    "location": "Garden City, ID",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983731",
+    "source": "greenhouse",
+    "external_id": "7983731",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-06-08T20:21:55-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Assistant Site Manager",
     "location": "San Jose, CA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984840",
     "source": "greenhouse",
@@ -2883,32 +2909,6 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-06-05T15:10:50-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Assistant Site Manager",
-    "location": "Sharon Hill, PA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7729892",
-    "source": "greenhouse",
-    "external_id": "7729892",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-06-23T18:50:31-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Assistant Site Manager",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7984848",
-    "source": "greenhouse",
-    "external_id": "7984848",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-17T16:27:01-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -4242,12 +4242,12 @@
     "fortune_rank": 329,
     "title": "Enterprise Account Executive - CPG Ads",
     "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7859689",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7909702",
     "source": "greenhouse",
-    "external_id": "7859689",
+    "external_id": "7909702",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-22T18:27:48-04:00",
+    "updated_at": "2026-07-22T18:28:13-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -4255,12 +4255,12 @@
     "fortune_rank": 329,
     "title": "Enterprise Account Executive - CPG Ads",
     "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7909702",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7859689",
     "source": "greenhouse",
-    "external_id": "7909702",
+    "external_id": "7859689",
     "employment_type": "full-time",
     "category": "Sales & Marketing",
-    "updated_at": "2026-07-22T18:28:13-04:00",
+    "updated_at": "2026-07-22T18:27:48-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -4683,27 +4683,40 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Operations Associate, DashMart",
-    "location": "Lexington, KY",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071680",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071755",
     "source": "greenhouse",
-    "external_id": "8071680",
+    "external_id": "8071755",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-28T21:55:28-04:00",
+    "updated_at": "2026-07-28T17:16:06-04:00",
     "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
   },
   {
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Operations Associate, DashMart",
-    "location": "Charlotte, NC",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8080849",
+    "location": "Norfolk, VA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090100",
     "source": "greenhouse",
-    "external_id": "8080849",
+    "external_id": "8090100",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-23T08:01:18-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+    "updated_at": "2026-07-28T11:01:36-04:00",
+    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Kitchen Operations Associate, DashMart",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090089",
+    "source": "greenhouse",
+    "external_id": "8090089",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "updated_at": "2026-07-28T15:52:07-04:00",
+    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
   },
   {
     "company": "DoorDash",
@@ -4722,13 +4735,13 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Operations Associate, DashMart",
-    "location": "Morrow, GA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070776",
+    "location": "Charlotte, NC",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8080849",
     "source": "greenhouse",
-    "external_id": "8070776",
+    "external_id": "8080849",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-23T08:00:44-04:00",
+    "updated_at": "2026-07-23T08:01:18-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -4774,53 +4787,27 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Operations Associate, DashMart",
-    "location": "Phoenix, AZ",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090089",
+    "location": "Morrow, GA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070776",
     "source": "greenhouse",
-    "external_id": "8090089",
+    "external_id": "8070776",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-28T15:52:07-04:00",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
+    "updated_at": "2026-07-23T08:00:44-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Operations Associate, DashMart",
-    "location": "Norfolk, VA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090100",
+    "location": "Lexington, KY",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071680",
     "source": "greenhouse",
-    "external_id": "8090100",
+    "external_id": "8071680",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-28T11:01:36-04:00",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Kitchen Operations Associate, DashMart",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8071755",
-    "source": "greenhouse",
-    "external_id": "8071755",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-28T17:16:06-04:00",
+    "updated_at": "2026-07-28T21:55:28-04:00",
     "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Kitchen Shift Lead, DashMart",
-    "location": "Salt Lake City, UT",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090184",
-    "source": "greenhouse",
-    "external_id": "8090184",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-28T12:55:29-04:00",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
   },
   {
     "company": "DoorDash",
@@ -4839,27 +4826,14 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Shift Lead, DashMart",
-    "location": "Tucson, AZ",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073148",
+    "location": "Salt Lake City, UT",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8090184",
     "source": "greenhouse",
-    "external_id": "8073148",
+    "external_id": "8090184",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-28T17:21:07-04:00",
-    "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Kitchen Shift Lead, DashMart",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079479",
-    "source": "greenhouse",
-    "external_id": "8079479",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-28T17:17:56-04:00",
-    "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
+    "updated_at": "2026-07-28T12:55:29-04:00",
+    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
   },
   {
     "company": "DoorDash",
@@ -4878,6 +4852,19 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Kitchen Shift Lead, DashMart",
+    "location": "Tucson, AZ",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073148",
+    "source": "greenhouse",
+    "external_id": "8073148",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-28T17:21:07-04:00",
+    "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Kitchen Shift Lead, DashMart",
     "location": "Roseville, MI",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8075091",
     "source": "greenhouse",
@@ -4886,6 +4873,19 @@
     "category": "Other",
     "updated_at": "2026-07-22T18:50:03-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Kitchen Shift Lead, DashMart",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8079479",
+    "source": "greenhouse",
+    "external_id": "8079479",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-28T17:17:56-04:00",
+    "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
   },
   {
     "company": "DoorDash",
@@ -5385,19 +5385,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Manager, Strategy & Operations, DoorDash for Business",
-    "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8078248",
-    "source": "greenhouse",
-    "external_id": "8078248",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-27T12:31:00-04:00",
-    "first_seen_at": "2026-07-27T19:58:09.657947+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Manager, Strategy & Operations, DoorDash for Business",
     "location": "New York, NY",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8048507",
     "source": "greenhouse",
@@ -5406,6 +5393,19 @@
     "category": "Operations & Supply Chain",
     "updated_at": "2026-07-10T16:56:43-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Manager, Strategy & Operations, DoorDash for Business",
+    "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8078248",
+    "source": "greenhouse",
+    "external_id": "8078248",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "updated_at": "2026-07-27T12:31:00-04:00",
+    "first_seen_at": "2026-07-27T19:58:09.657947+00:00"
   },
   {
     "company": "DoorDash",
@@ -5528,10 +5528,10 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Operations Specialist, Remote Assistance",
-    "location": "Tempe, AZ",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8031334",
+    "location": "San Francisco, CA; Dublin, CA; Oakland, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8031327",
     "source": "greenhouse",
-    "external_id": "8031334",
+    "external_id": "8031327",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "updated_at": "2026-07-01T19:44:21-04:00",
@@ -5541,10 +5541,10 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Operations Specialist, Remote Assistance",
-    "location": "San Francisco, CA; Dublin, CA; Oakland, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8031327",
+    "location": "Tempe, AZ",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8031334",
     "source": "greenhouse",
-    "external_id": "8031327",
+    "external_id": "8031334",
     "employment_type": "full-time",
     "category": "Operations & Supply Chain",
     "updated_at": "2026-07-01T19:44:21-04:00",
@@ -5567,19 +5567,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Outside Account Manager",
-    "location": "Boston, MA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7948251",
-    "source": "greenhouse",
-    "external_id": "7948251",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-01T19:45:19-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Outside Account Manager",
     "location": "Los Angeles, CA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8049157",
     "source": "greenhouse",
@@ -5587,6 +5574,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-07T14:03:12-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Outside Account Manager",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7948251",
+    "source": "greenhouse",
+    "external_id": "7948251",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-01T19:45:19-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -5684,19 +5684,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Regional Merchant Lead",
-    "location": "Boise, ID",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8062841",
-    "source": "greenhouse",
-    "external_id": "8062841",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-13T19:27:42-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Regional Merchant Lead",
     "location": "Hartford, CT",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7843302",
     "source": "greenhouse",
@@ -5704,6 +5691,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-20T11:24:02-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Regional Merchant Lead",
+    "location": "Boise, ID",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8062841",
+    "source": "greenhouse",
+    "external_id": "8062841",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-13T19:27:42-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -6490,19 +6490,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Senior Operations Associate - Robot",
-    "location": "Dublin, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8092311",
-    "source": "greenhouse",
-    "external_id": "8092311",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "2026-07-28T13:07:04-04:00",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Senior Operations Associate - Robot",
     "location": "Mesa, AZ",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8073181",
     "source": "greenhouse",
@@ -6511,6 +6498,19 @@
     "category": "Operations & Supply Chain",
     "updated_at": "2026-07-17T17:43:34-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Senior Operations Associate - Robot",
+    "location": "Dublin, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8092311",
+    "source": "greenhouse",
+    "external_id": "8092311",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "updated_at": "2026-07-28T13:07:04-04:00",
+    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
   },
   {
     "company": "DoorDash",
@@ -6529,19 +6529,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Senior Operations Specialist, Robot",
-    "location": "Phoenix, AZ",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7374376",
-    "source": "greenhouse",
-    "external_id": "7374376",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "2026-05-28T13:39:07-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Senior Operations Specialist, Robot",
     "location": "Fremont, CA; Sunnyvale, CA; San Jose, CA; Dublin, CA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8089677",
     "source": "greenhouse",
@@ -6550,6 +6537,19 @@
     "category": "Operations & Supply Chain",
     "updated_at": "2026-07-27T16:10:59-04:00",
     "first_seen_at": "2026-07-28T03:37:38.841763+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Senior Operations Specialist, Robot",
+    "location": "Phoenix, AZ",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7374376",
+    "source": "greenhouse",
+    "external_id": "7374376",
+    "employment_type": "full-time",
+    "category": "Operations & Supply Chain",
+    "updated_at": "2026-05-28T13:39:07-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
     "company": "DoorDash",
@@ -6919,26 +6919,13 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Shift Lead",
-    "location": "Cincinnati, OH",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905619",
+    "location": "Sterling Heights, MI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7230365",
     "source": "greenhouse",
-    "external_id": "7905619",
+    "external_id": "7230365",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-10T15:45:39-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Shift Lead",
-    "location": "Grand Rapids, MI",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983736",
-    "source": "greenhouse",
-    "external_id": "7983736",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-10T15:46:15-04:00",
+    "updated_at": "2026-07-10T15:41:52-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -6958,26 +6945,26 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Shift Lead",
-    "location": "Sterling Heights, MI",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7230365",
+    "location": "Grand Rapids, MI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7983736",
     "source": "greenhouse",
-    "external_id": "7230365",
+    "external_id": "7983736",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-10T15:41:52-04:00",
+    "updated_at": "2026-07-10T15:46:15-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
     "company": "DoorDash",
     "fortune_rank": 329,
-    "title": "Shift Lead ",
-    "location": "Raleigh, NC",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6169266",
+    "title": "Shift Lead",
+    "location": "Cincinnati, OH",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7905619",
     "source": "greenhouse",
-    "external_id": "6169266",
+    "external_id": "7905619",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "2026-07-10T15:32:32-04:00",
+    "updated_at": "2026-07-10T15:45:39-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -6991,6 +6978,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-10T15:31:56-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Shift Lead ",
+    "location": "Raleigh, NC",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6169266",
+    "source": "greenhouse",
+    "external_id": "6169266",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-10T15:32:32-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -7101,19 +7101,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Shift Lead, Dashmart",
-    "location": "Swissvale, PA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7908802",
-    "source": "greenhouse",
-    "external_id": "7908802",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-10T15:45:44-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Shift Lead, Dashmart",
     "location": "Phoenix, AZ",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7144702",
     "source": "greenhouse",
@@ -7121,6 +7108,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-20T09:28:25-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Shift Lead, Dashmart",
+    "location": "Swissvale, PA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7908802",
+    "source": "greenhouse",
+    "external_id": "7908802",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-10T15:45:44-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -7414,9 +7414,9 @@
     "fortune_rank": 329,
     "title": "Shift Lead - Millcreek",
     "location": "Millcreek, UT",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5199080",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7838799",
     "source": "greenhouse",
-    "external_id": "5199080",
+    "external_id": "7838799",
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-10T15:37:36-04:00",
@@ -7427,9 +7427,9 @@
     "fortune_rank": 329,
     "title": "Shift Lead - Millcreek",
     "location": "Millcreek, UT",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7838799",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5199080",
     "source": "greenhouse",
-    "external_id": "7838799",
+    "external_id": "5199080",
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-10T15:37:36-04:00",
@@ -7686,32 +7686,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Site Manager",
-    "location": "Pittsburgh, PA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7960785",
-    "source": "greenhouse",
-    "external_id": "7960785",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-17T16:25:27-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Site Manager",
-    "location": "Kalamazoo, MI",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7967861",
-    "source": "greenhouse",
-    "external_id": "7967861",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-17T11:56:13-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Site Manager",
     "location": "Boulder, CO",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8064759",
     "source": "greenhouse",
@@ -7733,6 +7707,32 @@
     "category": "Other",
     "updated_at": "2026-07-31T21:31:42-04:00",
     "first_seen_at": "2026-08-01T03:52:34.446312+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Site Manager",
+    "location": "Kalamazoo, MI",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7967861",
+    "source": "greenhouse",
+    "external_id": "7967861",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-17T11:56:13-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Site Manager",
+    "location": "Pittsburgh, PA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7960785",
+    "source": "greenhouse",
+    "external_id": "7960785",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-17T16:25:27-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
     "company": "DoorDash",
@@ -8116,12 +8116,12 @@
     "fortune_rank": 329,
     "title": "Staff Security Engineer, Proactive Security",
     "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8052754",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8030575",
     "source": "greenhouse",
-    "external_id": "8052754",
+    "external_id": "8030575",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-07-23T03:15:49-04:00",
+    "updated_at": "2026-06-29T08:45:09-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -8129,12 +8129,12 @@
     "fortune_rank": 329,
     "title": "Staff Security Engineer, Proactive Security",
     "location": "United States - Remote",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8030575",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8052754",
     "source": "greenhouse",
-    "external_id": "8030575",
+    "external_id": "8052754",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "2026-06-29T08:45:09-04:00",
+    "updated_at": "2026-07-23T03:15:49-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -8284,19 +8284,6 @@
     "company": "DoorDash",
     "fortune_rank": 329,
     "title": "Strategic Customer Success Manager",
-    "location": "Boston, MA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8081721",
-    "source": "greenhouse",
-    "external_id": "8081721",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-23T11:59:34-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Strategic Customer Success Manager",
     "location": "Philadelphia, PA",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8082739",
     "source": "greenhouse",
@@ -8304,6 +8291,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-23T18:56:08-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Strategic Customer Success Manager",
+    "location": "Boston, MA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8081721",
+    "source": "greenhouse",
+    "external_id": "8081721",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-23T11:59:34-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -8318,19 +8318,6 @@
     "category": "Other",
     "updated_at": "2026-07-31T10:39:39-04:00",
     "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
-    "company": "DoorDash",
-    "fortune_rank": 329,
-    "title": "Strategic Partner Manager II",
-    "location": "Los Angeles, CA",
-    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8044721",
-    "source": "greenhouse",
-    "external_id": "8044721",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-02T17:49:38-04:00",
-    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
     "company": "DoorDash",
@@ -8356,6 +8343,19 @@
     "employment_type": "full-time",
     "category": "Other",
     "updated_at": "2026-07-09T18:39:52-04:00",
+    "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
+  },
+  {
+    "company": "DoorDash",
+    "fortune_rank": 329,
+    "title": "Strategic Partner Manager II",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8044721",
+    "source": "greenhouse",
+    "external_id": "8044721",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "2026-07-02T17:49:38-04:00",
     "first_seen_at": "2026-07-27T01:52:39.517352+00:00"
   },
   {
@@ -8786,19 +8786,6 @@
     "category": "People & Legal",
     "updated_at": "2026-07-27T15:43:22-04:00",
     "first_seen_at": "2026-07-27T19:58:09.657947+00:00"
-  },
-  {
-    "company": "Airbnb",
-    "fortune_rank": 357,
-    "title": "Market Associate",
-    "location": "Florida, United States ",
-    "url": "https://careers.airbnb.com/positions/8089765?gh_jid=8089765",
-    "source": "greenhouse",
-    "external_id": "8089765",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "2026-07-27T17:35:19-04:00",
-    "first_seen_at": "2026-07-28T03:37:38.841763+00:00"
   },
   {
     "company": "Airbnb",
@@ -10125,6 +10112,19 @@
     "category": "Other",
     "updated_at": "",
     "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
+  },
+  {
+    "company": "Salesforce",
+    "fortune_rank": 114,
+    "title": "Software Engineer (Backend) - MTS",
+    "location": "California - Redwood City",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716",
+    "source": "workday",
+    "external_id": "/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716",
+    "employment_type": "full-time",
+    "category": "Software & IT",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T08:37:45.348861+00:00"
   },
   {
     "company": "Salesforce",
@@ -17955,19 +17955,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Sr Principal Supply Chain Subcontract Specialist",
-    "location": "United States-California-Sunnyvale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Sr-Principal-Supply-Chain-Subcontract-Specialist_R10242908",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Sunnyvale/Sr-Principal-Supply-Chain-Subcontract-Specialist_R10242908",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "",
-    "first_seen_at": "2026-07-29T19:45:47.653503+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Business Management Director",
     "location": "United States-Maryland-Linthicum",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Business-Management-Director_R10242579",
@@ -18339,19 +18326,6 @@
     "external_id": "/job/United-States-California-San-Diego/Production-Test-Technician-1_R10241961",
     "employment_type": "full-time",
     "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-29T19:45:47.653503+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "2026 Associate Software / Software Engineer - Huntsville AL",
-    "location": "United States-Alabama-Huntsville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software---Software-Engineer---Huntsville-AL_R10242854",
-    "source": "workday",
-    "external_id": "/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software---Software-Engineer---Huntsville-AL_R10242854",
-    "employment_type": "full-time",
-    "category": "Software & IT",
     "updated_at": "",
     "first_seen_at": "2026-07-29T19:45:47.653503+00:00"
   },
@@ -19333,19 +19307,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "2026 Flight Dynamics Controller - Dulles VA",
-    "location": "United States-Virginia-Dulles",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Flight-Dynamics-Controller---Dulles-VA_R10242726",
-    "source": "workday",
-    "external_id": "/job/United-States-Virginia-Dulles/XMLNAME-2026-Flight-Dynamics-Controller---Dulles-VA_R10242726",
-    "employment_type": "full-time",
-    "category": "Finance & Accounting",
-    "updated_at": "",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Sentinel Principal Structural Engineer- 18272",
     "location": "United States-Alabama-Huntsville",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sentinel-Principal-Structural-Engineer--18272_R10242719",
@@ -20113,19 +20074,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Director 1 - Ground Portfolio Manager",
-    "location": "United States-California-Redondo Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Director-1---Ground-Portfolio-Manager_R10242531-1",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Redondo-Beach/Director-1---Ground-Portfolio-Manager_R10242531-1",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal/Sr. Principal Cloud Engineer (AHT)",
     "location": "United States-Ohio-Wright-Patterson AFB",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal-Sr-Principal-Cloud-Engineer--AHT-_R10242477",
@@ -20642,19 +20590,6 @@
     "category": "Other",
     "updated_at": "",
     "first_seen_at": "2026-07-28T19:56:38.165893+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Principal Supply Chain Subcontract Specialist",
-    "location": "United States-Virginia-Fairfax",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Principal-Supply-Chain-Subcontract-Specialist_R10242128",
-    "source": "workday",
-    "external_id": "/job/United-States-Virginia-Fairfax/Principal-Supply-Chain-Subcontract-Specialist_R10242128",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "",
-    "first_seen_at": "2026-07-29T03:40:48.393834+00:00"
   },
   {
     "company": "Northrop Grumman",
@@ -22154,19 +22089,6 @@
   {
     "company": "Northrop Grumman",
     "fortune_rank": 112,
-    "title": "Sr Principal Network Administrator - Secret",
-    "location": "United States-California-Azusa",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Sr-Principal-Network-Administrator---Secret_R10241829",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Azusa/Sr-Principal-Network-Administrator---Secret_R10241829",
-    "employment_type": "full-time",
-    "category": "Other",
-    "updated_at": "",
-    "first_seen_at": "2026-07-27T12:59:18.968046+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
     "title": "Principal Supply Chain Planning Specialist",
     "location": "United States-Virginia-Dulles",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Principal-Supply-Chain-Planning-Specialist_R10239480",
@@ -22200,19 +22122,6 @@
     "external_id": "/job/United-States-Florida-Melbourne/Engineer-Software_R10242339-1",
     "employment_type": "full-time",
     "category": "Software & IT",
-    "updated_at": "",
-    "first_seen_at": "2026-07-27T12:59:18.968046+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "fortune_rank": 112,
-    "title": "Sr Principal Supply Chain Planning Specialist",
-    "location": "United States-California-Redondo Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Sr-Principal-Supply-Chain-Planning-Specialist_R10239986",
-    "source": "workday",
-    "external_id": "/job/United-States-California-Redondo-Beach/Sr-Principal-Supply-Chain-Planning-Specialist_R10239986",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
     "updated_at": "",
     "first_seen_at": "2026-07-27T12:59:18.968046+00:00"
   },
@@ -56901,19 +56810,6 @@
     "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
   },
   {
-    "company": "Boeing",
-    "fortune_rank": 47,
-    "title": "Procurement Multi-Family Manager",
-    "location": "USA - El Segundo, CA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Procurement-Multi-Family-Manager_JR2026520886-1",
-    "source": "workday",
-    "external_id": "/job/USA---El-Segundo-CA/Procurement-Multi-Family-Manager_JR2026520886-1",
-    "employment_type": "full-time",
-    "category": "Operations & Supply Chain",
-    "updated_at": "",
-    "first_seen_at": "2026-07-31T19:55:35.046453+00:00"
-  },
-  {
     "company": "HP",
     "fortune_rank": 84,
     "title": "ACS Quality Engineer - Workstation Products",
@@ -57003,6 +56899,19 @@
     "category": "Software & IT",
     "updated_at": "",
     "first_seen_at": "2026-07-30T19:54:44.556063+00:00"
+  },
+  {
+    "company": "HP",
+    "fortune_rank": 84,
+    "title": "Apprenti-e Responsable E-commerce B2B junior h/f",
+    "location": "Meudon, Hauts-de-Seine, France",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Meudon-Hauts-de-Seine-France/Apprenti-e-Responsable-E-commerce-B2B-junior-h-f_3166616-1",
+    "source": "workday",
+    "external_id": "/job/Meudon-Hauts-de-Seine-France/Apprenti-e-Responsable-E-commerce-B2B-junior-h-f_3166616-1",
+    "employment_type": "full-time",
+    "category": "Other",
+    "updated_at": "",
+    "first_seen_at": "2026-08-01T08:37:45.348861+00:00"
   },
   {
     "company": "Intel",
