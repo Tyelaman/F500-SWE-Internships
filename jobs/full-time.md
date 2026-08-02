@@ -1,12 +1,12 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 01, 2026 at 19:36 UTC
+Last updated: August 02, 2026 at 03:54 UTC
 
-Open full-time positions: 4992
+Open full-time positions: 4995
 
 ## Categories
 
-[Software & IT (1013)](#software-it) · [Data & AI (148)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (303)](#operations-supply-chain) · [People & Legal (19)](#people-legal) · [Other (2873)](#other)
+[Software & IT (1013)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (303)](#operations-supply-chain) · [People & Legal (19)](#people-legal) · [Other (2874)](#other)
 
 <a id="software-it"></a>
 
@@ -16,28 +16,28 @@ Open positions: 1013
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 132 | Coupang | Senior Software Engineer | Seattle, USA | Aug 01, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7919896) |
+| 132 | Coupang | Sr. Staff Software Engineer, Security | Mountain View, USA; Seattle, USA | Aug 01, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7441419) |
 | 191 | Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
-| 191 | Block | Senior Software Engineer, Square Financial Services | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008) |
 | 191 | Block | Senior Software Engineer, Square Financial Services | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008) |
+| 191 | Block | Senior Software Engineer, Square Financial Services | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008) |
 | 191 | Block | Senior Software Engineer, Ledgering | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5366105008?gh_jid=5366105008) |
 | 191 | Block | Senior Software Engineer, Ledgering | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5281196008?gh_jid=5281196008) |
 | 191 | Block | Principal Security Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5281304008?gh_jid=5281304008) |
 | 191 | Block | Oracle Fusion Techno-Functional Developer- Remote, US | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5356588008?gh_jid=5356588008) |
 | 191 | Block | Senior Finance Systems Engineer: Oracle Fusion - Remote, US | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5249776008?gh_jid=5249776008) |
-| 191 | Block | Software Engineer, Cash App - Lending Products | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008) |
 | 191 | Block | Software Engineer, Cash App - Lending Products | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008) |
-| 191 | Block | Senior Software Engineer, Cash App Taxes | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008) |
+| 191 | Block | Software Engineer, Cash App - Lending Products | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008) |
 | 191 | Block | Senior Software Engineer, Cash App Taxes | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008) |
-| 191 | Block | Legal Systems Engineer | San Francisco, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5195926008?gh_jid=5195926008) |
+| 191 | Block | Senior Software Engineer, Cash App Taxes | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008) |
 | 191 | Block | Legal Systems Engineer | San Francisco, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5195925008?gh_jid=5195925008) |
-| 191 | Block | Staff Software Engineer, Cash App Banking | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008) |
+| 191 | Block | Legal Systems Engineer | San Francisco, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5195926008?gh_jid=5195926008) |
 | 191 | Block | Staff Software Engineer, Cash App Banking | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008) |
+| 191 | Block | Staff Software Engineer, Cash App Banking | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008) |
 | 191 | Block | Senior Software Engineer, Data Enablement | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/4989505008?gh_jid=4989505008) |
 | 191 | Block | Senior Business Systems Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/4962872008?gh_jid=4962872008) |
 | 191 | Block | Staff Android Software Engineer, Cash App Consumer Platform | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008) |
 | 191 | Block | Staff Android Software Engineer, Cash App Consumer Platform | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008) |
-| 132 | Coupang | Senior Software Engineer | Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7919896) |
-| 132 | Coupang | Sr. Staff Software Engineer, Security | Mountain View, USA; Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7441419) |
 | 357 | Airbnb | Software Engineer, Community Support Engineering | San Francisco, CA | Jul 31, 2026 | [Apply](https://careers.airbnb.com/positions/8097917?gh_jid=8097917) |
 | 191 | Block | Senior Security Engineer, Platform Security | Bay Area, CA, United States of America | Jul 31, 2026 | [Apply](http://block.xyz/careers/jobs/5231316008?gh_jid=5231316008) |
 | 132 | Coupang | Staff Software Engineer | Mountain View, USA; Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8070738) |
@@ -67,8 +67,8 @@ Open positions: 1013
 | 329 | DoorDash | Software Integration Engineer | San Francisco, CA | Jul 22, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8070969) |
 | 357 | Airbnb | Staff Backend Engineer, Host Serving and Access | Remote - USA | Jul 21, 2026 | [Apply](https://careers.airbnb.com/positions/8077995?gh_jid=8077995) |
 | 357 | Airbnb | Engineering Manager, Cloud & Data Security | United States | Jul 21, 2026 | [Apply](https://careers.airbnb.com/positions/8074765?gh_jid=8074765) |
-| 191 | Block | Senior Site Reliability Engineer | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008) |
 | 191 | Block | Senior Site Reliability Engineer | New York, NY, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008) |
+| 191 | Block | Senior Site Reliability Engineer | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008) |
 | 329 | DoorDash | Staff Software Engineer, Backend | New York, NY; Seattle, WA | Jul 17, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630302) |
 | 329 | DoorDash | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) |
 | 329 | DoorDash | Senior Software Engineer, iOS | Sunnyvale, CA; San Francisco, CA | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5516948) |
@@ -1036,22 +1036,22 @@ Open positions: 1013
 
 ## Data & AI
 
-Open positions: 148
+Open positions: 150
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 132 | Coupang | Staff Machine Learning Engineer, Ads | Mountain View, USA | Aug 01, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7901611) |
 | 191 | Block | Senior Data Engineer, Risk | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008) |
 | 191 | Block | Senior Machine Learning Engineer, Applied AI Quality | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008) |
 | 191 | Block | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) |
-| 191 | Block | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) |
 | 191 | Block | Staff Product Data Scientist, Lending | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) |
+| 191 | Block | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) |
 | 191 | Block | Staff Data Scientist, Pricing | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008) |
-| 191 | Block | Staff Data Analyst, Block Compliance | Denver, CO, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008) |
-| 191 | Block | Staff Data Analyst, Block Compliance | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) |
 | 191 | Block | Staff Data Analyst, Block Compliance | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008) |
+| 191 | Block | Staff Data Analyst, Block Compliance | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) |
+| 191 | Block | Staff Data Analyst, Block Compliance | Denver, CO, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008) |
 | 191 | Block | Staff Applied Machine Learning Engineer - Fraud & Abuse | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008) |
 | 191 | Block | Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008) |
-| 132 | Coupang | Staff Machine Learning Engineer, Ads | Mountain View, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7901611) |
 | 329 | DoorDash | Revenue Data Analyst | United States - Remote | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8024408) |
 | 132 | Coupang | Senior Data Analyst | Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8095492) |
 | 132 | Coupang | Staff Machine Learning Engineer, Personalization | Mountain View, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8076145) |
@@ -1107,6 +1107,8 @@ Open positions: 148
 | 357 | Airbnb | Senior Staff Machine Learning Engineer, Growth Platform Engineering | Remote - USA | Apr 14, 2026 | [Apply](https://careers.airbnb.com/positions/7747259?gh_jid=7747259) |
 | 357 | Airbnb | Senior Manager, Advanced Analytics, Fraud & Safety Operations | United States | Apr 09, 2026 | [Apply](https://careers.airbnb.com/positions/7788160?gh_jid=7788160) |
 | 430 | Workday | Principal Analytics Engineer (US Federal) | USA.VA.Reston | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494) |
+| 63 | Capital One | Senior Data Analyst - Analytics & Transformation | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Data-Analyst---Analytics---Transformation_R248273-1) |
+| 63 | Capital One | Data Analysis Manager - Analytics & Transformation | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Analysis-Manager---Analytics---Transformation_R248275-2) |
 | 63 | Capital One | Lead AI Engineer | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Lead-AI-Engineer_R248117) |
 | 63 | Capital One | Senior Manager, Data Scientist - Card DFS Integration | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Data-Scientist---Card-DFS-Integration_R243962-1) |
 | 63 | Capital One | Principal Data Analyst | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Data-Analyst_R236011-1) |
@@ -1713,22 +1715,22 @@ Open positions: 176
 | 191 | Block | Manager, GTM Strategy & Operations - Global Sales | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5286821008?gh_jid=5286821008) |
 | 191 | Block | Territory Account Executive, Boston | Boston, MA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5276748008?gh_jid=5276748008) |
 | 191 | Block | Enterprise Account Executive | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5265109008?gh_jid=5265109008) |
-| 191 | Block | Director of Field Sales, Central Region | Milwaukee, WI, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229655008?gh_jid=5229655008) |
-| 191 | Block | Director of Field Sales, Central Region | Indianapolis, IN, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229653008?gh_jid=5229653008) |
+| 191 | Block | Director of Field Sales, Central Region | Detroit, MI, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229662008?gh_jid=5229662008) |
+| 191 | Block | Director of Field Sales, Central Region | Minneapolis, MN, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229650008?gh_jid=5229650008) |
 | 191 | Block | Director of Field Sales, Central Region | Oklahoma City, OK, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229669008?gh_jid=5229669008) |
 | 191 | Block | Director of Field Sales, Central Region | Pittsburgh, PA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229663008?gh_jid=5229663008) |
-| 191 | Block | Director of Field Sales, Central Region | Detroit, MI, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229662008?gh_jid=5229662008) |
+| 191 | Block | Director of Field Sales, Central Region | Indianapolis, IN, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229653008?gh_jid=5229653008) |
+| 191 | Block | Director of Field Sales, Central Region | Milwaukee, WI, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229655008?gh_jid=5229655008) |
 | 191 | Block | Director of Field Sales, Central Region | St. Louis, MO, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229661008?gh_jid=5229661008) |
-| 191 | Block | Director of Field Sales, Central Region | Cincinnati, OH, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229648008?gh_jid=5229648008) |
 | 191 | Block | Director of Field Sales, Central Region | Chicago, IL, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008) |
-| 191 | Block | Director of Field Sales, Central Region | Minneapolis, MN, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229650008?gh_jid=5229650008) |
+| 191 | Block | Director of Field Sales, Central Region | Cincinnati, OH, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5229648008?gh_jid=5229648008) |
 | 191 | Block | Channel Sales Manager- Bilingual in Spanish | Miami, FL, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5183572008?gh_jid=5183572008) |
 | 191 | Block | Regional Sales Manager | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008) |
 | 191 | Block | Manager, Field Sales - Houston | Lake Charles, LA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5026064008?gh_jid=5026064008) |
-| 191 | Block | Manager, Mid-Market Sales | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267748008?gh_jid=5267748008) |
 | 191 | Block | Manager, Mid-Market Sales | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267739008?gh_jid=5267739008) |
-| 191 | Block | Manager, SMB Sales | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267747008?gh_jid=5267747008) |
+| 191 | Block | Manager, Mid-Market Sales | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267748008?gh_jid=5267748008) |
 | 191 | Block | Manager, SMB Sales | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008) |
+| 191 | Block | Manager, SMB Sales | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5267747008?gh_jid=5267747008) |
 | 329 | DoorDash | Manager, Product Marketing, Ads & Promotions | New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Chicago, IL; Austin, TX; Boston, MA | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7977561) |
 | 329 | DoorDash | Account Manager, Enterprise Ad Sales - Restaurants | New York, NY | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7719034) |
 | 329 | DoorDash | Manager, Business Development | New York, NY | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8053241) |
@@ -1766,15 +1768,15 @@ Open positions: 176
 | 329 | DoorDash | Senior Enterprise Account Executive, DoorDash for Business | United States - Remote | Jul 22, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8078713) |
 | 329 | DoorDash | Manager, Sales Enablement | United States - Remote | Jul 21, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8076002) |
 | 191 | Block | Business Development Rep Associate | Los Angeles, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
-| 191 | Block | Business Development Rep Associate | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
 | 191 | Block | Business Development Rep Associate | Saint Louis, MO, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
 | 191 | Block | Business Development Rep Associate | Seattle, WA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
-| 191 | Block | Business Development Rep Associate | Scottsdale, AZ, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 191 | Block | Business Development Rep Associate | DC Metro, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 191 | Block | Business Development Rep Associate | Bay Area, CA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
 | 191 | Block | Business Development Rep Associate | Atlanta, GA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
+| 191 | Block | Business Development Rep Associate | DC Metro, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 191 | Block | Business Development Rep Associate | Scottsdale, AZ, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
 | 191 | Block | Business Development Rep Associate, New York City | New York, NY, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
-| 191 | Block | Mid-Market Account Executive | New York, NY, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008) |
 | 191 | Block | Mid-Market Account Executive | Boston, MA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008) |
+| 191 | Block | Mid-Market Account Executive | New York, NY, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008) |
 | 191 | Block | Territory Account Executive - Atlanta | Atlanta, GA, United States of America | Jul 20, 2026 | [Apply](http://block.xyz/careers/jobs/5204378008?gh_jid=5204378008) |
 | 329 | DoorDash | Senior Account Executive, Enterprise Franchise Sales | United States - Remote | Jul 20, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8074438) |
 | 329 | DoorDash | Manager, Sales Strategy & Operations, Commerce Platform | San Francisco, CA; New York, NY; Atlanta, GA; Chicago, IL; Denver, CO; Washington, DC; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA | Jul 20, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8073126) |
@@ -1947,8 +1949,8 @@ Open positions: 303
 | 329 | DoorDash | Senior Manager, GTM Strategy & Operations, DoorDash for Business | New York, NY | Jul 09, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8049282) |
 | 329 | DoorDash | Associate Manager, DashMart - Grocery Strategy & Operations | San Francisco, CA; Los Angeles, CA; Seattle, WA; Chicago, IL; Phoenix, AZ; Washington D.C.; New York, NY | Jul 08, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8037031) |
 | 329 | DoorDash | Technician Lead, Service Operations, Labs | Mesa, AZ | Jul 02, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8041960) |
-| 329 | DoorDash | Operations Specialist, Remote Assistance | San Francisco, CA; Dublin, CA; Oakland, CA | Jul 01, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031327) |
 | 329 | DoorDash | Operations Specialist, Remote Assistance | Tempe, AZ | Jul 01, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031334) |
+| 329 | DoorDash | Operations Specialist, Remote Assistance | San Francisco, CA; Dublin, CA; Oakland, CA | Jul 01, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031327) |
 | 329 | DoorDash | Senior Associate, New Verticals - Enterprise Merchant Strategy & Operations | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Washington D.C.; Tempe, AZ; Mountain View, CA | Jul 01, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7990850) |
 | 329 | DoorDash | Senior Associate, In-Store - Strategy & Operations | New York, NY | Jun 30, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7819679) |
 | 329 | DoorDash | Senior Manager, New Verticals - In Store Intelligence Strategy & Operations | New York, NY | Jun 26, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8030331) |
@@ -2219,10 +2221,12 @@ Open positions: 19
 
 ## Other
 
-Open positions: 2873
+Open positions: 2874
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
+| 132 | Coupang | Staff ML Infra Engineer, Search & Discovery | Mountain View, USA | Aug 01, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8025195) |
+| 132 | Coupang | Senior Staff Engineer - Ads Data Platform (Seattle or Mountain View) | Seattle, USA | Aug 01, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7944262) |
 | 191 | Block | SMB Account Manager - Services | San Francisco, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5374762008?gh_jid=5374762008) |
 | 191 | Block | Senior Reconciliation & Reporting Analyst | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5365984008?gh_jid=5365984008) |
 | 191 | Block | Federal Affairs Director | Washington, DC, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5318292008?gh_jid=5318292008) |
@@ -2237,21 +2241,19 @@ Open positions: 2873
 | 191 | Block | Head of Growth Partnerships, Square | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5217611008?gh_jid=5217611008) |
 | 191 | Block | Senior Technical Account Manager, Cash App Pay & Afterpay | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5228394008?gh_jid=5228394008) |
 | 191 | Block | Senior Technical Account Manager, Cash App Pay & Afterpay | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5175673008?gh_jid=5175673008) |
-| 191 | Block | Strategic Programs Lead | Los Angeles, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375086008?gh_jid=5375086008) |
 | 191 | Block | Strategic Programs Lead | Seattle, WA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375085008?gh_jid=5375085008) |
+| 191 | Block | Strategic Programs Lead | Los Angeles, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375086008?gh_jid=5375086008) |
 | 191 | Block | Strategic Programs Lead | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375079008?gh_jid=5375079008) |
 | 191 | Block | Strategic Programs Lead | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5375080008?gh_jid=5375080008) |
 | 191 | Block | Senior Manager, GTM Strategy | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5116191008?gh_jid=5116191008) |
 | 191 | Block | ASIC Validation Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5115890008?gh_jid=5115890008) |
 | 191 | Block | Senior Solutions Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5172117008?gh_jid=5172117008) |
 | 191 | Block | Product Partnerships Manager - Square | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5068977008?gh_jid=5068977008) |
-| 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5025564008?gh_jid=5025564008) |
 | 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | New York, NY, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5311661008?gh_jid=5311661008) |
+| 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5025564008?gh_jid=5025564008) |
 | 191 | Block | Silicon Product and Test Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/5012351008?gh_jid=5012351008) |
 | 191 | Block | Staff Solutions Engineer | Bay Area, CA, United States of America | Aug 01, 2026 | [Apply](http://block.xyz/careers/jobs/4684349008?gh_jid=4684349008) |
 | 329 | DoorDash | Site Manager | Alexandria, VA | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093169) |
-| 132 | Coupang | Staff ML Infra Engineer, Search & Discovery | Mountain View, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8025195) |
-| 132 | Coupang | Senior Staff Engineer - Ads Data Platform (Seattle or Mountain View) | Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7944262) |
 | 357 | Airbnb | Staff Platform Manager, Airfam Products | United States | Jul 31, 2026 | [Apply](https://careers.airbnb.com/positions/8077226?gh_jid=8077226) |
 | 132 | Coupang | Director, Data Engineering | Mountain View, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8063697) |
 | 329 | DoorDash | Shift Lead - South Tacoma | Tacoma, WA | Jul 31, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8099935) |
@@ -2428,8 +2430,8 @@ Open positions: 2873
 | 329 | DoorDash | Shift Lead, Dashmart | Norfolk, VA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7517631) |
 | 329 | DoorDash | Shift Lead - Central Harlem | Philadelphia, PA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7368098) |
 | 329 | DoorDash | Shift Lead | Sterling Heights, MI | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7230365) |
-| 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7838799) |
 | 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5199080) |
+| 329 | DoorDash | Shift Lead - Millcreek | Millcreek, UT | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7838799) |
 | 329 | DoorDash | Shift Lead - Eastside | Syracuse, New York | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7683334) |
 | 329 | DoorDash | Shift Lead - Underwood Hills | Atlanta, GA | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7248556) |
 | 329 | DoorDash | Shift Lead - Ardmore | Winston-Salem, NC | Jul 10, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/4441674) |
@@ -2527,10 +2529,10 @@ Open positions: 2873
 | 329 | DoorDash | Director, Grocery & Retail Services | San Francisco, CA; New York, NY; Seattle, WA; Denver, CO; Chicago, IL; Austin, TX; Atlanta, GA; Boston, MA; Miami, FL; United States - Remote | Jun 01, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7955008) |
 | 329 | DoorDash | Senior Manager, Customer Experience Partner Success | New York, NY; San Francisco, CA; Phoenix, AZ | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7872005) |
 | 329 | DoorDash | Engineering Manager – Drive Growth & New Bets | Sunnyvale, CA; San Francisco, CA; Seattle, WA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7277325) |
-| 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7868596) |
-| 329 | DoorDash | Account Manager, CPG | New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7612643) |
-| 329 | DoorDash | Account Manager, CPG | New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7592588) |
 | 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7852785) |
+| 329 | DoorDash | Account Manager, CPG | New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7592588) |
+| 329 | DoorDash | Account Manager, CPG | New York, NY; San Francisco, CA; Los Angeles, CA; Chicago, IL; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7612643) |
+| 329 | DoorDash | Account Manager, CPG | San Francisco, CA; New York, NY; Chicago, IL;  Los Angeles, CA; Atlanta, GA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7868596) |
 | 329 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) | San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | 329 | DoorDash | Associate, Drive | New York, NY; San Francisco, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7684729) |
 | 329 | DoorDash | Associate Manager, Retail Partnerships | San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL;  Los Angeles, CA | May 28, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7909102) |
@@ -2717,6 +2719,7 @@ Open positions: 2873
 | 63 | Capital One | Senior Business Banker - Philadelphia Market | Philadelphia, PA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211) |
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 112 | Northrop Grumman | Property and Asset Management Analyst | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Property-and-Asset-Management-Analyst_R10238411) |
 | 112 | Northrop Grumman | Engineering Program Manager Level 3 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Program-Manager-Level-3_R10243332) |
 | 112 | Northrop Grumman | Senior Principal Test Conductor | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Senior-Principal-Test-Conductor_R10243323) |
 | 112 | Northrop Grumman | Material Processor for Split Shift | United States-Maryland-Sykesville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Material-Processor-for-Split-Shift_R10242901) |
