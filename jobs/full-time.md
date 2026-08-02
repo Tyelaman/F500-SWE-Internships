@@ -1,18 +1,18 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 02, 2026 at 08:39 UTC
+Last updated: August 02, 2026 at 13:56 UTC
 
-Open full-time positions: 4988
+Open full-time positions: 4987
 
 ## Categories
 
-[Software & IT (1012)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (304)](#operations-supply-chain) · [People & Legal (18)](#people-legal) · [Other (2868)](#other)
+[Software & IT (1011)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (304)](#operations-supply-chain) · [People & Legal (18)](#people-legal) · [Other (2868)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 1012
+Open positions: 1011
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -113,7 +113,6 @@ Open positions: 1012
 | 16 | NVIDIA | Senior Software Engineer, AIOps and Observability | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104) |
 | 16 | NVIDIA | Senior Systems Software Engineer, Cloud Infrastructure and Development | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Cloud-Infrastructure-and-Development_JR2013426) |
 | 16 | NVIDIA | Senior Systems Software Security Engineer – Data Center Systems | US, CO, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Senior-Systems-Software-Security-Engineer---Data-Center-Systems_JR2004966-1) |
-| 16 | NVIDIA | Manager, Tegra Software Chip | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Tegra-Software-Chip_JR2016253-1) |
 | 114 | Salesforce | Software Engineer (Backend) - MTS | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716) |
 | 114 | Salesforce | Principal Software Engineer | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Principal-Software-Engineer_JR350702-1) |
 | 114 | Salesforce | Senior Platform Engineer — Cloud Infrastructure | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Senior-Platform-Engineer---Cloud-Infrastructure_JR347707) |
