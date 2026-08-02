@@ -1,18 +1,18 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 02, 2026 at 03:54 UTC
+Last updated: August 02, 2026 at 08:39 UTC
 
-Open full-time positions: 4995
+Open full-time positions: 4988
 
 ## Categories
 
-[Software & IT (1013)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (303)](#operations-supply-chain) · [People & Legal (19)](#people-legal) · [Other (2874)](#other)
+[Software & IT (1012)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (304)](#operations-supply-chain) · [People & Legal (18)](#people-legal) · [Other (2868)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 1013
+Open positions: 1012
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -277,7 +277,6 @@ Open positions: 1013
 | 112 | Northrop Grumman | Classified Cybersecurity Analyst - Top Secret | United States-Arizona-Chandler | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Classified-Cybersecurity-Analyst---Top-Secret_R10243007) |
 | 112 | Northrop Grumman | Principal/Sr. Principal Full-Stack Web Developer | United States-New York-Rome | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Principal-Sr-Principal-Full-Stack-Web-Developer_R10243106) |
 | 112 | Northrop Grumman | Staff RF Electronic Systems Engineer | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Staff-Multidisciplined-Electronic-Systems-Engineer_R10234406) |
-| 112 | Northrop Grumman | Classified Cybersecurity Analyst 3/4 - Secret | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Classified-Cybersecurity-Analyst-3-4---Secret_R10240046-1) |
 | 112 | Northrop Grumman | 2027  Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) |
 | 112 | Northrop Grumman | Principal Classified Cybersecurity Analyst - TS/SCI | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Classified-Cybersecurity-Analyst---TS-SCI_R10241753) |
 | 112 | Northrop Grumman | Sentinel - Staff Systems Engineer - 18063 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Staff-Systems-Engineer---18063_R10228484) |
@@ -1877,7 +1876,7 @@ Open positions: 176
 
 ## Operations & Supply Chain
 
-Open positions: 303
+Open positions: 304
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2184,6 +2183,7 @@ Open positions: 303
 | 125 | Micron Technology | Sr Engineer - Operations Improvement | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Sr-Engineer---Operations-Improvement_JR102751-1) |
 | 125 | Micron Technology | Engineer - Operations Improvement | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Engineer---Operations-Improvement_JR102780) |
 | 125 | Micron Technology | Sr Supply Chain Planner | Boise, ID - North Office | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Sr-Supply-Chain-Planner_JR99884) |
+| 294 | S&P Global | Head of WSO Core Operations | Dallas, TX | — | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Head-of-WSO-Core-Operations_330665-1) |
 
 [Back to categories](#categories)
 
@@ -2191,7 +2191,7 @@ Open positions: 303
 
 ## People & Legal
 
-Open positions: 19
+Open positions: 18
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2206,7 +2206,6 @@ Open positions: 19
 | 63 | Capital One | Senior Director, Compliance | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Director--Compliance_R247684-1) |
 | 63 | Capital One | Principal Coordinator -HR Quality Assurance | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Principal-Coordinator--HR-Quality-Assurance_R244361-2) |
 | 63 | Capital One | Senior Administrative Assistant (Administrative Support Assistant III) - Legal (Tech Regulatory) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Legal--Tech-Regulatory-_R243552-1) |
-| 112 | Northrop Grumman | University Relations & Recruiting Talent Acquisition Business Partner | United States-Unknown | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Unknown/University-Relations---Recruiting-Talent-Acquisition-Business-Partner_R10242748) |
 | 112 | Northrop Grumman | International Trade Compliance Manager 3 | United States-California-El Segundo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Mgr-Intl-Trade-Compliance-3_R10242269) |
 | 112 | Northrop Grumman | HR Business Partner / Principal HR Business Partner- Palmdale  CA | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/HR-Business-Partner---Principal-HR-Business-Partner--Palmdale--CA_R10240755) |
 | 112 | Northrop Grumman | Manager International Trade Compliance 2 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Manager-Trade-Compliance-2_R10227823) |
@@ -2221,7 +2220,7 @@ Open positions: 19
 
 ## Other
 
-Open positions: 2874
+Open positions: 2868
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2562,8 +2561,6 @@ Open positions: 2874
 | 16 | NVIDIA | Global Channel Manager, Robotics and Edge AI | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Channel-Manager--Robotics-and-Edge-AI_JR2021836) |
 | 16 | NVIDIA | Strategic Account Manager, CSP - Networking | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Strategic-Account-Manager--CSP---Networking_JR2020916) |
 | 16 | NVIDIA | Principal Firmware Engineer – Server Manageability and Observability | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Firmware-Engineer---Server-Manageability-and-Observability_JR2001996) |
-| 16 | NVIDIA | Senior Technical Program Manager - Robotics | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Program-Manager---Robotics_JR2015734-1) |
-| 16 | NVIDIA | Circuit Design Engineer - Standard Cell | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer_JR2019466) |
 | 114 | Salesforce | Employee Success Shared Services Specialist | Indiana - Indianapolis | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Employee-Success-Specialist_JR347702) |
 | 114 | Salesforce | Senior Lifecycle Automation Manager | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Lifecycle-Automation-Manager_JR354299) |
 | 192 | Adobe | Senior AEM Co-Innovation Engineer | Remote Illinois | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Illinois/Senior-AEM-Co-Innovation-Engineer_R162937) |
@@ -2880,7 +2877,6 @@ Open positions: 2874
 | 112 | Northrop Grumman | Sr Principal Engineer Quality | United States-Florida-Cape Canaveral | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/Sr-Principal-Engineer-Quality_R10242462) |
 | 112 | Northrop Grumman | Execution Lead - Level 3 or 4 | United States-Alaska-Fort Greely | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alaska-Fort-Greely/Execution-Lead---Level-3-or-4_R10242787) |
 | 112 | Northrop Grumman | Engineering Design Manager – Level 3 | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineering-Design-Manager---Level-3_R10242013) |
-| 112 | Northrop Grumman | Sr. Principal Enterprise-Wide Applications Analyst | United States-Remote | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Sr-Principal-Enterprise-Wide-Applications-Analyst_R10231705) |
 | 112 | Northrop Grumman | Sr. Principal Mission Assurance Engineer | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Sr-Principal-Mission-Assurance-Engineer_R10242781) |
 | 112 | Northrop Grumman | Principal Mission Assurance  Engineer - 19079 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Principal-Mission-Assurance--Engineer---19079_R10241494) |
 | 112 | Northrop Grumman | Microelectronic Technician 2 | United States-California-Manhattan Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Microelectronic-Technician-2_R10242774) |
@@ -2937,7 +2933,6 @@ Open positions: 2874
 | 112 | Northrop Grumman | Principal Program Cost and Schedule Control Analyst | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Program-Cost-and-Schedule-Control-Analyst_R10242654) |
 | 112 | Northrop Grumman | Principal Test & Evaluation Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Test---Evaluation-Engineer_R10235575) |
 | 112 | Northrop Grumman | Manager General Manufacturing 2 | United States-Utah-Salt Lake City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Manager-General-Manufacturing-2_R10240862) |
-| 112 | Northrop Grumman | Program Cost and Schedule Control Analyst | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Program-Cost-and-Schedule-Control-Analyst_R10242646) |
 | 112 | Northrop Grumman | Sentinel Sr Principal Structural Engineer - 19109 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Sr-Principal-Structural-Engineer---19109_R10242649) |
 | 112 | Northrop Grumman | MK-48 Torpedo Technician 3 (SkillBridge) | United States-Virginia-Yorktown | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Yorktown/MK-48-Torpedo-Technician-3--SkillBridge-_R10242648) |
 | 112 | Northrop Grumman | Sr Principal Engineer Electronics | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Sr-Principal-Engineer-Electronics_R10242317) |
@@ -2962,7 +2957,6 @@ Open positions: 2874
 | 112 | Northrop Grumman | Engineer/Principal Engineer Systems Test | United States-Illinois-Rolling Meadows | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Engineer-Systems-Test_R10234601) |
 | 112 | Northrop Grumman | Electromechanical Engineer (Level 1 OR 2) | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Electromechanical-Engineer--Level-1-OR-2-_R10232218) |
 | 112 | Northrop Grumman | Manager Computer Systems Analysis 2 - Top Secret | United States-Illinois-Rolling Meadows | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Manager-Computer-Systems-Analysis-2---Top-Secret_R10232346) |
-| 112 | Northrop Grumman | Consulting Chief Engineer - Mission Systems | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Consulting-Chief-Engineer---Mission-Systems_R10242681) |
 | 112 | Northrop Grumman | 2026 Associate Electromechanical Engineer/Electromechanical Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Electromechanical-Engineer-Electromechanical-Engineer_R10242609) |
 | 112 | Northrop Grumman | Engineering Technician 2 / 3 | United States-Utah-Corinne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Engineering-Technician-2---3_R10242554) |
 | 112 | Northrop Grumman | Material Requirements Planning Analyst 4 | United States-California-Northridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Material-Requirements-Planning-Analyst-4_R10237242-1) |
@@ -2978,7 +2972,6 @@ Open positions: 2874
 | 112 | Northrop Grumman | Engineering Technician  A for 2nd Shift | United States-Maryland-Sykesville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Engineering-Technician--A-for-2nd-Shift_R10242330-1) |
 | 112 | Northrop Grumman | Structural Analyst Level 4 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Structural-Analyst-Level-4_R10242522) |
 | 112 | Northrop Grumman | Program Cost and Schedule Control Analyst | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Program-Cost-and-Schedule-Control-Analyst_R10240564) |
-| 112 | Northrop Grumman | Director 1 | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Director-1_R10242504) |
 | 112 | Northrop Grumman | Specification Writer 3 | United States-Arizona-Chandler | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Specification-Writer-3_R10236108) |
 | 112 | Northrop Grumman | Sr Principal Engineer Manufacturing | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Sr-Principal-Engineer-Manufacturing_R10241806) |
 | 112 | Northrop Grumman | Principal / Sr Principal Project Management - 18277 | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal---Sr-Principal-Project-Management---18277_R10242505) |
