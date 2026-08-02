@@ -1,12 +1,12 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 02, 2026 at 13:56 UTC
+Last updated: August 02, 2026 at 19:36 UTC
 
-Open full-time positions: 4987
+Open full-time positions: 4984
 
 ## Categories
 
-[Software & IT (1011)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (358)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (304)](#operations-supply-chain) · [People & Legal (18)](#people-legal) · [Other (2868)](#other)
+[Software & IT (1011)](#software-it) · [Data & AI (150)](#data-ai) · [Product & Design (31)](#product-design) · [Engineering (357)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (303)](#operations-supply-chain) · [People & Legal (18)](#people-legal) · [Other (2867)](#other)
 
 <a id="software-it"></a>
 
@@ -108,17 +108,18 @@ Open positions: 1011
 | 430 | Workday | Senior Software Development  Engineer, DevOps (US Federal) | USA.VA.Reston | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development--Engineer--DevOps--US-Federal-_JR-0108829) |
 | 430 | Workday | Software Development Engineer - Developer Platform | USA, CO, Boulder | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer_JR-0107838) |
 | 430 | Workday | Principal Software Development Engineer - Agent Factory | USA, CO, Boulder | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Principal-Software-Development-Engineer---Agent-Factory_JR-0108561) |
+| 16 | NVIDIA | Senior Software Program Manager - Datacenter Compute Server | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363) |
 | 16 | NVIDIA | Distinguished Software Architect - Deep Learning and HPC Communications | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Distinguished-Software-Architect---Deep-Learning-and-HPC-Communications_JR1980127) |
 | 16 | NVIDIA | Manager, System Software Engineering - Factory | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--System-Software-Engineering---Factory_JR2021001) |
 | 16 | NVIDIA | Senior Software Engineer, AIOps and Observability | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AIOps-and-Observability_JR2022104) |
 | 16 | NVIDIA | Senior Systems Software Engineer, Cloud Infrastructure and Development | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Cloud-Infrastructure-and-Development_JR2013426) |
-| 16 | NVIDIA | Senior Systems Software Security Engineer – Data Center Systems | US, CO, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CO-Remote/Senior-Systems-Software-Security-Engineer---Data-Center-Systems_JR2004966-1) |
 | 114 | Salesforce | Software Engineer (Backend) - MTS | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716) |
 | 114 | Salesforce | Principal Software Engineer | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Principal-Software-Engineer_JR350702-1) |
 | 114 | Salesforce | Senior Platform Engineer — Cloud Infrastructure | California - Redwood City | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Senior-Platform-Engineer---Cloud-Infrastructure_JR347707) |
 | 114 | Salesforce | Senior Software Engineer,  Agentforce Engines & Experiences | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS---Agentforce-Engines---Experiences_JR352561-1) |
 | 114 | Salesforce | Principal Architect, Software Engineering — Sales Cloud | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Principal-Architect--Software-Engineering---Sales-Cloud_JR354527) |
 | 114 | Salesforce | Software Engineering MTS | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354301) |
+| 63 | Capital One | Lead Software Engineer, Full Stack (Java, React, AWS) | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Java--React--AWS-_R247299-1) |
 | 63 | Capital One | Lead Software Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R244123-1) |
 | 63 | Capital One | Lead Software Engineer, Back End | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Back-End_R248203-2) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R246185-1) |
@@ -173,7 +174,6 @@ Open positions: 1011
 | 63 | Capital One | Lead Software Engineer, Full stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-stack_R247505-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (AWS, Glue, Spark) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--AWS--Glue--Spark-_R243298-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (React, Java, AWS) | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--React--Java--AWS-_R247300-1) |
-| 63 | Capital One | Lead Software Engineer, Full Stack (Java, React, AWS) | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Java--React--AWS-_R247299-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack_R247513) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (Golang, Angular, AWS) | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--Golang--Angular--AWS-_R244113-1) |
 | 63 | Capital One | Lead Software Engineer | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R247441-1) |
@@ -1237,7 +1237,7 @@ Open positions: 31
 
 ## Engineering
 
-Open positions: 358
+Open positions: 357
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1584,7 +1584,6 @@ Open positions: 358
 | 125 | Micron Technology | NY1 Senior Facilities Electrical Engineer - FAC | Clay, NY | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Clay-NY/Staff-Electrical-Engineer_JR88988) |
 | 125 | Micron Technology | Dry Mechanical Engineer | Clay, NY | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Clay-NY/Dry-Mechanical-Engineer_JR88091) |
 | 125 | Micron Technology | Sr. Chemical Operations Engineer | Syracuse, NY - Downtown Office | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Syracuse-NY---Downtown-Office/Chemical-Operations-Engineer_JR100280) |
-| 125 | Micron Technology | Wet Mechanical Operations Engineer | Syracuse, NY - Downtown Office | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Syracuse-NY---Downtown-Office/Wet-Mechanical-Operations-Engineer_JR100273) |
 | 125 | Micron Technology | Wet Mechanical Operations Engineer | Syracuse, NY - Downtown Office | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Syracuse-NY---Downtown-Office/Wet-Mechanical-Operations-Engineer_JR100406) |
 | 125 | Micron Technology | Principal Hardware Engineer, SSD | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Principal-Hardware-Engineer--SSD_JR106016) |
 | 125 | Micron Technology | Senior Electrical Failure Analysis Engineer - Storage Systems | Longmont-MAX- Office, CO | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Staff-Electrical-Failure-Analysis-Engineer--Storage-systems_JR99324) |
@@ -1875,7 +1874,7 @@ Open positions: 176
 
 ## Operations & Supply Chain
 
-Open positions: 304
+Open positions: 303
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1992,6 +1991,7 @@ Open positions: 304
 | 63 | Capital One | Sr. Coordinator, Support Operations | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Sr-Coordinator--Support-Operations_R246260-1) |
 | 63 | Capital One | Principal Coordinator, Support Operations | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Coordinator--Support-Operations_R247763-1) |
 | 63 | Capital One | Principal Coordinator, Support Operations | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Principal-Coordinator--Support-Operations_R246643-1) |
+| 112 | Northrop Grumman | Supply Chain Subcontract Specialist - Level 4 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Supply-Chain-Subcontract-Specialist---Level-4_R10239882) |
 | 112 | Northrop Grumman | Sr Principal Project Management- Logistics Program Management | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Sr-Principal-Project-Management--Logistics-Program-Management_R10242189) |
 | 112 | Northrop Grumman | Supply Chain Technical Coordinator 1 or 2 | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Supply-Chain-Technical-Coordinator-1-or-2_R10243184) |
 | 112 | Northrop Grumman | Manager Supply Chain Programs 1 | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manager-Supply-Chain-Programs-1_R10237300) |
@@ -2075,14 +2075,12 @@ Open positions: 304
 | 112 | Northrop Grumman | Staff Supply Chain Subcontract Specialist | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Supply-Chain-Subcontract-Specialist_R10230016) |
 | 112 | Northrop Grumman | F-18 Flight Operations 3 | United States-Texas-San Antonio | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/F-18-Flight-Operations-3_R10239241) |
 | 112 | Northrop Grumman | Staff  Engineering Planning Analyst- Program Planning and Operations | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff--Engineering-Planning-Analyst--Program-Planning-and-Operations_R10240340) |
-| 112 | Northrop Grumman | Production Operations Manager 2 | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Production-Operations-Manager-2_R10240091) |
 | 112 | Northrop Grumman | Staff Supply Chain Planning Specialist | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Staff-Supply-Chain-Planning-Specialist_R10239482) |
 | 112 | Northrop Grumman | Principal or Sr. Principal Supply Chain Specialist (Material Program Mgmt.) | United States-Minnesota-Plymouth | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Principal-or-Sr-Principal-Supply-Chain-Specialist--Material-Program-Mgmt-_R10240308) |
 | 112 | Northrop Grumman | E-6B Supply Chain Technical Coordinator 2 Days Nights Weekends | United States-Louisiana-Lake Charles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/Supply-Chain-Technical-Coordinator-2-Days-Nights-Weekends_R10240273) |
 | 112 | Northrop Grumman | E-6B Logistics Management Analyst | United States-Louisiana-Lake Charles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/E-6B-Logistics-Management-Analyst_R10240265) |
 | 112 | Northrop Grumman | Logistics Planner | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Logistics-Planner_R10240078) |
 | 112 | Northrop Grumman | Manager Supply Chain 2 | United States-California-El Segundo | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Manager-Supply-Chain-2_R10240057) |
-| 112 | Northrop Grumman | Supply Chain Subcontract Specialist - Level 4 | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Supply-Chain-Subcontract-Specialist---Level-4_R10239882) |
 | 112 | Northrop Grumman | Principal Supply Chain Subcontract Specialist | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Principal-Supply-Chain-Subcontract-Specialist_R10239877) |
 | 112 | Northrop Grumman | Manager Supply Chain Programs 2 | United States-Oklahoma-Oklahoma City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Manager-Supply-Chain-Programs-2_R10239872) |
 | 112 | Northrop Grumman | Staff Logistics Management Analyst | United States-South Dakota-Ellsworth AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-South-Dakota-Ellsworth-AFB/Staff-Logistics-Management-Analyst_R10239629) |
@@ -2219,7 +2217,7 @@ Open positions: 18
 
 ## Other
 
-Open positions: 2868
+Open positions: 2867
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2559,7 +2557,6 @@ Open positions: 2868
 | 16 | NVIDIA | Senior Account Manager | US, WA, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Account-Manager_JR2022472) |
 | 16 | NVIDIA | Global Channel Manager, Robotics and Edge AI | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Global-Channel-Manager--Robotics-and-Edge-AI_JR2021836) |
 | 16 | NVIDIA | Strategic Account Manager, CSP - Networking | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Strategic-Account-Manager--CSP---Networking_JR2020916) |
-| 16 | NVIDIA | Principal Firmware Engineer – Server Manageability and Observability | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Firmware-Engineer---Server-Manageability-and-Observability_JR2001996) |
 | 114 | Salesforce | Employee Success Shared Services Specialist | Indiana - Indianapolis | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Employee-Success-Specialist_JR347702) |
 | 114 | Salesforce | Senior Lifecycle Automation Manager | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Lifecycle-Automation-Manager_JR354299) |
 | 192 | Adobe | Senior AEM Co-Innovation Engineer | Remote Illinois | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Illinois/Senior-AEM-Co-Innovation-Engineer_R162937) |
@@ -2715,6 +2712,7 @@ Open positions: 2868
 | 63 | Capital One | Senior Business Banker - Philadelphia Market | Philadelphia, PA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211) |
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 112 | Northrop Grumman | Contracts Administrator - Level 3 or 4 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Contracts-Administrator---Level-3-or-4_R10238683) |
 | 112 | Northrop Grumman | Property and Asset Management Analyst | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Property-and-Asset-Management-Analyst_R10238411) |
 | 112 | Northrop Grumman | Engineering Program Manager Level 3 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Program-Manager-Level-3_R10243332) |
 | 112 | Northrop Grumman | Senior Principal Test Conductor | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Senior-Principal-Test-Conductor_R10243323) |
@@ -3788,7 +3786,6 @@ Open positions: 2868
 | 112 | Northrop Grumman | Manager Systems Engineering 2 | United States-California-McClellan | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/Manager-Systems-Engineering-2_R10238642-1) |
 | 112 | Northrop Grumman | Program Manager 2 | United States-Florida-Palm Beach Gardens | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Palm-Beach-Gardens/Program-Manager-2_R10237585) |
 | 112 | Northrop Grumman | Manager Business Management 3 | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Manager-Business-Management-3_R10209927) |
-| 112 | Northrop Grumman | Contracts Administrator - Level 3 or 4 | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Contracts-Administrator---Level-3-or-4_R10238683) |
 | 112 | Northrop Grumman | Chief Engineer Level 5 - Linthicum | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Chief-Engineer-Level-5---Linthicum_R10238681-1) |
 | 112 | Northrop Grumman | LabVIEW Engineer | United States-Georgia-Warner Robins | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/LabVIEW-Engineer_R10238677) |
 | 112 | Northrop Grumman | Engineer/Principal Engineer Electronics - Ground System Architect/Integrator (San Diego CA) | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Principal-Engineer-Electronics---Ground-System-Architect-Integrator--San-Diego-CA-_R10238659) |
