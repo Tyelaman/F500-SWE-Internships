@@ -11,7 +11,7 @@ Edit README_TEMPLATE.md instead of editing README.md directly.
 
 An automated Python pipeline that collects United States-based positions from Fortune 500 company career sites, normalizes postings from multiple hiring platforms, classifies them by employment type and job category, and publishes continuously updated Markdown and JSON job listings.
 
-**Last updated:** August 03, 2026 at 10:09 UTC
+**Last updated:** August 03, 2026 at 15:18 UTC
 
 ## Current listings
 
@@ -19,8 +19,8 @@ An automated Python pipeline that collects United States-based positions from Fo
 |---|---:|
 | Tracked companies | 20 |
 | Internships | 3 |
-| Full-time positions | 4964 |
-| Total positions | 4967 |
+| Full-time positions | 4943 |
+| Total positions | 4946 |
 
 ### Browse the listings
 
