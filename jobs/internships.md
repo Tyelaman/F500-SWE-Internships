@@ -1,24 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 04, 2026 at 09:10 UTC
+Last updated: August 04, 2026 at 14:42 UTC
 
-Open internships: 4
+Open internships: 3
 
 ## Categories
 
-[Operations & Supply Chain (1)](#operations-supply-chain) · [Other (3)](#other)
-
-<a id="operations-supply-chain"></a>
-
-## Operations & Supply Chain
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 47 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
-
-[Back to categories](#categories)
+[Other (3)](#other)
 
 <a id="other"></a>
 
