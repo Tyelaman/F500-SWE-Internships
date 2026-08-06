@@ -1,6 +1,6 @@
 # Fortune 500 Internships
 
-Last updated: August 05, 2026 at 19:57 UTC
+Last updated: August 06, 2026 at 03:38 UTC
 
 Open internships: 15
 
@@ -16,7 +16,7 @@ Open positions: 1
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
-| 16 | NVIDIA | Software Engineering Intern, Dynamo - Fall 2026 | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) |
+| 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 
 [Back to categories](#categories)
 
