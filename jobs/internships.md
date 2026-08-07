@@ -1,23 +1,22 @@
 # Fortune 500 Internships
 
-Last updated: August 07, 2026 at 13:41 UTC
+Last updated: August 07, 2026 at 19:18 UTC
 
-Open internships: 12
+Open internships: 11
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Other (10)](#other)
+[Software & IT (1)](#software-it) · [Other (10)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
-| 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 
 [Back to categories](#categories)
 
