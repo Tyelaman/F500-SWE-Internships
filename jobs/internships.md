@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 07, 2026 at 07:44 UTC
+Last updated: August 07, 2026 at 13:41 UTC
 
-Open internships: 13
+Open internships: 12
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Engineering (1)](#engineering) · [Other (10)](#other)
+[Software & IT (2)](#software-it) · [Other (10)](#other)
 
 <a id="software-it"></a>
 
@@ -18,18 +18,6 @@ Open positions: 2
 |---:|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
-
-[Back to categories](#categories)
-
-<a id="engineering"></a>
-
-## Engineering
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
 
 [Back to categories](#categories)
 
