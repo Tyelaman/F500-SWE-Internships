@@ -1,18 +1,18 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 08, 2026 at 02:24 UTC
+Last updated: August 08, 2026 at 07:14 UTC
 
 Open full-time positions: 5128
 
 ## Categories
 
-[Software & IT (1060)](#software-it) · [Data & AI (155)](#data-ai) · [Product & Design (38)](#product-design) · [Engineering (368)](#engineering) · [Finance & Accounting (72)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (324)](#operations-supply-chain) · [People & Legal (24)](#people-legal) · [Other (2911)](#other)
+[Software & IT (1061)](#software-it) · [Data & AI (155)](#data-ai) · [Product & Design (37)](#product-design) · [Engineering (368)](#engineering) · [Finance & Accounting (72)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (324)](#operations-supply-chain) · [People & Legal (24)](#people-legal) · [Other (2911)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 1060
+Open positions: 1061
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -101,16 +101,7 @@ Open positions: 1060
 | 357 | Airbnb | Staff Software Engineer, Build (Bazel) | Remote - USA | Jun 09, 2026 | [Apply](https://careers.airbnb.com/positions/7739337?gh_jid=7739337) |
 | 357 | Airbnb | Staff Software Engineer, Community Support Engineering | Remote - USA | May 28, 2026 | [Apply](https://careers.airbnb.com/positions/7463421?gh_jid=7463421) |
 | 357 | Airbnb | Senior Staff Software Engineer, Trust | Remote - US | Apr 21, 2026 | [Apply](https://careers.airbnb.com/positions/7818982?gh_jid=7818982) |
-| 430 | Workday | Software Development Engineer | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735) |
-| 430 | Workday | Sr Software Development Engineer (Full Stack) - Evisort AI | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Full-Stack----Evisort-AI_JR-0108840) |
-| 430 | Workday | Senior Site Reliability Engineer - US Federal (VDI & Infrastructure) | USA.VA.Reston | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Site-Reliability-Engineer---US-Federal--VDI---Infrastructure-_JR-0106012) |
-| 430 | Workday | Software Development Engineer, AI Platform | USA, CO, Boulder | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870) |
-| 16 | NVIDIA | Senior Developer Relations Manager - AI Agents | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797) |
-| 16 | NVIDIA | Senior Software Engineer, Networking | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068) |
-| 16 | NVIDIA | Senior Manager, Performance Engineering – Kernel and Software Platforms | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Performance-Engineering---Kernel-and-Software-Platforms_JR2022757) |
-| 16 | NVIDIA | Senior Embedded System Software Engineer – Platform Execution Lead | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1) |
-| 16 | NVIDIA | Senior GPU System Software Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-System-Software-Engineer_JR2022837) |
-| 16 | NVIDIA | Senior Systems Software Engineer, Data Center Platform Enablement | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870) |
+| 114 | Salesforce | VP, Software Engineering | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/VP--Software-Engineering_JR355491-1) |
 | 114 | Salesforce | Software Engineering MTS | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808) |
 | 114 | Salesforce | Software Engineering LMTS | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR353837) |
 | 114 | Salesforce | Senior Product Manager, Financial Services Cloud | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Financial-Services-Cloud_JR345909) |
@@ -261,6 +252,16 @@ Open positions: 1060
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Go, AWS) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Go--AWS-_R238739-1) |
 | 63 | Capital One | Principal Associate - Software Engineering | Bangalore, In | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Principal-Associate---Software-Engineering_R237903-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R231925-1) |
+| 430 | Workday | Software Development Engineer | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735) |
+| 430 | Workday | Sr Software Development Engineer (Full Stack) - Evisort AI | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Full-Stack----Evisort-AI_JR-0108840) |
+| 430 | Workday | Senior Site Reliability Engineer - US Federal (VDI & Infrastructure) | USA.VA.Reston | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Site-Reliability-Engineer---US-Federal--VDI---Infrastructure-_JR-0106012) |
+| 430 | Workday | Software Development Engineer, AI Platform | USA, CO, Boulder | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870) |
+| 16 | NVIDIA | Senior Developer Relations Manager - AI Agents | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797) |
+| 16 | NVIDIA | Senior Software Engineer, Networking | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068) |
+| 16 | NVIDIA | Senior Manager, Performance Engineering – Kernel and Software Platforms | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Performance-Engineering---Kernel-and-Software-Platforms_JR2022757) |
+| 16 | NVIDIA | Senior Embedded System Software Engineer – Platform Execution Lead | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1) |
+| 16 | NVIDIA | Senior GPU System Software Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-System-Software-Engineer_JR2022837) |
+| 16 | NVIDIA | Senior Systems Software Engineer, Data Center Platform Enablement | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870) |
 | 112 | Northrop Grumman | Staff Systems Engineer - NATO ISS Lead | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Systems-Engineer---NATO-ISS-Lead_R10244607) |
 | 112 | Northrop Grumman | Systems Engineer - Level 3 (AHT) | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Systems-Engineer---Level-3_R10233388) |
 | 112 | Northrop Grumman | Systems Engineer - Level 3 (AHT) | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Systems-Engineer---Level-3_R10233389) |
@@ -1154,7 +1155,6 @@ Open positions: 155
 | 357 | Airbnb | Senior Staff Machine Learning Engineer, Data & Eval | United States | Apr 22, 2026 | [Apply](https://careers.airbnb.com/positions/6757302?gh_jid=6757302) |
 | 357 | Airbnb | Senior Staff Machine Learning Engineer, Growth Platform Engineering | Remote - USA | Apr 14, 2026 | [Apply](https://careers.airbnb.com/positions/7747259?gh_jid=7747259) |
 | 357 | Airbnb | Senior Manager, Advanced Analytics, Fraud & Safety Operations | United States | Apr 09, 2026 | [Apply](https://careers.airbnb.com/positions/7788160?gh_jid=7788160) |
-| 430 | Workday | Senior Machine Learning Engineer/Machine Learning Engineer III | USA, WA, Seattle | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0107996) |
 | 63 | Capital One | Senior Associate - Trade Analytics & Valuation | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate---Trade-Analytics---Valuation_R248635-1) |
 | 63 | Capital One | Lead Data Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Data-Engineer_R248364-1) |
 | 63 | Capital One | Lead Data Engineer | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Data-Engineer--IC-ITDE51--Manager-IC_R248521-1) |
@@ -1216,6 +1216,7 @@ Open positions: 155
 | 63 | Capital One | Lead Machine Learning Engineer | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R241928-1) |
 | 63 | Capital One | Senior Associate, Compensation Analytics | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Compensation-Analytics_R235484-1) |
 | 63 | Capital One | Lead Data Engineer | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Data-Engineer_R239364-1) |
+| 430 | Workday | Senior Machine Learning Engineer/Machine Learning Engineer III | USA, WA, Seattle | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0107996) |
 | 112 | Northrop Grumman | Principal Data Scientist | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Principal-Data-Scientist_R10242066) |
 | 112 | Northrop Grumman | Senior Principal Data Scientist -18872 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Senior-Principal-Data-Scientist--18872_R10243172) |
 | 112 | Northrop Grumman | Sr Principal Quality Engineer - Data Analytics | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Sr-Principal-Quality-Engineer---Data-Analytics_R10243088) |
@@ -1249,7 +1250,7 @@ Open positions: 155
 
 ## Product & Design
 
-Open positions: 38
+Open positions: 37
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1275,7 +1276,6 @@ Open positions: 38
 | 357 | Airbnb | Product Manager, Tickets | United States | Jul 27, 2026 | [Apply](https://careers.airbnb.com/positions/8082161?gh_jid=8082161) |
 | 357 | Airbnb | Product Manager, Incubations | San Francisco, CA, New York, NY | Jul 23, 2026 | [Apply](https://careers.airbnb.com/positions/8044715?gh_jid=8044715) |
 | 114 | Salesforce | Senior Product Manager, Partner Experience | New York - New York | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Senior-Product-Manager--Partner-Experience_JR353143) |
-| 114 | Salesforce | Partner Experience Product Management Director | New York - New York | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Partner-Experience-Product-Management-Director_JR353141) |
 | 63 | Capital One | Senior Associate, Product Management - Platform (CI/CD) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Management---Platform--CI-CD-_R248551-1) |
 | 63 | Capital One | Senior Manager, Product Management -  Governance, Risk, and Compliance | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Management----Governance--Risk--and-Compliance_R248437-1) |
 | 63 | Capital One | Manager, Product Manager - Activities, Capital One Travel | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Product-Manager---Activities--Capital-One-Travel_R248277-1) |
@@ -1694,7 +1694,6 @@ Open positions: 72
 | 132 | Coupang | Senior Accountant | Riverside, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7852181) |
 | 357 | Airbnb | Senior Platform Manager, Data Products, Finance Accounting | United States | Jul 20, 2026 | [Apply](https://careers.airbnb.com/positions/8070705?gh_jid=8070705) |
 | 357 | Airbnb | Principal, Strategic Finance, Community Support | United States | Jul 14, 2026 | [Apply](https://careers.airbnb.com/positions/7759059?gh_jid=7759059) |
-| 16 | NVIDIA | Senior Financial Analyst - Sales Finance | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst---Sales-Finance_JR2018414) |
 | 63 | Capital One | Executive Assistant- Financial Services (Human Resources) | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Executive-Assistant--Financial-Services--Human-Resources-_R248230) |
 | 63 | Capital One | Senior Administrative Assistant (Administrative Support Assistant III) - Financial Services | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Financial-Services_R246757-1) |
 | 63 | Capital One | Principal Financial Analyst, International Markets Team | Riverwoods, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Principal-Financial-Analyst--International-Markets-Team_R248192-1) |
@@ -1719,6 +1718,7 @@ Open positions: 72
 | 63 | Capital One | Senior Associate, Financial Planning & Analysis - Auto Finance | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Associate--Financial-Planning---Analysis---Auto-Finance_R241993-2) |
 | 63 | Capital One | Senior Quantitative Analyst - Global Finance | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Quantitative-Analyst---Global-Finance_R239453) |
 | 63 | Capital One | Senior Tax Associate, Indirect Tax | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Tax-Associate--State---Local--SALT-_R234811-1) |
+| 16 | NVIDIA | Senior Financial Analyst - Sales Finance | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Financial-Analyst---Sales-Finance_JR2018414) |
 | 112 | Northrop Grumman | Financial Analyst - Level 2 or Level 3 | United States-Arizona-Chandler | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Financial-Analyst---Level-2-or-Level-3_R10220226) |
 | 112 | Northrop Grumman | Principal Financial Analyst | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal-Financial-Analyst_R10242098-1) |
 | 112 | Northrop Grumman | Business Management Analyst - Finance | United States-California-Woodland Hills | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Business-Management-Analyst---Finance_R10231252) |
@@ -1875,7 +1875,6 @@ Open positions: 176
 | 357 | Airbnb | Senior Growth Marketing Lead, Engagement | United States | Jul 28, 2026 | [Apply](https://careers.airbnb.com/positions/8082851?gh_jid=8082851) |
 | 357 | Airbnb | Senior Sales Operations Lead | United States | Jul 24, 2026 | [Apply](https://careers.airbnb.com/positions/8083716?gh_jid=8083716) |
 | 357 | Airbnb | Marketing Operations Lead | United States | Jul 22, 2026 | [Apply](https://careers.airbnb.com/positions/8056124?gh_jid=8056124) |
-| 16 | NVIDIA | Product Marketing Manager - Enterprise AI | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager---Enterprise-AI_JR2021961) |
 | 63 | Capital One | Senior Associate, Product Marketing Strategy, New-To-Credit (Hybrid) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Marketing-Strategy--New-To-Credit--Hybrid-_R245883-1) |
 | 63 | Capital One | Director, Regional Sales Manager | St. Louis, MO | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/St-Louis-MO/Director--Regional-Sales-Manager_R243164-1) |
 | 63 | Capital One | Senior Manager, Global Enterprise Communications | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Global-Enterprise-Communications_R247986) |
@@ -1893,6 +1892,7 @@ Open positions: 176
 | 63 | Capital One | Principal Associate, Brand- Market Research and Social Insights | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Associate--Brand--Market-Research-and-Social-Insights_R244429-1) |
 | 63 | Capital One | Emerging Sales Associate - August 2027 | Plano, TX | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Emerging-Sales-Associate---August-2027_R244419-1) |
 | 63 | Capital One | Senior Associate, Talent Brand Strategist - Talent Marketing | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Associate--Talent-Brand-Strategist---Talent-Marketing_R243212-1) |
+| 16 | NVIDIA | Product Marketing Manager - Enterprise AI | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager---Enterprise-AI_JR2021961) |
 | 112 | Northrop Grumman | Principal Network Communications | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Network-Communications_R10244590) |
 | 112 | Northrop Grumman | Employee Communications Representative | United States-Virginia-McLean | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Associate-Employee-Communications-Representative_R10243970) |
 | 112 | Northrop Grumman | Sr. Principal Employee Communications Representative | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Employee-Communications-Representative_R10243679) |
@@ -2643,20 +2643,8 @@ Open positions: 2911
 | 357 | Airbnb | Strategic Sourcing, Manager - Engineering & Infrastructure | United States | Jun 05, 2026 | [Apply](https://careers.airbnb.com/positions/7736738?gh_jid=7736738) |
 | 357 | Airbnb | Staff Advanced Analyst, Guest Engagement | United States | May 15, 2026 | [Apply](https://careers.airbnb.com/positions/7927588?gh_jid=7927588) |
 | 357 | Airbnb | Community Support Forecasting and Demand Planning Analyst | United States | Apr 24, 2026 | [Apply](https://careers.airbnb.com/positions/7839229?gh_jid=7839229) |
-| 430 | Workday | Senior Executive Assistant | USA.CA.Home Office Bay Area | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USACAHome-Office-Bay-Area/Senior-Executive-Assistant_JR-0108784) |
-| 430 | Workday | GTM Manager | USA, NY, New York City | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/GTM-Manager_JR-0108640) |
-| 430 | Workday | GTM Manager | USA, NY, New York City | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/GTM-Manager_JR-0108638) |
-| 430 | Workday | Quality Assurance Engineer | USA, OH, Mason | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-OH-Mason/Quality-Assurance-Engineer_JR-0109220-1) |
-| 430 | Workday | Senior Director Information Development | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Director-Information-Development_JR-0108794) |
-| 16 | NVIDIA | Senior Manager, System Integration – Silicon Co-Design Group | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--System-Integration---Silicon-Co-Design-Group_JR2017715) |
-| 16 | NVIDIA | Senior Mixed Signal Design Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1) |
-| 16 | NVIDIA | Senior Account Manager Lead, Walmart | US, AR, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager-Lead--Walmart_JR2022720) |
-| 16 | NVIDIA | Senior Account Manager - Semiconductor Ecosystem | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---Semiconductor-Ecosystem_JR2021318) |
-| 16 | NVIDIA | Senior Manufacturing and System Co-Design Workflow Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manufacturing-and-System-Co-Design-Workflow-Engineer_JR2021337) |
-| 16 | NVIDIA | Risk Manager | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Risk-Manager_JR2022850) |
 | 114 | Salesforce | Senior Director - Technical Program Management, Field Service | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Director---Technical-Program-Management--Field-Service_JR346035) |
 | 114 | Salesforce | Senior Security GRC Analyst | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Security-GRC-Analyst_JR347428-1) |
-| 192 | Adobe | Senior TPRM Consultant (Partner Engagements) | New York | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646) |
 | 63 | Capital One | Senior Risk Specialist / Retail Bank | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Risk-Specialist---Retail-Bank_R248378-1) |
 | 63 | Capital One | Senior Administrative Assistant (Administrative Support Assistant III) - Corporate Banking | New York, NY | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Administrative-Assistant--Administrative-Support-Assistant-III----Corporate-Banking_R248535-1) |
 | 63 | Capital One | Senior Associate, Market Engagement Lead - Community Impact & Investment (Wilmington) | Wilmington, DE | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Senior-Associate--Market-Engagement-Lead---Community-Impact---Investment--Wilmington-_R248683-2) |
@@ -2814,6 +2802,18 @@ Open positions: 2911
 | 63 | Capital One | Senior Business Banker - Philadelphia Market | Philadelphia, PA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211) |
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 430 | Workday | Senior Executive Assistant | USA.CA.Home Office Bay Area | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USACAHome-Office-Bay-Area/Senior-Executive-Assistant_JR-0108784) |
+| 430 | Workday | GTM Manager | USA, NY, New York City | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/GTM-Manager_JR-0108640) |
+| 430 | Workday | GTM Manager | USA, NY, New York City | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/GTM-Manager_JR-0108638) |
+| 430 | Workday | Quality Assurance Engineer | USA, OH, Mason | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-OH-Mason/Quality-Assurance-Engineer_JR-0109220-1) |
+| 430 | Workday | Senior Director Information Development | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Director-Information-Development_JR-0108794) |
+| 16 | NVIDIA | Senior Manager, System Integration – Silicon Co-Design Group | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--System-Integration---Silicon-Co-Design-Group_JR2017715) |
+| 16 | NVIDIA | Senior Mixed Signal Design Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1) |
+| 16 | NVIDIA | Senior Account Manager Lead, Walmart | US, AR, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager-Lead--Walmart_JR2022720) |
+| 16 | NVIDIA | Senior Account Manager - Semiconductor Ecosystem | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Account-Manager---Semiconductor-Ecosystem_JR2021318) |
+| 16 | NVIDIA | Senior Manufacturing and System Co-Design Workflow Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manufacturing-and-System-Co-Design-Workflow-Engineer_JR2021337) |
+| 16 | NVIDIA | Risk Manager | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Risk-Manager_JR2022850) |
+| 192 | Adobe | Senior TPRM Consultant (Partner Engagements) | New York | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646) |
 | 112 | Northrop Grumman | Principal/Senior Principal Systems Test Engineer | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Senior-Principal-Systems-Test-Engineer_R10243130) |
 | 112 | Northrop Grumman | Systems Test Engineer - Hardware 2/3 | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Test-Engineer---Hardware-2-3_R10243134) |
 | 112 | Northrop Grumman | Principal Technical Editor and Writer | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Principal-Technical-Editor-and-Writer_R10244602) |
