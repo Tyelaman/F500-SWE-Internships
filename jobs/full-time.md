@@ -1,18 +1,18 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 09, 2026 at 07:18 UTC
+Last updated: August 09, 2026 at 13:18 UTC
 
-Open full-time positions: 5110
+Open full-time positions: 5102
 
 ## Categories
 
-[Software & IT (1059)](#software-it) · [Data & AI (154)](#data-ai) · [Product & Design (37)](#product-design) · [Engineering (364)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (320)](#operations-supply-chain) · [People & Legal (25)](#people-legal) · [Other (2904)](#other)
+[Software & IT (1055)](#software-it) · [Data & AI (154)](#data-ai) · [Product & Design (37)](#product-design) · [Engineering (364)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (174)](#sales-marketing) · [Operations & Supply Chain (320)](#operations-supply-chain) · [People & Legal (25)](#people-legal) · [Other (2902)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 1059
+Open positions: 1055
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -108,13 +108,9 @@ Open positions: 1059
 | 16 | NVIDIA | Senior Software Engineer, NCCL | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186) |
 | 16 | NVIDIA | Senior Developer Relations Manager - AI Agents | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797) |
 | 16 | NVIDIA | Senior Software Engineer, Networking | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068) |
-| 16 | NVIDIA | Senior Manager, Performance Engineering – Kernel and Software Platforms | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Performance-Engineering---Kernel-and-Software-Platforms_JR2022757) |
-| 16 | NVIDIA | Senior Embedded System Software Engineer – Platform Execution Lead | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1) |
-| 16 | NVIDIA | Senior GPU System Software Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-GPU-System-Software-Engineer_JR2022837) |
 | 114 | Salesforce | VP, Software Engineering | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/VP--Software-Engineering_JR355491-1) |
 | 114 | Salesforce | Software Engineering MTS | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS_JR354808) |
 | 114 | Salesforce | Software Engineering LMTS | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR353837) |
-| 114 | Salesforce | Senior Product Manager, Financial Services Cloud | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Financial-Services-Cloud_JR345909) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Go/Java, Angular, AWS) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--Go-Java--Angular--AWS-_R245187-1) |
 | 63 | Capital One | Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS) | Richmond, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--TypeScript--Vuejs--Nodejs--AWS-_R245651-1) |
 | 63 | Capital One | Senior Lead Software Engineer, Full Stack (Java, Angular, AWS) | Chicago, IL | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--Java--Angular--AWS-_R243988-2) |
@@ -1752,7 +1748,7 @@ Open positions: 71
 
 ## Sales & Marketing
 
-Open positions: 176
+Open positions: 174
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1867,7 +1863,6 @@ Open positions: 176
 | 357 | Airbnb | Senior Growth Marketing Lead, Engagement | United States | Jul 28, 2026 | [Apply](https://careers.airbnb.com/positions/8082851?gh_jid=8082851) |
 | 357 | Airbnb | Senior Sales Operations Lead | United States | Jul 24, 2026 | [Apply](https://careers.airbnb.com/positions/8083716?gh_jid=8083716) |
 | 357 | Airbnb | Marketing Operations Lead | United States | Jul 22, 2026 | [Apply](https://careers.airbnb.com/positions/8056124?gh_jid=8056124) |
-| 16 | NVIDIA | Product Marketing Manager - Enterprise AI | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager---Enterprise-AI_JR2021961) |
 | 63 | Capital One | Senior Associate, Product Marketing Strategy, New-To-Credit (Hybrid) | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Product-Marketing-Strategy--New-To-Credit--Hybrid-_R245883-1) |
 | 63 | Capital One | Director, Regional Sales Manager | St. Louis, MO | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/St-Louis-MO/Director--Regional-Sales-Manager_R243164-1) |
 | 63 | Capital One | Senior Manager, Global Enterprise Communications | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Global-Enterprise-Communications_R247986) |
@@ -1915,7 +1910,6 @@ Open positions: 176
 | 112 | Northrop Grumman | Manager Business Development 3 | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manager-Business-Development-3_R10224996) |
 | 112 | Northrop Grumman | Staff Business Development Representative | United States-Minnesota-Plymouth | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Staff-Business-Development-Representative_R10229261) |
 | 112 | Northrop Grumman | Deployable Principal Network Communications | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Deployable-Principal-Network-Communications_R10229665) |
-| 88 | Intel | Datacenter Technical Sales Specialist - Pacific Northwest | Virtual US | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Datacenter-Technical-Sales-Specialist---Pacific-Northwest_JR0285477) |
 | 119 | Visa | Business Analyst, Sales & Commercial Operations | CO - Bogota, Colombia | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/CO---Bogota-Colombia/Business-Analyst--Sales---Commercial-Operations_REF085224W-1) |
 | 119 | Visa | Marketing Manager, Demand Generation & Nurture | US - Austin, TX | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Marketing-Manager--Demand-Generation---Nurture_REF087314W) |
 | 119 | Visa | Director, Business Development | IN - Mumbai, India | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Mumbai-India/Director--Business-Development_REF082829W) |
@@ -2306,7 +2300,7 @@ Open positions: 25
 
 ## Other
 
-Open positions: 2904
+Open positions: 2902
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2640,7 +2634,6 @@ Open positions: 2904
 | 430 | Workday | Senior Director Information Development | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Director-Information-Development_JR-0108794) |
 | 16 | NVIDIA | Senior Firmware Engineer – CSP Engagements | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599) |
 | 16 | NVIDIA | Senior Manager, System Integration – Silicon Co-Design Group | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--System-Integration---Silicon-Co-Design-Group_JR2017715) |
-| 16 | NVIDIA | Senior Mixed Signal Design Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1) |
 | 114 | Salesforce | Director of Product Security | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Director-of-Product-Security_JR355123) |
 | 114 | Salesforce | Senior Director - Technical Program Management, Field Service | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Director---Technical-Program-Management--Field-Service_JR346035) |
 | 192 | Adobe | Senior TPRM Consultant (Partner Engagements) | New York | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646) |
@@ -4738,7 +4731,6 @@ Open positions: 2904
 | 88 | Intel | Simulation and Modeling Lead | US, Oregon, Hillsboro | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Simulation-and-Modeling-Lead_JR0285459) |
 | 88 | Intel | Silicon Photonics Wafer Test Automation Development Engineer | US, California, Santa Clara | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Silicon-Photonics-Wafer-Test-Automation-Development-Engineer_JR0286239-1) |
 | 88 | Intel | Ocotillo Technology Fabrication Thin Films Metro Module Engineer | US, Arizona, Phoenix | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Thin-Films-Metro-Module-Engineer_JR0285574-1) |
-| 88 | Intel | Intel Foundry Overlay Development Engineer | US, Oregon, Hillsboro | — | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Intel-Foundry-Overlay-Development-Engineer_JR0286232) |
 | 119 | Visa | Program Manager Sr. Consultant | US - Foster City, CA | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Program-Manager-Sr-Consultant_REF087194W) |
 | 119 | Visa | Staff SW Engineer | US - Denver, CO | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Staff-SW-Engineer_REF076196W-1) |
 | 119 | Visa | Technical Support Associate - Workstation Support | CO - Bogota, Colombia | — | [Apply](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/CO---Bogota-Colombia/Technical-Support-Associate---Workstation-Support_REF087240W) |
