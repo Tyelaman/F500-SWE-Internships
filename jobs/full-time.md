@@ -1,18 +1,18 @@
 # Fortune 500 Full-Time Positions
 
-Last updated: August 09, 2026 at 02:31 UTC
+Last updated: August 09, 2026 at 07:18 UTC
 
-Open full-time positions: 5118
+Open full-time positions: 5110
 
 ## Categories
 
-[Software & IT (1062)](#software-it) · [Data & AI (154)](#data-ai) · [Product & Design (37)](#product-design) · [Engineering (365)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (321)](#operations-supply-chain) · [People & Legal (25)](#people-legal) · [Other (2907)](#other)
+[Software & IT (1059)](#software-it) · [Data & AI (154)](#data-ai) · [Product & Design (37)](#product-design) · [Engineering (364)](#engineering) · [Finance & Accounting (71)](#finance-accounting) · [Sales & Marketing (176)](#sales-marketing) · [Operations & Supply Chain (320)](#operations-supply-chain) · [People & Legal (25)](#people-legal) · [Other (2904)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 1062
+Open positions: 1059
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -68,20 +68,20 @@ Open positions: 1062
 | 191 | Block | Principal Security Engineer | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5281304008?gh_jid=5281304008) |
 | 191 | Block | Senior Business Systems Engineer | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/4962872008?gh_jid=4962872008) |
 | 191 | Block | Senior Finance Systems Engineer: Oracle Fusion - Remote, US | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5249776008?gh_jid=5249776008) |
-| 191 | Block | Senior Site Reliability Engineer | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008) |
 | 191 | Block | Senior Site Reliability Engineer | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008) |
-| 191 | Block | Senior Software Engineer, Cash App Taxes | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008) |
+| 191 | Block | Senior Site Reliability Engineer | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008) |
 | 191 | Block | Senior Software Engineer, Cash App Taxes | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008) |
+| 191 | Block | Senior Software Engineer, Cash App Taxes | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008) |
 | 191 | Block | Senior Software Engineer, Data Enablement | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/4989505008?gh_jid=4989505008) |
-| 191 | Block | Senior Software Engineer, Ledgering | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5366105008?gh_jid=5366105008) |
 | 191 | Block | Senior Software Engineer, Ledgering | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5281196008?gh_jid=5281196008) |
-| 191 | Block | Senior Software Engineer, Square Financial Services | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008) |
+| 191 | Block | Senior Software Engineer, Ledgering | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5366105008?gh_jid=5366105008) |
 | 191 | Block | Senior Software Engineer, Square Financial Services | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5284343008?gh_jid=5284343008) |
+| 191 | Block | Senior Software Engineer, Square Financial Services | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5284783008?gh_jid=5284783008) |
 | 191 | Block | Software Engineer, Cash App - Lending Products | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5201726008?gh_jid=5201726008) |
 | 191 | Block | Software Engineer, Cash App - Lending Products | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5196173008?gh_jid=5196173008) |
 | 191 | Block | Software Engineer, Reconciliation & Reporting | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) |
-| 191 | Block | Staff Android Software Engineer, Cash App Consumer Platform | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008) |
 | 191 | Block | Staff Android Software Engineer, Cash App Consumer Platform | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008) |
+| 191 | Block | Staff Android Software Engineer, Cash App Consumer Platform | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008) |
 | 191 | Block | Staff Software Engineer, Cash App Banking | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008) |
 | 191 | Block | Staff Software Engineer, Cash App Banking | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008) |
 | 132 | Coupang | Staff Software Engineer | Mountain View, USA; Seattle, USA | Jul 31, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=8070738) |
@@ -89,8 +89,8 @@ Open positions: 1062
 | 357 | Airbnb | Senior Staff Software Engineer, Marketing Technology | Remote, USA | Jul 29, 2026 | [Apply](https://careers.airbnb.com/positions/8095365?gh_jid=8095365) |
 | 357 | Airbnb | Staff Backend Engineer, Host Pricing & Availability | Remote - USA | Jul 28, 2026 | [Apply](https://careers.airbnb.com/positions/8078019?gh_jid=8078019) |
 | 132 | Coupang | Senior Staff Backend Engineer | Mountain View, USA; Seattle, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7849003) |
-| 132 | Coupang | Senior Staff Backend Engineer - Cloud Infrastructure | Seattle, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7438944) |
 | 132 | Coupang | Senior Staff Backend Engineer - Cloud Infrastructure | Mountain View, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7962133) |
+| 132 | Coupang | Senior Staff Backend Engineer - Cloud Infrastructure | Seattle, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7438944) |
 | 132 | Coupang | Staff Backend Engineer (Application Infra) | Mountain View, USA; Seattle, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7849021) |
 | 132 | Coupang | Staff Backend Engineer (Streaming and AI Infrastructure) | Mountain View, USA; Seattle, USA | Jul 26, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7896508) |
 | 357 | Airbnb | Staff Backend Engineer - Ads Platform | Remote - USA | Jul 22, 2026 | [Apply](https://careers.airbnb.com/positions/8074897?gh_jid=8074897) |
@@ -104,7 +104,6 @@ Open positions: 1062
 | 430 | Workday | Software Development Engineer | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer_JR-0107735) |
 | 430 | Workday | Sr Software Development Engineer (Full Stack) - Evisort AI | USA, CA, Pleasanton | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Full-Stack----Evisort-AI_JR-0108840) |
 | 430 | Workday | Senior Site Reliability Engineer - US Federal (VDI & Infrastructure) | USA.VA.Reston | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Site-Reliability-Engineer---US-Federal--VDI---Infrastructure-_JR-0106012) |
-| 430 | Workday | Software Development Engineer, AI Platform | USA, CO, Boulder | — | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870) |
 | 16 | NVIDIA | Senior Software Program Manager - Datacenter Compute Server | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Program-Manager---Datacenter-Compute-Server_JR1996363) |
 | 16 | NVIDIA | Senior Software Engineer, NCCL | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186) |
 | 16 | NVIDIA | Senior Developer Relations Manager - AI Agents | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797) |
@@ -406,7 +405,6 @@ Open positions: 1062
 | 112 | Northrop Grumman | Space Mission Ground Simulator - Principal / Sr Principal Systems Engineer (AHT) | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Mission-Ground-Simulator---Principal---Sr-Principal-Systems-Engineer_R10239205) |
 | 112 | Northrop Grumman | Space Mission Ground Simulator - Principal / Sr Principal Systems Engineer (AHT) | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Mission-Ground-Simulator---Principal---Sr-Principal-Systems-Engineer_R10231920) |
 | 112 | Northrop Grumman | Associate Embedded / Embedded Software Engineer - Mission and Displays | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Embedded---Embedded-Software-Engineer---Mission-and-Displays_R10243614-1) |
-| 112 | Northrop Grumman | Software Engineer (Level 2 or 3) - AHT | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--Level-2-or-3----AHT_R10243587) |
 | 112 | Northrop Grumman | Principal Software Systems Test Engineer (AHT) | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Principal-Software-Systems-Test-Engineer--AHT-_R10243603) |
 | 112 | Northrop Grumman | Principal Engineer Software/Sr Principal Engineer Software (Infrastructure) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software-Sr-Principal-Engineer-Software--Infrastructure-_R10243607) |
 | 112 | Northrop Grumman | Principal Engineer Software (Avionics) | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software--Avionics-_R10243602) |
@@ -551,7 +549,6 @@ Open positions: 1062
 | 112 | Northrop Grumman | Software Test Engineer (Hardware) | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Test-Engineer--Hardware-_R10241896-1) |
 | 112 | Northrop Grumman | Sr. Staff Software Architect-Guidance Systems Integration-14255 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Staff-Software-Architect-Guidance-Systems-Integration-14255_R10241904) |
 | 112 | Northrop Grumman | Sr. Principal Software Development Analyst – TS Analyst Lead (26-336) | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Sr-Principal-Software-Development-Analyst---TS-Analyst-Lead--26-336-_R10241696-1) |
-| 112 | Northrop Grumman | Systems Engineer - Level 4 | United States-Colorado-Boulder | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Systems-Engineer---Level-4_R10241771-1) |
 | 112 | Northrop Grumman | Principal Cyber Systems Engineer | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Principal-Cyber-Systems-Engineer_R10241760) |
 | 112 | Northrop Grumman | Principal / Sr. Principal Systems Engineer - IPT Lead | United States-Virginia-Chantilly | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Principal---Sr-Principal-Systems-Engineer---IPT-Lead_R10241759) |
 | 112 | Northrop Grumman | Principal / Sr. Principal  DevOps Software Engineer | United States-Virginia-Chantilly | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Principal---Sr-Principal--DevOps-Software-Engineer_R10241749) |
@@ -1110,9 +1107,9 @@ Open positions: 154
 | 191 | Block | Staff Data Scientist, Pricing | Bay Area, CA, United States of America | Aug 07, 2026 | [Apply](http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008) |
 | 357 | Airbnb | Senior Staff Machine Learning Engineer, Post Training | Remote - USA | Aug 06, 2026 | [Apply](https://careers.airbnb.com/positions/7858738?gh_jid=7858738) |
 | 357 | Airbnb | Senior Machine Learning Engineer, Price Modeling | United States | Aug 05, 2026 | [Apply](https://careers.airbnb.com/positions/8070678?gh_jid=8070678) |
-| 191 | Block | Staff Product Data Scientist, Lending | New York, NY, United States of America | Aug 04, 2026 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) |
-| 191 | Block | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | Aug 04, 2026 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) |
 | 191 | Block | Staff Product Data Scientist, Lending | Seattle, WA, United States of America | Aug 04, 2026 | [Apply](http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008) |
+| 191 | Block | Staff Product Data Scientist, Lending | San Francisco, CA, United States of America | Aug 04, 2026 | [Apply](http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008) |
+| 191 | Block | Staff Product Data Scientist, Lending | New York, NY, United States of America | Aug 04, 2026 | [Apply](http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008) |
 | 357 | Airbnb | Senior Machine Learning Engineer, Customer Support Engineering | Remote-USA | Aug 03, 2026 | [Apply](https://careers.airbnb.com/positions/8014904?gh_jid=8014904) |
 | 191 | Block | Senior Data Engineer, Risk | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008) |
 | 191 | Block | Senior Machine Learning Engineer, Applied AI Quality | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008) |
@@ -1122,8 +1119,8 @@ Open positions: 154
 | 191 | Block | Staff Applied Machine Learning Engineer - Fraud & Abuse | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008) |
 | 191 | Block | Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008) |
 | 191 | Block | Staff Data Analyst, Block Compliance | Denver, CO, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008) |
-| 191 | Block | Staff Data Analyst, Block Compliance | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) |
 | 191 | Block | Staff Data Analyst, Block Compliance | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008) |
+| 191 | Block | Staff Data Analyst, Block Compliance | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008) |
 | 191 | Block | Staff Machine Learning Engineer, Credit Products (Square Financial Services) | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008) |
 | 191 | Block | Staff Machine Learning Engineer, Credit Products (Square Financial Services) | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5216800008?gh_jid=5216800008) |
 | 191 | Block | Staff Machine Learning Engineer (Modeling), Support | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5198105008?gh_jid=5198105008) |
@@ -1298,7 +1295,7 @@ Open positions: 37
 
 ## Engineering
 
-Open positions: 365
+Open positions: 364
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1310,7 +1307,6 @@ Open positions: 365
 | 329 | DoorDash | Senior Mechanical Design Engineer — Electric Motors, DoorDash Air | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7931673) |
 | 329 | DoorDash | Senior Mechanical Engineer (Robotics) - Dot | Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7624598) |
 | 329 | DoorDash | Sr. Radio Frequency Hardware Engineer, DoorDash Air | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046467) |
-| 16 | NVIDIA | Senior ATE Hardware Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ATE-Hardware-Engineer_JR2021885) |
 | 112 | Northrop Grumman | Sentinel Principal / Sr Principal Engineer Industrial 17263 Secret Clearance | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sr-Principal-Engineer-Industrial-17263-Secret-Clearane_R10243099) |
 | 112 | Northrop Grumman | Communications Hardware Engineer / Principal Communications Hardware Engineer | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Communications-Hardware-Engineer---Principal-Communications-Hardware-Engineer_R10242791) |
 | 112 | Northrop Grumman | Staff Manufacturing Engineer | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Staff-Manufacturing-Engineer_R10244069) |
@@ -1818,8 +1814,8 @@ Open positions: 176
 | 329 | DoorDash | Sr. Operations Associate, Policy and Communications | Atlanta, GA; Philadelphia, PA; Boston, MA; Raleigh-Durham, NC; New York, NY; Miami, FL;Washington D.C. | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8036817) |
 | 329 | DoorDash | Strategic Account Executive, DoorDash for Business | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079886) |
 | 329 | DoorDash | Strategic Partnerships Sales Executive, DoorDash for Business | New York, NY; Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079890) |
-| 191 | Block | Channel Sales Manager - Reseller | Bay Area, CA, United States of America | Aug 07, 2026 | [Apply](http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008) |
 | 191 | Block | Channel Sales Manager - Reseller | Los Angeles, CA, United States of America | Aug 07, 2026 | [Apply](http://block.xyz/careers/jobs/5378053008?gh_jid=5378053008) |
+| 191 | Block | Channel Sales Manager - Reseller | Bay Area, CA, United States of America | Aug 07, 2026 | [Apply](http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008) |
 | 191 | Block | Channel Sales Manager - Reseller | New York, NY, United States of America | Aug 07, 2026 | [Apply](http://block.xyz/careers/jobs/5378050008?gh_jid=5378050008) |
 | 191 | Block | Senior Business Development Manager, Platform Partnerships | Bay Area, CA, United States of America | Aug 06, 2026 | [Apply](http://block.xyz/careers/jobs/5340591008?gh_jid=5340591008) |
 | 191 | Block | Manager, GTM Strategy & Operations - Global Sales | Bay Area, CA, United States of America | Aug 06, 2026 | [Apply](http://block.xyz/careers/jobs/5286821008?gh_jid=5286821008) |
@@ -1845,23 +1841,23 @@ Open positions: 176
 | 191 | Block | Territory Account Executive, Denver | Denver, CO, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5293278008?gh_jid=5293278008) |
 | 191 | Block | Territory Account Executive, Boston | Boston, MA, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5276748008?gh_jid=5276748008) |
 | 191 | Block | Territory Account Executive, Pasadena | Los Angeles, CA, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5278847008?gh_jid=5278847008) |
-| 191 | Block | Director of Field Sales - NYC | New York, NY, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008) |
 | 191 | Block | Director of Field Sales - NYC | Newark, NJ, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5377755008?gh_jid=5377755008) |
-| 191 | Block | Manager, SMB Sales | New York, NY, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008) |
+| 191 | Block | Director of Field Sales - NYC | New York, NY, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5199100008?gh_jid=5199100008) |
 | 191 | Block | Manager, SMB Sales | Bay Area, CA, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5267747008?gh_jid=5267747008) |
+| 191 | Block | Manager, SMB Sales | New York, NY, United States of America | Aug 05, 2026 | [Apply](http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008) |
 | 191 | Block | Head of Strategic Product Sales | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5258480008?gh_jid=5258480008) |
 | 191 | Block | Business Development Rep Associate | Atlanta, GA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008) |
-| 191 | Block | Business Development Rep Associate | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
-| 191 | Block | Business Development Rep Associate | Saint Louis, MO, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
-| 191 | Block | Business Development Rep Associate | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
-| 191 | Block | Business Development Rep Associate | Scottsdale, AZ, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
-| 191 | Block | Business Development Rep Associate | Los Angeles, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
 | 191 | Block | Business Development Rep Associate | DC Metro, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008) |
+| 191 | Block | Business Development Rep Associate | Los Angeles, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008) |
+| 191 | Block | Business Development Rep Associate | Scottsdale, AZ, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008) |
+| 191 | Block | Business Development Rep Associate | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008) |
+| 191 | Block | Business Development Rep Associate | Saint Louis, MO, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008) |
+| 191 | Block | Business Development Rep Associate | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008) |
 | 191 | Block | Business Development Rep Associate, New York City | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008) |
-| 191 | Block | Mid-Market Account Executive | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5368067008?gh_jid=5368067008) |
 | 191 | Block | Mid-Market Account Executive | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008) |
-| 191 | Block | Mid-Market Account Executive | Boston, MA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008) |
 | 191 | Block | Mid-Market Account Executive | Atlanta, GA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5368066008?gh_jid=5368066008) |
+| 191 | Block | Mid-Market Account Executive | Boston, MA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008) |
+| 191 | Block | Mid-Market Account Executive | Seattle, WA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5368067008?gh_jid=5368067008) |
 | 191 | Block | Mid-Market Sales Lead | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5358204008?gh_jid=5358204008) |
 | 191 | Block | SMB Account Executive | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5282973008?gh_jid=5282973008) |
 | 191 | Block | SMB Sales Lead | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5358198008?gh_jid=5358198008) |
@@ -1943,7 +1939,7 @@ Open positions: 176
 
 ## Operations & Supply Chain
 
-Open positions: 321
+Open positions: 320
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -1978,28 +1974,28 @@ Open positions: 321
 | 329 | DoorDash | Head of Safety, Robot Operations | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8096956) |
 | 329 | DoorDash | Infrastructure Supply Chain Manager, Autonomy & Robotics | Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8056130) |
 | 329 | DoorDash | Kitchen Operations Associate | Aurora, CO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8055684) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Lexington, KY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8071680) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Morrow, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8070776) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Albuquerque, NM | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8071755) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Norfolk, VA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090100) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Salt Lake City, UT | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090092) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Tucson, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079494) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Phoenix, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090089) |
 | 329 | DoorDash | Kitchen Operations Associate, DashMart | St Louis, MO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079764) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Tucson, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079494) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Charlotte, NC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8080849) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Phoenix, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090089) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Huntsville, AL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8080871) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Lexington, KY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8071680) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Norfolk, VA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090100) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Morrow, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8070776) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Salt Lake City, UT | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090092) |
+| 329 | DoorDash | Kitchen Operations Associate, DashMart | Albuquerque, NM | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8071755) |
 | 329 | DoorDash | Kitchen Operations Associate, DashMart | Aurora, CO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079769) |
 | 329 | DoorDash | Kitchen Operations Associate, DashMart | Columbia, SC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079777) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Charlotte, NC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8080849) |
-| 329 | DoorDash | Kitchen Operations Associate, DashMart | Huntsville, AL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8080871) |
 | 329 | DoorDash | Kitchen Operations Associate, DashMart - DET-6 | Roseville, MI; Detroit, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079773) |
 | 329 | DoorDash | Manager, DashMart Fulfillment Services - Strategy & Operations | New York, NY; San Francisco, CA; Seattle, WA; Chicago, IL;  Los Angeles, CA; Tempe, AZ; Washington D.C. | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7612469) |
 | 329 | DoorDash | Manager, Insurance Claims Operations | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8097952) |
 | 329 | DoorDash | Manager, New Verticals Merchant Strategy & Operations - Merchant Experience | New York, NY; Boston, MA; Washington, D.C.; Atlanta, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8100044) |
 | 329 | DoorDash | Manager, Strategy & Operations - Core Consumer Experience | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8009023) |
-| 329 | DoorDash | Manager, Strategy & Operations, DoorDash for Business | New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8078248) |
 | 329 | DoorDash | Manager, Strategy & Operations, DoorDash for Business | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8048507) |
+| 329 | DoorDash | Manager, Strategy & Operations, DoorDash for Business | New York, NY; San Francisco, CA; Sunnyvale, CA; Chicago, IL; Seattle, WA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8078248) |
 | 329 | DoorDash | Operations Specialist, Commercial Operations Specialist, DoorDash Air | Concord, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7967497) |
-| 329 | DoorDash | Operations Specialist, Remote Assistance | San Francisco, CA; Dublin, CA; Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031327) |
 | 329 | DoorDash | Operations Specialist, Remote Assistance | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031334) |
+| 329 | DoorDash | Operations Specialist, Remote Assistance | San Francisco, CA; Dublin, CA; Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8031327) |
 | 329 | DoorDash | Operations Specialist, Robot | Dublin, CA; San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6813973) |
 | 329 | DoorDash | Operations Specialist, Support Vehicle Fleet | Mesa, AZ; Chandler, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7732483) |
 | 329 | DoorDash | Robot Operations Specialist | Tempe, AZ; Mesa, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7015062) |
@@ -2023,8 +2019,8 @@ Open positions: 321
 | 329 | DoorDash | Senior Manager, New Verticals - In Store Intelligence Strategy & Operations | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8030331) |
 | 329 | DoorDash | Senior Operations Associate - Robot | Mesa, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8073181) |
 | 329 | DoorDash | Senior Operations Specialist, Engineering Testing | Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8074768) |
-| 329 | DoorDash | Senior Operations Specialist, Robot | Fremont, CA; Sunnyvale, CA; San Jose, CA; Dublin, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8089677) |
 | 329 | DoorDash | Senior Operations Specialist, Robot | Phoenix, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7374376) |
+| 329 | DoorDash | Senior Operations Specialist, Robot | Fremont, CA; Sunnyvale, CA; San Jose, CA; Dublin, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8089677) |
 | 329 | DoorDash | Senior Service Technician, Service Operations, Labs | Dublin, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7891543) |
 | 329 | DoorDash | Senior Service Technician, Service Operations, Labs (AM Shift) | Mesa, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8030435) |
 | 329 | DoorDash | Senior Service Technician, Service Operations, Labs (PM Shift) | Mesa, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7545753) |
@@ -2075,7 +2071,6 @@ Open positions: 321
 | 112 | Northrop Grumman | Logistics Support Coordinator - 2nd Shift | United States-Maryland-Elkridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Logistics-Support-Coordinator---2nd-Shift_R10244048) |
 | 112 | Northrop Grumman | Supply Chain Planning Specialist | United States-Utah-Salt Lake City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Supply-Chain-Planning-Specialist_R10244286) |
 | 112 | Northrop Grumman | Principal / Sr Principal Logistics Engineer | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Principal---Sr-Principal-Logistics-Engineer_R10244237) |
-| 112 | Northrop Grumman | 2026 Associate Logistics Engineer - Linthicum MD | United States-Maryland-Linthicum | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Associate-Logistics-Engineer---Linthicum-MD_R10235540) |
 | 112 | Northrop Grumman | Principal / Sr. Principal Lab Design and Operations Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal---Sr-Principal-Lab-Design-and-Operations-Engineer_R10243739) |
 | 112 | Northrop Grumman | Mission Operations Development Engineer - Level 3/4 - Chantilly | United States-Virginia-Chantilly | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Mission-Operations-Development-Engineer---Level-3-4---Chantilly_R10244057) |
 | 112 | Northrop Grumman | Mission Operations Development Engineer - Level 2 - Chantilly | United States-Virginia-Chantilly | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Mission-Operations-Development-Engineer---Level-2---Chantilly_R10244054) |
@@ -2311,7 +2306,7 @@ Open positions: 25
 
 ## Other
 
-Open positions: 2907
+Open positions: 2904
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -2324,21 +2319,21 @@ Open positions: 2907
 | 329 | DoorDash | Account Manager, Platform Innovation | San Francisco, CA; Los Angeles, CA; Phoenix, AZ; Chicago, IL; Detroit, MI; New York, NY; Philadelphia, PA; Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7958917) |
 | 329 | DoorDash | Account Manager, Restaurants (Bilingual Spanish) | Miami, FL;  Atlanta, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7899497) |
 | 329 | DoorDash | Account Manager, SMB | Philadelphia, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8060846) |
+| 329 | DoorDash | Account Manager, SMB | Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8029215) |
 | 329 | DoorDash | Account Manager, SMB | Austin, TX; Dallas, TX; Houston, TX; San Antonio, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7797773) |
 | 329 | DoorDash | Account Manager, SMB | Portland, OR; Seattle, WA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8060841) |
 | 329 | DoorDash | Account Manager, SMB | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7797778) |
-| 329 | DoorDash | Account Manager, SMB | Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8029215) |
 | 329 | DoorDash | ACE Specialist | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8060482) |
 | 329 | DoorDash | Agent, Critical Incident Response Team - Chicago, IL | Chicago, IL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093131) |
 | 329 | DoorDash | AI & Automation Partner, GTM | New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7991290) |
 | 329 | DoorDash | AI Research Fellowship, (Summer and Fall 2026) | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
-| 329 | DoorDash | Assistant Site Manager | Garden City, ID | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7983731) |
-| 329 | DoorDash | Assistant Site Manager | San Antonio, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8067997) |
-| 329 | DoorDash | Assistant Site Manager | Baltimore, MD | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7847229) |
-| 329 | DoorDash | Assistant Site Manager | Roseville, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093121) |
 | 329 | DoorDash | Assistant Site Manager | Atlanta, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7983727) |
+| 329 | DoorDash | Assistant Site Manager | Roseville, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093121) |
+| 329 | DoorDash | Assistant Site Manager | Baltimore, MD | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7847229) |
 | 329 | DoorDash | Assistant Site Manager | Dallas, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8065673) |
+| 329 | DoorDash | Assistant Site Manager | San Antonio, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8067997) |
 | 329 | DoorDash | Assistant Site Manager | Denver, CO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046559) |
+| 329 | DoorDash | Assistant Site Manager | Garden City, ID | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7983731) |
 | 329 | DoorDash | Assistant Site Manager, Dashmart | Madison, WI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8059915) |
 | 329 | DoorDash | Associate, Convenience Partnerships | New York, NY; San Francisco, CA; Los Angeles, CA; Atlanta, GA; Chicago, IL; Austin, TX; Miami, FL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7985771) |
 | 329 | DoorDash | Associate, Drive | New York, NY; San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7684729) |
@@ -2372,8 +2367,8 @@ Open positions: 2907
 | 329 | DoorDash | DashMart Team Member - Tallmadge | Akron, OH | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6770099) |
 | 329 | DoorDash | DashMart Team Member - University | Charlotte, NC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5517406) |
 | 329 | DoorDash | DashMart Team Member - Wick Field | Milwaukee, WI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7868745) |
-| 329 | DoorDash | DashMart Variable Schedule Team Member | Morrow, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7616066) |
 | 329 | DoorDash | DashMart Variable Schedule Team Member | St. Louis, MO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7616101) |
+| 329 | DoorDash | DashMart Variable Schedule Team Member | Morrow, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7616066) |
 | 329 | DoorDash | DashMart Variable Schedule Team Member | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7436104) |
 | 329 | DoorDash | Director, Design for Brands | San Francisco, CA; New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8106731) |
 | 329 | DoorDash | Director, Grocery & Retail Services | San Francisco, CA; New York, NY; Seattle, WA; Denver, CO; Chicago, IL; Austin, TX; Atlanta, GA; Boston, MA; Miami, FL; United States - Remote | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7955008) |
@@ -2407,12 +2402,12 @@ Open positions: 2907
 | 329 | DoorDash | Hardware Integration Engineer, DoorDash Air | Oakland, CA; San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7947260) |
 | 329 | DoorDash | Hardware Prototype Engineering Technician, DoorDash Air | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7272947) |
 | 329 | DoorDash | Hardware Validation Engineer | Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090031) |
-| 329 | DoorDash | Kitchen Shift Lead, DashMart | Roseville, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8075091) |
-| 329 | DoorDash | Kitchen Shift Lead, DashMart | Albuquerque, NM | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079479) |
 | 329 | DoorDash | Kitchen Shift Lead, DashMart | Charlotte, NC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090114) |
-| 329 | DoorDash | Kitchen Shift Lead, DashMart | Tucson, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8073148) |
-| 329 | DoorDash | Kitchen Shift Lead, DashMart | Salt Lake City, UT | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090184) |
+| 329 | DoorDash | Kitchen Shift Lead, DashMart | Albuquerque, NM | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8079479) |
+| 329 | DoorDash | Kitchen Shift Lead, DashMart | Roseville, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8075091) |
 | 329 | DoorDash | Kitchen Shift Lead, DashMart | Morrow, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8070780) |
+| 329 | DoorDash | Kitchen Shift Lead, DashMart | Salt Lake City, UT | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8090184) |
+| 329 | DoorDash | Kitchen Shift Lead, DashMart | Tucson, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8073148) |
 | 329 | DoorDash | Layout Engineer - Labs, DoorDash Air | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8067222) |
 | 329 | DoorDash | Lead Line Cook | Redwood CIty, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6722323) |
 | 329 | DoorDash | Line Cook Development Kitchen | Redwood City, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5976796) |
@@ -2436,11 +2431,11 @@ Open positions: 2907
 | 329 | DoorDash | Member of Technical Staff, Lead Researcher | San Francisco, CA; Sunnyvale, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8105902) |
 | 329 | DoorDash | Merchant Growth Executive | Tempe, AZ; Chicago, IL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7975028) |
 | 329 | DoorDash | Merchant Services Team Supervisor | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7932043) |
-| 329 | DoorDash | Outside Account Manager | Boston, MA; New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7948251) |
 | 329 | DoorDash | Outside Account Manager | Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8049157) |
+| 329 | DoorDash | Outside Account Manager | Boston, MA; New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7948251) |
 | 329 | DoorDash | Prototype Machinist & Fabrication Specialist | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7657430) |
-| 329 | DoorDash | Regional Merchant Lead | Boise, ID | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8062841) |
 | 329 | DoorDash | Regional Merchant Lead | Hartford, CT | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7843302) |
+| 329 | DoorDash | Regional Merchant Lead | Boise, ID | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8062841) |
 | 329 | DoorDash | Regional Merchant Lead - Chicago | Chicago, IL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046764) |
 | 329 | DoorDash | Regional Merchant Lead - Indianapolis | Indianapolis, IN | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7833913) |
 | 329 | DoorDash | Regional Merchant Lead - Kansas City | Kansas City, MO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7994026) |
@@ -2472,10 +2467,10 @@ Open positions: 2907
 | 329 | DoorDash | Senior Technical Program Manager - Foundations Engineering | San Francisco, CA; Seattle, WA; Sunnyvale, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8024176) |
 | 329 | DoorDash | Senior Workplace Investigations Business Partner | San Francisco, CA; Tempe, AZ; Seattle, WA; Los Angeles, CA; New York, NY; Denver, CO; Chicago, IL; Austin, TX; United States - Remote | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7951226) |
 | 329 | DoorDash | Service Technician, Labs | Sunnyvale, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7894957) |
-| 329 | DoorDash | Shift Lead | Toledo, OH | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7336853) |
 | 329 | DoorDash | Shift Lead | Grand Rapids, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7983736) |
 | 329 | DoorDash | Shift Lead | Cincinnati, OH | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7905619) |
 | 329 | DoorDash | Shift Lead | Sterling Heights, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7230365) |
+| 329 | DoorDash | Shift Lead | Toledo, OH | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7336853) |
 | 329 | DoorDash | Shift Lead | Raleigh, NC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6169266) |
 | 329 | DoorDash | Shift Lead | Louisville, KY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6631675) |
 | 329 | DoorDash | Shift Lead - 11 Mile & Gratiot | Roseville, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8109766) |
@@ -2487,9 +2482,9 @@ Open positions: 2907
 | 329 | DoorDash | Shift Lead - Cherry Hill | Cherry Hill, NJ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/4441676) |
 | 329 | DoorDash | Shift Lead - Chicago, IL | Chicago, IL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7144500) |
 | 329 | DoorDash | Shift Lead - Congaree Vista | Columbia, SC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/4441678) |
-| 329 | DoorDash | Shift Lead, Dashmart | Swissvale, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7908802) |
 | 329 | DoorDash | Shift Lead, Dashmart | Garden City, ID | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8110239) |
 | 329 | DoorDash | Shift Lead, Dashmart | Phoenix, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7144702) |
+| 329 | DoorDash | Shift Lead, Dashmart | Swissvale, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7908802) |
 | 329 | DoorDash | Shift Lead, Dashmart | Norfolk, VA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7517631) |
 | 329 | DoorDash | Shift Lead, Dashmart - Wick Field | Milwaukee, WI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8051915) |
 | 329 | DoorDash | Shift Lead - Decatur | Decatur, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6821409) |
@@ -2534,9 +2529,9 @@ Open positions: 2907
 | 329 | DoorDash | Shift Lead - Woodbridge | Woodbridge, VA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5349772) |
 | 329 | DoorDash | Shift Lead - Wynwood | Miami, FL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/6746075) |
 | 329 | DoorDash | Site Manager | Kalamazoo, MI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7967861) |
+| 329 | DoorDash | Site Manager | Boulder, CO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8064759) |
 | 329 | DoorDash | Site Manager | Pittsburgh, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7960785) |
 | 329 | DoorDash | Site Manager | Alexandria, VA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8093169) |
-| 329 | DoorDash | Site Manager | Boulder, CO | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8064759) |
 | 329 | DoorDash | Site Manager, Dashmart | Madison, WI | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8017259) |
 | 329 | DoorDash | Site Manager, Dashmart | Atlanta, GA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8097006) |
 | 329 | DoorDash | SLAM Engineer, Calibration, Mapping & Localization | San Francisco, CA; Sunnyvale, CA; United States - Remote | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8041259) |
@@ -2546,12 +2541,12 @@ Open positions: 2907
 | 329 | DoorDash | Strategic Account Development Executive | New York, NY; Los Angeles, CA; Chicago, IL; Dallas, TX; Houston, TX; Atlanta, GA; Washington, DC; Philadelphia, PA; Miami, FL; Phoenix, AZ; Boston, MA; San Francisco, CA; Riverside, CA; Detroit, MI; Seattle, WA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7824602) |
 | 329 | DoorDash | Strategic Account Development Executive - Marketplace | Austin, TX; San Antonio, TX; Dallas, TX; Chicago, IL; Detroit, MI; Atlanta, GA; Miami, FL; Nashville, TN; Denver, CO; Tempe, AZ; Los Angeles, CA; San Diego, CA; San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7516018) |
 | 329 | DoorDash | Strategic Account Development Executive, Platform Innovation | New York, NY; Chicago, IL | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7644701) |
-| 329 | DoorDash | Strategic Customer Success Manager | Philadelphia, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8082739) |
 | 329 | DoorDash | Strategic Customer Success Manager | Boston, MA; New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8081721) |
+| 329 | DoorDash | Strategic Customer Success Manager | Philadelphia, PA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8082739) |
 | 329 | DoorDash | Strategic Merchant Lead | Boston, MA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8105630) |
-| 329 | DoorDash | Strategic Partner Manager II | Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8044721) |
-| 329 | DoorDash | Strategic Partner Manager II | Austin, TX; Houston, TX; Dallas, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8054613) |
 | 329 | DoorDash | Strategic Partner Manager II | Boston, MA; New York, NY | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7948250) |
+| 329 | DoorDash | Strategic Partner Manager II | Austin, TX; Houston, TX; Dallas, TX | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8054613) |
+| 329 | DoorDash | Strategic Partner Manager II | Los Angeles, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8044721) |
 | 329 | DoorDash | Strategic Sourcing Manager, Autonomy & Robotics | Oakland, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8060470) |
 | 329 | DoorDash | Supervisor, MXO  Drive Support (Mid Shift) | Tempe, AZ | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8107098) |
 | 329 | DoorDash | Systems Integration Engineer | San Francisco, CA | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8077028) |
@@ -2591,12 +2586,12 @@ Open positions: 2907
 | 191 | Block | Head of US Public Policy and Government Relations | Washington, DC, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5218714008?gh_jid=5218714008) |
 | 191 | Block | Program Manager, Issuer Partnerships | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5230139008?gh_jid=5230139008) |
 | 191 | Block | Senior iOS Engineer, Neighborhoods | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5370450008?gh_jid=5370450008) |
-| 191 | Block | Senior Technical Account Manager, Cash App Pay & Afterpay | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5175673008?gh_jid=5175673008) |
 | 191 | Block | Senior Technical Account Manager, Cash App Pay & Afterpay | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5228394008?gh_jid=5228394008) |
+| 191 | Block | Senior Technical Account Manager, Cash App Pay & Afterpay | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5175673008?gh_jid=5175673008) |
 | 191 | Block | Silicon Product and Test Engineer | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5012351008?gh_jid=5012351008) |
 | 191 | Block | Staff iOS Engineer, Neighborhoods | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5370444008?gh_jid=5370444008) |
-| 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5025564008?gh_jid=5025564008) |
 | 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | New York, NY, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5311661008?gh_jid=5311661008) |
+| 191 | Block | Tech Lead, Business Platform Engineering (Bizplat) | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5025564008?gh_jid=5025564008) |
 | 357 | Airbnb | Senior Regulatory Products Lead | United States | Aug 03, 2026 | [Apply](https://careers.airbnb.com/positions/8054361?gh_jid=8054361) |
 | 132 | Coupang | Staff Back-end Engineer (Security Infrastructure) | Mountain View, USA; Seattle, USA | Aug 03, 2026 | [Apply](https://www.coupang.jobs/en/jobs/?gh_jid=7822518) |
 | 357 | Airbnb | Staff Platform Manager, Airfam Products | United States | Jul 31, 2026 | [Apply](https://careers.airbnb.com/positions/8077226?gh_jid=8077226) |
@@ -2646,7 +2641,6 @@ Open positions: 2907
 | 16 | NVIDIA | Senior Firmware Engineer – CSP Engagements | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer---CSP-Engagements_JR1999599) |
 | 16 | NVIDIA | Senior Manager, System Integration – Silicon Co-Design Group | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--System-Integration---Silicon-Co-Design-Group_JR2017715) |
 | 16 | NVIDIA | Senior Mixed Signal Design Engineer | US, CA, Santa Clara | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Mixed-Signal-Design-Engineer_JR2022992-1) |
-| 16 | NVIDIA | Senior Account Manager Lead, Walmart | US, AR, Remote | — | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-AR-Remote/Senior-Account-Manager-Lead--Walmart_JR2022720) |
 | 114 | Salesforce | Director of Product Security | Washington - Bellevue | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Director-of-Product-Security_JR355123) |
 | 114 | Salesforce | Senior Director - Technical Program Management, Field Service | California - San Francisco | — | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Director---Technical-Program-Management--Field-Service_JR346035) |
 | 192 | Adobe | Senior TPRM Consultant (Partner Engagements) | New York | — | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Senior-TPRM-Consultant--Partner-Engagements-_R169646) |
@@ -2807,6 +2801,7 @@ Open positions: 2907
 | 63 | Capital One | Senior Business Banker - Philadelphia Market | Philadelphia, PA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Philadelphia-PA/Senior-Business-Banker---Philadelphia-Market_R237211) |
 | 63 | Capital One | Senior Associate, Data Science - Consumer Credit Risk Models and Data | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Science---Consumer-Credit-Risk-Models-and-Data_R236638-1) |
 | 63 | Capital One | Senior Business Banker-Northern Virginia & Maryland Markets | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Business-Banker-Northern-Virginia---Maryland-Markets_R226782-1) |
+| 112 | Northrop Grumman | Principal / Sr. Principal Quality Analyst | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Principal---Sr-Principal-Quality-Analyst_R10244629) |
 | 112 | Northrop Grumman | Test Technician | United States-Maryland-Elkridge | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Test-Technician_R10244433) |
 | 112 | Northrop Grumman | Sr Principal Engineer Hardware - Evergreen (AHT) | United States-Colorado-Aurora | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-Engineer-Hardware---Evergreen--AHT-_R10244620) |
 | 112 | Northrop Grumman | Principal/Senior Principal Systems Test Engineer | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Senior-Principal-Systems-Test-Engineer_R10243130) |
@@ -2882,7 +2877,6 @@ Open positions: 2907
 | 112 | Northrop Grumman | Manager Product Support 1 - Days / Nights | United States-Louisiana-Lake Charles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Louisiana-Lake-Charles/Manager-Product-Support-1---Days---Nights_R10244393) |
 | 112 | Northrop Grumman | Cable and Harness Technician 1 | United States-New York-Bethpage | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Bethpage/Cable-and-Harness-Technician-1_R10243251) |
 | 112 | Northrop Grumman | Electronics Engineer or Principal Electronics Engineer | United States-Maryland-Annapolis | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Electronics-Engineer-or-Principal-Electronics-Engineer_R10243802) |
-| 112 | Northrop Grumman | Sr. Principal Quality Analyst | United States-California-Edwards AFB | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/Sr-Principal-Quality-Analyst_R10243263) |
 | 112 | Northrop Grumman | Pr./Sr. Pr. Mission Engineer (AHT) | United States-Virginia-Dulles | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Pr-Sr-Pr-Mission-Engineer_R10240832-1) |
 | 112 | Northrop Grumman | Manufacturing Technician (Level 1 or 2) Weekday Night Shift | United States-Utah-Clearfield | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Manufacturing-Technician--Level-1-or-2--Weekday-Night-Shift_R10244144) |
 | 112 | Northrop Grumman | Staff Mission Assurance Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Mission-Assurance-Engineer_R10244138) |
@@ -2970,7 +2964,6 @@ Open positions: 2907
 | 112 | Northrop Grumman | Engineer/Principal Engineer Electromechanical | United States-Maryland-Baltimore | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Engineer-Principal-Engineer-Electromechanical_R10244131-1) |
 | 112 | Northrop Grumman | Principal Eng Manufacturing Lvl 3 (Weekends Fri Sat & Sun) | United States-Mississippi-Iuka | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Principal-Eng-Manufacturing-Lvl-3--Weekends-Fri-Sat---Sun-_R10241144) |
 | 112 | Northrop Grumman | Precision Electromechanical Assembler 2 (Second Shift) | United States-Utah-Salt Lake City | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Precision-Electromechanical-Assembler-2--Second-Shift-_R10244123-1) |
-| 112 | Northrop Grumman | 2026 Associate Electronics Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Electronics-Engineer---Rolling-Meadows-IL_R10244119) |
 | 112 | Northrop Grumman | Sentinel Structural/Principal Structural Analyst - 19377 & 19378 | United States-Utah-Roy | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Structural-Principal-Structural-Analyst---19377---19378_R10242929) |
 | 112 | Northrop Grumman | Manager Mission Assurance 2 | United States-Alabama-Huntsville | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Manager-Mission-Assurance-3_R10239675) |
 | 112 | Northrop Grumman | Principal Network Administrator - Top Secret | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Principal-Network-Administrator---Top-Secret_R10244091) |
@@ -3140,7 +3133,6 @@ Open positions: 2907
 | 112 | Northrop Grumman | Principal or Senior Principal Program Cost and Schedule Control Analyst | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-or-Senior-Principal-Program-Cost-and-Schedule-Control-Analyst_R10230002) |
 | 112 | Northrop Grumman | Program Cost and Schedule Control Analyst | United States-California-Redondo Beach | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Cost-and-Schedule-Control-Analyst_R10243343) |
 | 112 | Northrop Grumman | NATO Principal or Sr. Principal System Engineer | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/NATO-Principal-or-Sr-Principal-System-Engineer_R10243391-1) |
-| 112 | Northrop Grumman | 2026 Associate Technical Editor and Writer / Technical Editor and Writer | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2026-Associate-Technical-Editor-and-Writer---Technical-Editor-and-Writer_R10243577) |
 | 112 | Northrop Grumman | Consulting Engineer Systems | United States-California-San Diego | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Consulting-Engineer-Systems_R10243550) |
 | 112 | Northrop Grumman | Manager General Manufacturing 2 | United States-California-Sunnyvale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Manager-General-Manufacturing-2_R10243575) |
 | 112 | Northrop Grumman | Mission Assurance Engineer  Level 2/ 3 | United States-Arizona-Gilbert | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Mission-Assurance-Engineer--Level-2--3_R10243547) |
