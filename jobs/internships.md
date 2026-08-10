@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 10, 2026 at 13:46 UTC
+Last updated: August 10, 2026 at 19:19 UTC
 
-Open internships: 13
+Open internships: 11
 
 ## Categories
 
-[Software & IT (1)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (11)](#other)
+[Software & IT (1)](#software-it) · [Other (10)](#other)
 
 <a id="software-it"></a>
 
@@ -20,28 +20,15 @@ Open positions: 1
 
 [Back to categories](#categories)
 
-<a id="operations-supply-chain"></a>
-
-## Operations & Supply Chain
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 47 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
-
-[Back to categories](#categories)
-
 <a id="other"></a>
 
 ## Other
 
-Open positions: 11
+Open positions: 10
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
-| 47 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Program Management | USA - Arlington, VA | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1) |
 | 125 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729) |
 | 125 | Micron Technology | Intern - Process Pathfinding, DRAM Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326) |
