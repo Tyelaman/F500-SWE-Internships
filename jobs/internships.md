@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 10, 2026 at 02:36 UTC
+Last updated: August 10, 2026 at 08:07 UTC
 
-Open internships: 14
+Open internships: 13
 
 ## Categories
 
-[Software & IT (1)](#software-it) · [Operations & Supply Chain (2)](#operations-supply-chain) · [Other (11)](#other)
+[Software & IT (1)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (11)](#other)
 
 <a id="software-it"></a>
 
@@ -24,11 +24,10 @@ Open positions: 1
 
 ## Operations & Supply Chain
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Operations Manufacturing Engineering Intern | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597) |
 | 47 | Boeing | Boeing Summer 2027 Internship Program (Paid) - Business Operations | USA - Everett, WA | — | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) |
 
 [Back to categories](#categories)
