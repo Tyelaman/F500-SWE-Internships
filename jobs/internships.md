@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 11, 2026 at 13:45 UTC
+Last updated: August 11, 2026 at 19:23 UTC
 
 Open internships: 16
 
 ## Categories
 
-[Software & IT (1)](#software-it) · [Other (15)](#other)
+[Software & IT (1)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (14)](#other)
 
 <a id="software-it"></a>
 
@@ -20,11 +20,23 @@ Open positions: 1
 
 [Back to categories](#categories)
 
+<a id="operations-supply-chain"></a>
+
+## Operations & Supply Chain
+
+Open positions: 1
+
+| Rank | Company | Position | Location | Updated | Apply |
+|---:|---|---|---|---|---|
+| 112 | Northrop Grumman | 2027 Intern Global Supply Chain | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591) |
+
+[Back to categories](#categories)
+
 <a id="other"></a>
 
 ## Other
 
-Open positions: 15
+Open positions: 14
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -41,7 +53,6 @@ Open positions: 15
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Photo | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Process Development Engineer, DRAM Thin Films | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203) |
-| 125 | Micron Technology | Intern - TPG Global IE | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
 
 [Back to categories](#categories)
