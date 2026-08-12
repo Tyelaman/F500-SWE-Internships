@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 12, 2026 at 07:54 UTC
+Last updated: August 12, 2026 at 13:49 UTC
 
-Open internships: 20
+Open internships: 21
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Operations & Supply Chain (3)](#operations-supply-chain) · [Other (15)](#other)
+[Software & IT (2)](#software-it) · [Operations & Supply Chain (3)](#operations-supply-chain) · [Other (16)](#other)
 
 <a id="software-it"></a>
 
@@ -39,11 +39,12 @@ Open positions: 3
 
 ## Other
 
-Open positions: 15
+Open positions: 16
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Aug 03, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
 | 112 | Northrop Grumman | 2027 Business Management Intern | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Business-Management-Intern_R10244870) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Metals | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
