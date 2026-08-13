@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 12, 2026 at 19:23 UTC
+Last updated: August 13, 2026 at 02:49 UTC
 
-Open internships: 23
+Open internships: 22
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Operations & Supply Chain (3)](#operations-supply-chain) · [Other (17)](#other)
+[Software & IT (3)](#software-it) · [Operations & Supply Chain (3)](#operations-supply-chain) · [Other (16)](#other)
 
 <a id="software-it"></a>
 
@@ -40,7 +40,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 17
+Open positions: 16
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
@@ -59,7 +59,6 @@ Open positions: 17
 | 125 | Micron Technology | Intern - Process Development | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Photo | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
-| 125 | Micron Technology | Intern - Process Development Engineer, DRAM Thin Films | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
 
 [Back to categories](#categories)
