@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 13, 2026 at 13:49 UTC
+Last updated: August 13, 2026 at 19:23 UTC
 
-Open internships: 18
+Open internships: 23
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (15)](#other)
+[Software & IT (2)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (20)](#other)
 
 <a id="software-it"></a>
 
@@ -37,12 +37,18 @@ Open positions: 1
 
 ## Other
 
-Open positions: 15
+Open positions: 20
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Aug 12, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
+| 125 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
+| 125 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060) |
+| 125 | Micron Technology | Intern - DRAM Process Integration | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Process-Integration_JR108075) |
+| 125 | Micron Technology | Intern - Wafer Bonding Process Development | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wafer-Bonding-Process-Development_JR108074) |
+| 125 | Micron Technology | Intern - Advanced DRAM Cell/Device Engineer | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Cell-Device-Engineer_JR108472) |
+| 125 | Micron Technology | Intern - Process Pathfinding, DRAM Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347) |
 | 125 | Micron Technology | Intern - Corporate Labs | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Metals | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
@@ -50,7 +56,6 @@ Open positions: 15
 | 125 | Micron Technology | Intern - DRAM IP Circuits Design Engineer | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) |
 | 125 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) |
 | 125 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729) |
-| 125 | Micron Technology | Intern - Process Pathfinding, DRAM Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Pathfinding--DRAM-Dry-Etch_JR107347) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326) |
 | 125 | Micron Technology | Intern - Process Development | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development_JR107319) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Photo | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312) |
