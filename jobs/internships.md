@@ -1,24 +1,23 @@
 # Fortune 500 Internships
 
-Last updated: August 13, 2026 at 02:49 UTC
+Last updated: August 13, 2026 at 07:55 UTC
 
-Open internships: 22
+Open internships: 18
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Operations & Supply Chain (3)](#operations-supply-chain) · [Other (16)](#other)
+[Software & IT (2)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (15)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 3
+Open positions: 2
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
-| 84 | HP | Enterprise Operations Software Internship | Spring, Texas, United States of America | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
 
 [Back to categories](#categories)
 
@@ -26,13 +25,11 @@ Open positions: 3
 
 ## Operations & Supply Chain
 
-Open positions: 3
+Open positions: 1
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Global Supply Chain | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591) |
-| 84 | HP | Enterprise Operations Business Internship | Spring, Texas, United States of America | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-2) |
-| 84 | HP | Enterprise Operations Engineering Internship | Spring, Texas, United States of America | — | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Engineering-Internship_3166958-1) |
 
 [Back to categories](#categories)
 
@@ -40,13 +37,12 @@ Open positions: 3
 
 ## Other
 
-Open positions: 16
+Open positions: 15
 
 | Rank | Company | Position | Location | Updated | Apply |
 |---:|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Aug 12, 2026 | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | — | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
-| 112 | Northrop Grumman | 2027 Business Management Intern | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Business-Management-Intern_R10244870) |
 | 125 | Micron Technology | Intern - Corporate Labs | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Corporate-Labs_JR108442) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Metals | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | — | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848) |
