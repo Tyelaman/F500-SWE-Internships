@@ -7,15 +7,17 @@
 
 F500Tracker is an automated Fortune 500 job aggregation and enrichment pipeline that discovers U.S.-based internships and full-time opportunities with explicit H-1B/employment visa sponsorship support. It enriches qualifying postings with employer-disclosed salary information and job-relevant keywords, then publishes searchable Markdown, JSON, and a lightweight web interface.
 
-Last updated: **August 14, 2026 at 22:33 UTC**
+Last updated: **August 14, 2026 at 23:15 UTC**
 
 | Public metric | Count |
 |---|---:|
-| Tracked Fortune 500 companies | 20 |
+| Tracked Fortune 500 companies | 50 |
 | H-1B-supporting internships | 0 |
 | H-1B-supporting full-time positions | 0 |
 | Total sponsorship-supported positions | 0 |
 | Positions with disclosed salary | 0 |
+
+If the total is zero, the latest scan completed successfully but found no postings that met the conservative sponsorship-evidence threshold.
 
 [Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
@@ -51,25 +53,55 @@ Company configuration → ATS connectors → normalize → U.S./employment filte
 
 | Fortune rank | Company | ATS |
 |---:|---|---|
+| 8 | McKesson | Workday |
+| 14 | Cigna Group | Workday |
 | 16 | NVIDIA | Workday |
+| 19 | Centene | Workday |
+| 21 | Chevron | Workday |
+| 23 | General Motors | Workday |
+| 26 | Fannie Mae | Workday |
+| 30 | Marathon Petroleum | Workday |
+| 33 | Freddie Mac | Workday |
+| 34 | Humana | Workday |
+| 37 | Comcast | Workday |
+| 39 | Morgan Stanley | Workday |
 | 41 | Dell Technologies | Workday |
+| 44 | Walt Disney | Workday |
+| 45 | Johnson & Johnson | Workday |
 | 47 | Boeing | Workday |
+| 49 | RTX | Workday |
+| 52 | Lowe's | Workday |
+| 55 | Sysco | Workday |
 | 63 | Capital One | Workday |
+| 64 | Allstate | Workday |
+| 65 | Caterpillar | Workday |
+| 78 | Prudential Financial | Workday |
+| 83 | Cisco Systems | Workday |
 | 84 | HP | Workday |
 | 88 | Intel | Workday |
+| 93 | USAA | Workday |
+| 99 | Nike | Workday |
+| 101 | GE Aerospace | Workday |
+| 106 | Thermo Fisher Scientific | Workday |
 | 108 | Qualcomm | Workday |
+| 110 | U.S. Bancorp | Workday |
 | 112 | Northrop Grumman | Workday |
 | 114 | Salesforce | Workday |
 | 119 | Visa | Workday |
 | 125 | Micron Technology | Workday |
 | 132 | Coupang | Greenhouse |
+| 136 | PNC Financial Services Group | Workday |
 | 139 | PayPal | Workday |
 | 141 | Mastercard | Workday |
+| 150 | Truist Financial | Workday |
+| 183 | 3M | Workday |
 | 191 | Block | Greenhouse |
 | 192 | Adobe | Workday |
+| 220 | Carvana | Greenhouse |
 | 294 | S&P Global | Workday |
 | 329 | DoorDash | Greenhouse |
 | 357 | Airbnb | Greenhouse |
+| 376 | Oscar Health | Greenhouse |
 | 430 | Workday | Workday |
 
 Ranks and verified ATS identifiers are maintained in [`data/companies.json`](data/companies.json).

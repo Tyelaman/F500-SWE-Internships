@@ -118,5 +118,185 @@
     "fortune_rank": 294,
     "source": "workday",
     "identifier": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers"
+  },
+  {
+    "name": "McKesson",
+    "fortune_rank": 8,
+    "source": "workday",
+    "identifier": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers"
+  },
+  {
+    "name": "Cigna Group",
+    "fortune_rank": 14,
+    "source": "workday",
+    "identifier": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers"
+  },
+  {
+    "name": "Centene",
+    "fortune_rank": 19,
+    "source": "workday",
+    "identifier": "https://centene.wd5.myworkdayjobs.com/en-US/centene_external"
+  },
+  {
+    "name": "Chevron",
+    "fortune_rank": 21,
+    "source": "workday",
+    "identifier": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs"
+  },
+  {
+    "name": "General Motors",
+    "fortune_rank": 23,
+    "source": "workday",
+    "identifier": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM"
+  },
+  {
+    "name": "Fannie Mae",
+    "fortune_rank": 26,
+    "source": "workday",
+    "identifier": "https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers"
+  },
+  {
+    "name": "Marathon Petroleum",
+    "fortune_rank": 30,
+    "source": "workday",
+    "identifier": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers"
+  },
+  {
+    "name": "Freddie Mac",
+    "fortune_rank": 33,
+    "source": "workday",
+    "identifier": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Humana",
+    "fortune_rank": 34,
+    "source": "workday",
+    "identifier": "https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site"
+  },
+  {
+    "name": "Comcast",
+    "fortune_rank": 37,
+    "source": "workday",
+    "identifier": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers"
+  },
+  {
+    "name": "Morgan Stanley",
+    "fortune_rank": 39,
+    "source": "workday",
+    "identifier": "https://ms.wd5.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Walt Disney",
+    "fortune_rank": 44,
+    "source": "workday",
+    "identifier": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "fortune_rank": 45,
+    "source": "workday",
+    "identifier": "https://jj.wd5.myworkdayjobs.com/en-US/JJ"
+  },
+  {
+    "name": "RTX",
+    "fortune_rank": 49,
+    "source": "workday",
+    "identifier": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway"
+  },
+  {
+    "name": "Lowe's",
+    "fortune_rank": 52,
+    "source": "workday",
+    "identifier": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS"
+  },
+  {
+    "name": "Sysco",
+    "fortune_rank": 55,
+    "source": "workday",
+    "identifier": "https://sysco.wd5.myworkdayjobs.com/en-US/syscocareers"
+  },
+  {
+    "name": "Allstate",
+    "fortune_rank": 64,
+    "source": "workday",
+    "identifier": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers"
+  },
+  {
+    "name": "Caterpillar",
+    "fortune_rank": 65,
+    "source": "workday",
+    "identifier": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers"
+  },
+  {
+    "name": "Prudential Financial",
+    "fortune_rank": 78,
+    "source": "workday",
+    "identifier": "https://pru.wd5.myworkdayjobs.com/en-US/Careers"
+  },
+  {
+    "name": "Cisco Systems",
+    "fortune_rank": 83,
+    "source": "workday",
+    "identifier": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers"
+  },
+  {
+    "name": "USAA",
+    "fortune_rank": 93,
+    "source": "workday",
+    "identifier": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD"
+  },
+  {
+    "name": "Nike",
+    "fortune_rank": 99,
+    "source": "workday",
+    "identifier": "https://nike.wd1.myworkdayjobs.com/en-US/nke"
+  },
+  {
+    "name": "GE Aerospace",
+    "fortune_rank": 101,
+    "source": "workday",
+    "identifier": "https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite"
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "fortune_rank": 106,
+    "source": "workday",
+    "identifier": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers"
+  },
+  {
+    "name": "U.S. Bancorp",
+    "fortune_rank": 110,
+    "source": "workday",
+    "identifier": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers"
+  },
+  {
+    "name": "PNC Financial Services Group",
+    "fortune_rank": 136,
+    "source": "workday",
+    "identifier": "https://pnc.wd5.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Truist Financial",
+    "fortune_rank": 150,
+    "source": "workday",
+    "identifier": "https://truist.wd1.myworkdayjobs.com/en-US/Careers"
+  },
+  {
+    "name": "3M",
+    "fortune_rank": 183,
+    "source": "workday",
+    "identifier": "https://3m.wd1.myworkdayjobs.com/en-US/Search"
+  },
+  {
+    "name": "Carvana",
+    "fortune_rank": 220,
+    "source": "greenhouse",
+    "identifier": "carvana"
+  },
+  {
+    "name": "Oscar Health",
+    "fortune_rank": 376,
+    "source": "greenhouse",
+    "identifier": "oscar"
   }
 ]
