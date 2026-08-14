@@ -1,6 +1,6 @@
 # Fortune 500 Internships
 
-Last updated: August 13, 2026 at 19:23 UTC
+Last updated: August 14, 2026 at 02:48 UTC
 
 Open internships: 23
 
