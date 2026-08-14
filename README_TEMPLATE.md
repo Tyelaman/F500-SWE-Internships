@@ -17,6 +17,8 @@ Last updated: **{{LAST_UPDATED}}**
 | Total sponsorship-supported positions | {{TOTAL_COUNT}} |
 | Positions with disclosed salary | {{SALARY_COUNT}} |
 
+If the total is zero, the latest scan completed successfully but found no postings that met the conservative sponsorship-evidence threshold.
+
 [Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
 ## Features
