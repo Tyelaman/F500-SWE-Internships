@@ -7,7 +7,7 @@
 
 F500Tracker is an automated Fortune 500 job aggregation and enrichment pipeline that discovers U.S.-based internships and full-time opportunities with explicit H-1B/employment visa sponsorship support. It enriches qualifying postings with employer-disclosed salary information and job-relevant keywords, then publishes searchable Markdown, JSON, and a lightweight web interface.
 
-Last updated: **August 14, 2026 at 23:15 UTC**
+Last updated: **August 14, 2026 at 22:33 UTC**
 
 | Public metric | Count |
 |---|---:|

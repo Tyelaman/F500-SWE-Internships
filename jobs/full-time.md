@@ -1,6 +1,6 @@
 # F500Tracker sponsored full-time positions
 
-Last updated: August 14, 2026 at 23:15 UTC
+Last updated: August 14, 2026 at 22:43 UTC
 
 Qualifying positions: 0
 
