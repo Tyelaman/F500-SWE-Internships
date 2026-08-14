@@ -1,6 +1,5 @@
 import re
 
-
 CATEGORY_PATTERNS = {
     "Software & IT": re.compile(
         r"\b("

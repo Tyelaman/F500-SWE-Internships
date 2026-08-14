@@ -1,279 +1,104 @@
-<!--
-README.md is generated from this template.
-Edit README_TEMPLATE.md instead of editing README.md directly.
--->
+<!-- Generated as README.md. Edit this template, then run python run.py update. -->
+# F500Tracker
 
-# Fortune 500 Job Tracker
-
-[![Update Fortune 500 jobs](https://github.com/Tyelaman/F500-SWE-Internships/actions/workflows/update.yml/badge.svg)](https://github.com/Tyelaman/F500-SWE-Internships/actions/workflows/update.yml)
+[![CI](https://github.com/Tyelaman/F500Tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Tyelaman/F500Tracker/actions/workflows/ci.yml)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An automated Python pipeline that collects United States-based positions from Fortune 500 company career sites, normalizes postings from multiple hiring platforms, classifies them by employment type and job category, and publishes continuously updated Markdown and JSON job listings.
+F500Tracker is an automated Fortune 500 job aggregation and enrichment pipeline that discovers U.S.-based internships and full-time opportunities with explicit H-1B/employment visa sponsorship support. It enriches qualifying postings with employer-disclosed salary information and job-relevant keywords, then publishes searchable Markdown, JSON, and a lightweight web interface.
 
-**Last updated:** {{LAST_UPDATED}}
+Last updated: **{{LAST_UPDATED}}**
 
-## Current listings
-
-| Metric | Count |
+| Public metric | Count |
 |---|---:|
-| Tracked companies | {{COMPANY_COUNT}} |
-| Internships | {{INTERNSHIP_COUNT}} |
-| Full-time positions | {{FULL_TIME_COUNT}} |
-| Total positions | {{TOTAL_COUNT}} |
+| Tracked Fortune 500 companies | {{COMPANY_COUNT}} |
+| H-1B-supporting internships | {{INTERNSHIP_COUNT}} |
+| H-1B-supporting full-time positions | {{FULL_TIME_COUNT}} |
+| Total sponsorship-supported positions | {{TOTAL_COUNT}} |
+| Positions with disclosed salary | {{SALARY_COUNT}} |
 
-### Browse the listings
-
-- [Internship listings](jobs/internships.md)
-- [Full-time listings](jobs/full-time.md)
-- [Machine-readable job data](data/jobs.json)
-- [Tracked company configuration](data/companies.json)
-
-The internship and full-time pages include clickable category navigation for Software & IT, Data & AI, Engineering, Product & Design, Finance, Operations, and other job families.
+[Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
 ## Features
 
-- Collects public jobs from Fortune 500 company career sites
-- Supports Greenhouse, Lever, and Workday
-- Normalizes different hiring-platform responses into one shared `Job` model
-- Filters listings to United States locations
-- Separates internships from full-time positions
-- Excludes part-time, contract, temporary, seasonal, and freelance roles
-- Classifies jobs into categories such as Software & IT, Data & AI, Engineering, Finance, and Operations
-- Generates clickable category navigation in each Markdown job list
-- Removes duplicate postings using company, source, and external job identifiers
-- Preserves previous listings when an individual company request temporarily fails
-- Records when each job was first discovered
-- Publishes Markdown listings and machine-readable JSON data
-- Runs automatically every six hours with GitHub Actions
-- Includes automated tests for connectors, pagination, classification, location filtering, Markdown generation, and deduplication
+- Greenhouse, Lever, and Workday collection behind a shared normalized job model
+- U.S.-only and internship/full-time filtering across professional job families
+- Conservative posting-level sponsorship classification and traceable evidence
+- Employer-disclosed salary parsing and deterministic cross-discipline keywords
+- Compact enrichment caching, exact deduplication, first-seen dates, and failure-safe updates
+- Generated Markdown, JSON, and a dependency-free searchable static site
+- Scheduled updates plus linting and mocked unit tests
 
-## How it works
+## How sponsorship filtering works
+
+F500Tracker evaluates wording in each individual public posting. Explicit H-1B availability or strong role-specific U.S. employment-based immigration sponsorship qualifies. Explicit restrictions override positive-looking text. Missing, vague, conflicting, OPT/CPT-only, or inaccessible language becomes `unknown` and is excluded. Historical employer reputation never qualifies a posting.
 
 ```text
-data/companies.json
-        |
-        v
-Connector registry
-        |
-        +-- Greenhouse
-        +-- Lever
-        +-- Workday
-        |
-        v
-Platform-specific normalization
-        |
-        v
-Employment classification
-        |
-        v
-United States location filtering
-        |
-        v
-Job-category classification
-        |
-        v
-Deduplication and failure-safe merge
-        |
-        +-- data/jobs.json
-        +-- jobs/internships.md
-        +-- jobs/full-time.md
-        +-- README.md
+Company configuration → ATS connectors → normalize → U.S./employment filter
+→ posting details → sponsorship decision → salary/keywords → enrichment cache
+→ sponsored-only publication → JSON + Markdown + static site
+```
 
-## Supported hiring platforms
+## Supported ATS platforms
 
-| Source | Company identifier |
+| ATS | Identifier |
 |---|---|
-| Greenhouse | Company board token |
+| Greenhouse | Board token |
 | Lever | Lever site name |
-| Workday | Complete public Workday careers URL |
+| Workday | Complete public careers URL |
 
 ## Tracked companies
 
-| Fortune rank | Company | Source |
+| Fortune rank | Company | ATS |
 |---:|---|---|
 {{COMPANY_ROWS}}
 
-Company rankings and career-site identifiers are maintained in [`data/companies.json`](data/companies.json).
+Ranks and verified ATS identifiers are maintained in [`data/companies.json`](data/companies.json).
 
 ## Project structure
 
 ```text
-.
-├── .github/
-│   └── workflows/
-│       └── update.yml
-├── data/
-│   ├── companies.json
-│   └── jobs.json
-├── jobs/
-│   ├── internships.md
-│   └── full-time.md
-├── src/
-│   ├── connectors/
-│   │   ├── greenhouse.py
-│   │   ├── lever.py
-│   │   └── workday.py
-│   ├── categories.py
-│   ├── classify.py
-│   ├── companies.py
-│   ├── models.py
-│   ├── pipeline.py
-│   ├── readme.py
-│   └── store.py
-├── tests/
-├── README_TEMPLATE.md
-├── requirements.txt
-└── run.py
+data/             company config, public jobs, compact enrichment cache
+docs/             static search interface and compact site JSON
+jobs/             generated internship and full-time Markdown
+src/connectors/   Greenhouse, Lever, and Workday adapters
+src/              classifiers, enrichment, pipeline, storage, generators
+tests/            deterministic unit and integration-style tests
+run.py            command-line updater
 ```
 
-## Local setup
-
-### 1. Clone the repository
+## Local development
 
 ```bash
-git clone https://github.com/Tyelaman/F500-SWE-Internships.git
-cd F500-SWE-Internships
-```
-
-### 2. Create a virtual environment
-
-```bash
+git clone https://github.com/Tyelaman/F500Tracker.git
+cd F500Tracker
 python -m venv .venv
-```
-
-Windows PowerShell:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-macOS or Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 4. Run the tests
-
-```bash
+# activate the environment, then:
+python -m pip install -r requirements-dev.txt
 python -m pytest
-```
-
-
-Be careful: because the outer section contains a code block, copy it directly into the Markdown file rather than placing it inside another code block.
-
-## 5. Update the project structure
-
-Add `locations.py`:
-
-```text
-├── src/
-│   ├── connectors/
-│   │   ├── greenhouse.py
-│   │   ├── lever.py
-│   │   └── workday.py
-│   ├── categories.py
-│   ├── classify.py
-│   ├── companies.py
-│   ├── locations.py
-│   ├── models.py
-│   ├── pipeline.py
-│   ├── readme.py
-│   └── store.py
-
-## Adding a company
-
-Add an object to `data/companies.json`.
-
-### Greenhouse
-
-```json
-{
-  "name": "Example Company",
-  "fortune_rank": 100,
-  "source": "greenhouse",
-  "identifier": "example-board-token"
-}
-```
-
-### Lever
-
-```json
-{
-  "name": "Example Company",
-  "fortune_rank": 100,
-  "source": "lever",
-  "identifier": "example-site-name"
-}
-```
-
-### Workday
-
-```json
-{
-  "name": "Example Company",
-  "fortune_rank": 100,
-  "source": "workday",
-  "identifier": "https://example.wd5.myworkdayjobs.com/en-US/Careers"
-}
-```
-
-After editing the configuration, run:
-
-```bash
-python -m pytest
+ruff check .
+ruff format --check .
 python run.py update
 ```
 
-Verify that the company appears in `data/jobs.json` and that several generated application links work.
+To add a company, verify its current Fortune 500 rank and official ATS identifier, add the four required fields (`name`, `fortune_rank`, `source`, `identifier`) to `data/companies.json`, run validation/tests and a local update, then inspect application links. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Automation
+## Automation and generated files
 
-The GitHub Actions workflow:
+CI runs on pushes and pull requests. The update workflow runs approximately every six hours, serializes updates, tests before collection, safely rebases, and commits only generated artifacts. Do not hand-edit `README.md`, `data/jobs.json`, `data/enrichment_cache.json`, `docs/jobs.json`, or `jobs/*.md`; change their sources and rerun the updater.
 
-1. Checks out the repository
-2. Sets up Python
-3. Installs dependencies
-4. Runs the test suite
-5. retrieves current job postings
-6. Regenerates the output files
-7. Commits changes when the listings have changed
+## Enrichment and limitations
 
-The workflow runs every six hours and can also be started manually.
+Descriptions are used transiently and are not stored wholesale. The cache keeps only a posting identity/update marker, sponsorship result/evidence, salary fields, keywords, and enrichment time; unchanged postings reuse it, while postings without update timestamps expire after seven days. Salary is only employer-disclosed compensation and may be absent. Heuristics favor false negatives, postings and ATS formats can change, and eligibility can depend on applicant circumstances.
 
-## Generated files
+## Contributing
 
-These files are generated by the pipeline:
-
-- `README.md`
-- `data/jobs.json`
-- `jobs/internships.md`
-- `jobs/full-time.md`
-
-Do not permanently edit these files by hand. Update the source code, company configuration, or `README_TEMPLATE.md`, then run `python run.py update`.
-
-## Known limitations
-
-- Employment type and job category are inferred from titles and available posting metadata.
-- Location formats differ between hiring platforms.
-- Country-unspecified remote positions are excluded because they cannot be verified as United States-based.
-- A posting containing both U.S. and international locations is included when at least one recognized U.S. location is present.
-- Public career-site endpoints and identifiers may change without notice.
-- Fortune rankings and company configurations must be maintained manually.
-- Job postings may close between automated updates.
-- The tracker stores current open positions rather than a historical archive of closed jobs.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, generated-file policy, testing expectations, and the pull-request checklist.
 
 ## Disclaimer
 
-This project is not affiliated with Fortune, Greenhouse, Lever, Workday, or any tracked company. Listings are collected from public company hiring platforms. Always verify a position on the employer’s official career site before applying.
+F500Tracker is not legal or immigration advice and does not guarantee sponsorship. Verify the current posting and your eligibility directly with the employer.
 
 ## License
 
-This project is available under the [MIT License](LICENSE).
+[MIT](LICENSE)

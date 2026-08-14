@@ -1,9 +1,9 @@
 from urllib.parse import urlparse
-import requests
+
+from src import http as requests
 from src.categories import classify_job_category
 from src.classify import classify_employment_type
 from src.models import Job
-
 
 PAGE_SIZE = 20
 
@@ -21,36 +21,26 @@ def parse_workday_url(careers_url: str) -> dict[str, str]:
 
     tenant = host_parts[0]
 
-    path_parts = [
-        part
-        for part in parsed_url.path.split("/")
-        if part
-    ]
+    path_parts = [part for part in parsed_url.path.split("/") if part]
 
     if len(path_parts) < 2:
-        raise ValueError(
-            "Workday URL must contain a locale and site name"
-        )
+        raise ValueError("Workday URL must contain a locale and site name")
 
     locale = path_parts[0]
     site = path_parts[1]
 
     return {
-        "base_url": (
-            f"{parsed_url.scheme}://{parsed_url.netloc}"
-        ),
+        "base_url": (f"{parsed_url.scheme}://{parsed_url.netloc}"),
         "tenant": tenant,
         "locale": locale,
         "site": site,
     }
 
+
 def fetch_workday_jobs(careers_url: str) -> list[dict]:
     config = parse_workday_url(careers_url)
 
-    endpoint = (
-        f"{config['base_url']}/wday/cxs/"
-        f"{config['tenant']}/{config['site']}/jobs"
-    )
+    endpoint = f"{config['base_url']}/wday/cxs/{config['tenant']}/{config['site']}/jobs"
 
     jobs = []
     offset = 0
@@ -86,6 +76,24 @@ def fetch_workday_jobs(careers_url: str) -> list[dict]:
 
     return jobs
 
+
+def get_workday_description(raw_job: dict) -> str:
+    if raw_job.get("jobDescription"):
+        return raw_job["jobDescription"]
+    config = raw_job.get("_workday_config") or {}
+    path = raw_job.get("externalPath", "").lstrip("/")
+    if not config or not path:
+        return ""
+    endpoint = f"{config['base_url']}/wday/cxs/{config['tenant']}/{config['site']}/{path}"
+    response = requests.get(endpoint, timeout=20)
+    response.raise_for_status()
+    data = response.json()
+    raw_job["_source_updated_at"] = data.get("startDate", "")
+    return data.get("jobPostingInfo", {}).get("jobDescription", "") or data.get(
+        "jobDescription", ""
+    )
+
+
 def normalize_workday_job(
     raw_job: dict,
     company_name: str,
@@ -95,13 +103,9 @@ def normalize_workday_job(
     location = raw_job.get("locationsText") or "Unknown"
 
     bullet_fields = raw_job.get("bulletFields") or []
-    employment_text = " ".join(
-        [title] + [str(field) for field in bullet_fields]
-    )
+    employment_text = " ".join([title] + [str(field) for field in bullet_fields])
 
-    employment_type = classify_employment_type(
-        employment_text
-    )
+    employment_type = classify_employment_type(employment_text)
 
     if employment_type is None:
         return None
@@ -116,10 +120,7 @@ def normalize_workday_job(
     site = config.get("site", "")
 
     if base_url and locale and site and external_path:
-        url = (
-            f"{base_url}/{locale}/{site}"
-            f"{external_path}"
-        )
+        url = f"{base_url}/{locale}/{site}{external_path}"
     else:
         url = ""
 

@@ -1,9 +1,9 @@
 import json
+from datetime import UTC, datetime
 from pathlib import Path
-from datetime import datetime, timezone
 
 from src.models import Job
-
+from src.sponsorship import SUPPORTS_H1B
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 JOBS_PATH = PROJECT_ROOT / "data" / "jobs.json"
@@ -13,16 +13,18 @@ def save_jobs(jobs: list[Job]) -> None:
     job_data = []
 
     for job in jobs:
-        job_data.append(job.to_dict())
+        if job.h1b_status == SUPPORTS_H1B:
+            job_data.append(job.to_dict())
 
     with open(JOBS_PATH, "w", encoding="utf-8") as file:
         json.dump(job_data, file, indent=2)
+
 
 def load_jobs() -> list[Job]:
     if not JOBS_PATH.exists():
         return []
 
-    with open(JOBS_PATH, "r", encoding="utf-8") as file:
+    with open(JOBS_PATH, encoding="utf-8") as file:
         job_data = json.load(file)
 
     jobs = []
@@ -32,6 +34,7 @@ def load_jobs() -> list[Job]:
 
     return jobs
 
+
 def merge_jobs(
     collected_jobs: list[Job],
     existing_jobs: list[Job],
@@ -40,28 +43,18 @@ def merge_jobs(
     existing_by_id = {}
 
     for job in existing_jobs:
-        key = (
-            f"{job.source}:"
-            f"{job.company}:"
-            f"{job.external_id}"
-        )
+        key = f"{job.source}:{job.company}:{job.external_id}"
         existing_by_id[key] = job
 
-    now = datetime.now(timezone.utc).isoformat()
+    now = datetime.now(UTC).isoformat()
     merged_jobs = []
 
     for job in collected_jobs:
-        key = (
-            f"{job.source}:"
-            f"{job.company}:"
-            f"{job.external_id}"
-        )
+        key = f"{job.source}:{job.company}:{job.external_id}"
         existing_job = existing_by_id.get(key)
 
         if existing_job is not None:
-            job.first_seen_at = (
-                existing_job.first_seen_at or now
-            )
+            job.first_seen_at = existing_job.first_seen_at or now
         else:
             job.first_seen_at = now
 

@@ -23,15 +23,9 @@ def create_test_job(
 
 
 def test_creates_category_slug():
-    assert (
-        create_category_slug("Software & IT")
-        == "software-it"
-    )
+    assert create_category_slug("Software & IT") == "software-it"
 
-    assert (
-        create_category_slug("Data & AI")
-        == "data-ai"
-    )
+    assert create_category_slug("Data & AI") == "data-ai"
 
 
 def test_creates_category_navigation():
@@ -48,20 +42,11 @@ def test_creates_category_navigation():
 
     markdown = create_category_sections(jobs)
 
-    assert (
-        "[Software & IT (1)](#software-it)"
-        in markdown
-    )
+    assert "[Software & IT (1)](#software-it)" in markdown
 
-    assert (
-        "[Data & AI (1)](#data-ai)"
-        in markdown
-    )
+    assert "[Data & AI (1)](#data-ai)" in markdown
 
     assert '<a id="software-it"></a>' in markdown
     assert '<a id="data-ai"></a>' in markdown
 
-    assert (
-        "[Back to categories](#categories)"
-        in markdown
-    )
+    assert "[Back to categories](#categories)" in markdown

@@ -1,7 +1,8 @@
 import sys
 
-from src.readme import generate_markdown_files
 from src.pipeline import collect_jobs
+from src.readme import generate_markdown_files
+from src.sponsorship import SUPPORTS_H1B
 from src.store import load_jobs, merge_jobs, save_jobs
 
 
@@ -26,11 +27,19 @@ def update():
         existing_jobs,
         failed_companies,
     )
+    jobs = [job for job in jobs if job.h1b_status == SUPPORTS_H1B]
 
     save_jobs(jobs)
     generate_markdown_files(jobs)
 
     print(f"Saved {len(jobs)} jobs.")
+    print(f"Companies attempted: {len(successful_companies) + len(failed_companies)}")
+    print(f"Companies successful: {len(successful_companies)}")
+    print(f"Companies failed: {len(failed_companies)}")
+    print(f"Sponsored internships: {sum(job.employment_type == 'internship' for job in jobs)}")
+    print(f"Sponsored full-time jobs: {sum(job.employment_type == 'full-time' for job in jobs)}")
+    print(f"Total published jobs: {len(jobs)}")
+    print(f"Jobs with salary information: {sum(job.salary_min is not None for job in jobs)}")
 
     if failed_companies:
         failed_names = ", ".join(sorted(failed_companies))
@@ -41,11 +50,7 @@ def update():
     print("Generated jobs/full-time.md")
 
     for job in jobs[:5]:
-        print(
-            f"{job.company} | "
-            f"{job.title} | "
-            f"{job.employment_type}"
-        )
+        print(f"{job.company} | {job.title} | {job.employment_type}")
 
 
 def main():

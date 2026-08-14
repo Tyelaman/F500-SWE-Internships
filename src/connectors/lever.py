@@ -1,9 +1,7 @@
-import requests
-
+from src import http as requests
 from src.categories import classify_job_category
 from src.classify import classify_employment_type
 from src.models import Job
-
 
 BASE_URL = "https://api.lever.co/v0/postings"
 
@@ -25,6 +23,14 @@ def fetch_lever_jobs(site_name: str) -> list[dict]:
         return []
 
     return data
+
+
+def get_lever_description(raw_job: dict) -> str:
+    parts = [raw_job.get("descriptionPlain") or raw_job.get("description") or ""]
+    for item in raw_job.get("lists") or []:
+        parts.extend((item.get("text", ""), item.get("content", "")))
+    parts.append(raw_job.get("additionalPlain") or raw_job.get("additional") or "")
+    return " ".join(part for part in parts if part)
 
 
 def normalize_lever_job(
@@ -54,10 +60,7 @@ def normalize_lever_job(
         fortune_rank=fortune_rank,
         title=title,
         location=location,
-        url=(
-            raw_job.get("applyUrl")
-            or raw_job.get("hostedUrl", "")
-        ),
+        url=(raw_job.get("applyUrl") or raw_job.get("hostedUrl", "")),
         source="lever",
         external_id=str(raw_job.get("id", "")),
         employment_type=employment_type,

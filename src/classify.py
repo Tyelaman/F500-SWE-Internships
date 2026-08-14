@@ -1,6 +1,5 @@
 import re
 
-
 INTERNSHIP_PATTERN = re.compile(
     r"\b(intern|internship|internships|co[\s-]?op)\b",
     re.IGNORECASE,

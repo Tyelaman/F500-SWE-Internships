@@ -14,10 +14,7 @@ def test_data_categories():
 def test_business_categories():
     assert classify_job_category("Financial Analyst") == "Finance & Accounting"
     assert classify_job_category("Marketing Manager") == "Sales & Marketing"
-    assert (
-        classify_job_category("Supply Chain Coordinator")
-        == "Operations & Supply Chain"
-    )
+    assert classify_job_category("Supply Chain Coordinator") == "Operations & Supply Chain"
 
 
 def test_unknown_category():

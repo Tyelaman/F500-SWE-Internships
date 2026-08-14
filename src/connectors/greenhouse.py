@@ -1,10 +1,7 @@
-from turtle import title
-
-import requests
-
+from src import http as requests
+from src.categories import classify_job_category
 from src.classify import classify_employment_type
 from src.models import Job
-from src.categories import classify_job_category
 
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards"
 
@@ -12,12 +9,17 @@ BASE_URL = "https://boards-api.greenhouse.io/v1/boards"
 def fetch_greenhouse_jobs(board_token: str) -> list[dict]:
     url = f"{BASE_URL}/{board_token}/jobs"
 
-    response = requests.get(url, timeout=20)
+    response = requests.get(url, params={"content": "true"}, timeout=20)
     response.raise_for_status()
 
     data = response.json()
 
     return data.get("jobs", [])
+
+
+def get_greenhouse_description(raw_job: dict) -> str:
+    return raw_job.get("content") or raw_job.get("description") or ""
+
 
 def normalize_greenhouse_job(
     raw_job: dict,

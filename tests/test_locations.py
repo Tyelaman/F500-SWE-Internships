@@ -22,15 +22,11 @@ def test_accepts_workday_location_format():
 
 
 def test_accepts_multiple_locations_with_us_option():
-    assert is_us_location(
-        "Austin, TX | Toronto, Canada"
-    )
+    assert is_us_location("Austin, TX | Toronto, Canada")
 
 
 def test_rejects_non_us_location():
-    assert not is_us_location(
-        "London, United Kingdom"
-    )
+    assert not is_us_location("London, United Kingdom")
 
 
 def test_rejects_unknown_remote_location():
