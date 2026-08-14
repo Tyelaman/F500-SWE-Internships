@@ -1,12 +1,12 @@
 # Fortune 500 Internships
 
-Last updated: August 14, 2026 at 02:48 UTC
+Last updated: August 14, 2026 at 07:52 UTC
 
-Open internships: 23
+Open internships: 22
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (20)](#other)
+[Software & IT (2)](#software-it) · [Other (20)](#other)
 
 <a id="software-it"></a>
 
@@ -18,18 +18,6 @@ Open positions: 2
 |---:|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
-
-[Back to categories](#categories)
-
-<a id="operations-supply-chain"></a>
-
-## Operations & Supply Chain
-
-Open positions: 1
-
-| Rank | Company | Position | Location | Updated | Apply |
-|---:|---|---|---|---|---|
-| 112 | Northrop Grumman | 2027 Intern Global Supply Chain | United States-California-Palmdale | — | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591) |
 
 [Back to categories](#categories)
 
