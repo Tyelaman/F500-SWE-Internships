@@ -1,10 +1,6 @@
 # F500Tracker internships
 
-<<<<<<< HEAD
-Last updated: August 15, 2026 at 02:00 UTC
-=======
-Last updated: August 15, 2026 at 02:30 UTC
->>>>>>> 84eb2e4 (feat: publish all eligible jobs with sponsorship signals)
+Last updated: August 15, 2026 at 02:40 UTC
 
 Current internships: 41
 
