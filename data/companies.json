@@ -298,5 +298,35 @@
     "fortune_rank": 376,
     "source": "greenhouse",
     "identifier": "oscar"
+  },
+  {
+    "name": "Broadcom",
+    "fortune_rank": 70,
+    "source": "workday",
+    "identifier": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career"
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "fortune_rank": 133,
+    "source": "workday",
+    "identifier": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe"
+  },
+  {
+    "name": "Applied Materials",
+    "fortune_rank": 160,
+    "source": "workday",
+    "identifier": "https://amat.wd1.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Analog Devices",
+    "fortune_rank": 396,
+    "source": "workday",
+    "identifier": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External"
+  },
+  {
+    "name": "Marvell Technology",
+    "fortune_rank": 476,
+    "source": "workday",
+    "identifier": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers"
   }
 ]

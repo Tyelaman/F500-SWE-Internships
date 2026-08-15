@@ -3,7 +3,6 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from src.models import Job
-from src.sponsorship import SUPPORTS_H1B
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 JOBS_PATH = PROJECT_ROOT / "data" / "jobs.json"
@@ -13,8 +12,7 @@ def save_jobs(jobs: list[Job]) -> None:
     job_data = []
 
     for job in jobs:
-        if job.h1b_status == SUPPORTS_H1B:
-            job_data.append(job.to_dict())
+        job_data.append(job.to_dict())
 
     with open(JOBS_PATH, "w", encoding="utf-8") as file:
         json.dump(job_data, file, indent=2)

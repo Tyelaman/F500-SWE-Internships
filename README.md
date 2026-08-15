@@ -5,19 +5,24 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-F500Tracker is an automated Fortune 500 job aggregation and enrichment pipeline that discovers U.S.-based internships and full-time opportunities with explicit H-1B/employment visa sponsorship support. It enriches qualifying postings with employer-disclosed salary information and job-relevant keywords, then publishes searchable Markdown, JSON, and a lightweight web interface.
+F500Tracker is an automated pipeline that discovers U.S.-based internships and full-time positions from Fortune 500 career sites, enriches them with salary, skills, categories, and posting-level visa sponsorship signals, and publishes searchable job data.
 
+<<<<<<< HEAD
 Last updated: **August 15, 2026 at 02:00 UTC**
+=======
+Last updated: **August 15, 2026 at 02:30 UTC**
+>>>>>>> 84eb2e4 (feat: publish all eligible jobs with sponsorship signals)
 
 | Public metric | Count |
 |---|---:|
-| Tracked Fortune 500 companies | 50 |
-| H-1B-supporting internships | 0 |
-| H-1B-supporting full-time positions | 0 |
-| Total sponsorship-supported positions | 0 |
-| Positions with disclosed salary | 0 |
-
-If the total is zero, the latest scan completed successfully but found no postings that met the conservative sponsorship-evidence threshold.
+| Tracked Fortune 500 companies | 55 |
+| Internships | 41 |
+| Full-time positions | 14745 |
+| Total current jobs | 14786 |
+| Jobs with disclosed salary | 1691 |
+| Sponsorship-supported jobs | 0 |
+| Jobs explicitly not offering sponsorship | 2370 |
+| Jobs where sponsorship is not specified | 12416 |
 
 [Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
@@ -31,14 +36,14 @@ If the total is zero, the latest scan completed successfully but found no postin
 - Generated Markdown, JSON, and a dependency-free searchable static site
 - Scheduled updates plus linting and mocked unit tests
 
-## How sponsorship filtering works
+## How sponsorship classification works
 
-F500Tracker evaluates wording in each individual public posting. Explicit H-1B availability or strong role-specific U.S. employment-based immigration sponsorship qualifies. Explicit restrictions override positive-looking text. Missing, vague, conflicting, OPT/CPT-only, or inaccessible language becomes `unknown` and is excluded. Historical employer reputation never qualifies a posting.
+Sponsorship classification is based only on language in the individual job posting. `Sponsorship supported` means the posting contains sufficiently strong positive evidence. `No sponsorship for this position` means the posting explicitly rules it out. `Not specified` means the posting does not contain enough evidence to determine sponsorship availability. Employer sponsorship history is not used to classify a job, and all three statuses remain publishable.
 
 ```text
 Company configuration → ATS connectors → normalize → U.S./employment filter
 → posting details → sponsorship decision → salary/keywords → enrichment cache
-→ sponsored-only publication → JSON + Markdown + static site
+→ publish all eligible jobs → JSON + Markdown + static site
 ```
 
 ## Supported ATS platforms
@@ -75,6 +80,7 @@ Company configuration → ATS connectors → normalize → U.S./employment filte
 | 63 | Capital One | Workday |
 | 64 | Allstate | Workday |
 | 65 | Caterpillar | Workday |
+| 70 | Broadcom | Workday |
 | 78 | Prudential Financial | Workday |
 | 83 | Cisco Systems | Workday |
 | 84 | HP | Workday |
@@ -90,10 +96,12 @@ Company configuration → ATS connectors → normalize → U.S./employment filte
 | 119 | Visa | Workday |
 | 125 | Micron Technology | Workday |
 | 132 | Coupang | Greenhouse |
+| 133 | Hewlett Packard Enterprise | Workday |
 | 136 | PNC Financial Services Group | Workday |
 | 139 | PayPal | Workday |
 | 141 | Mastercard | Workday |
 | 150 | Truist Financial | Workday |
+| 160 | Applied Materials | Workday |
 | 183 | 3M | Workday |
 | 191 | Block | Greenhouse |
 | 192 | Adobe | Workday |
@@ -102,7 +110,9 @@ Company configuration → ATS connectors → normalize → U.S./employment filte
 | 329 | DoorDash | Greenhouse |
 | 357 | Airbnb | Greenhouse |
 | 376 | Oscar Health | Greenhouse |
+| 396 | Analog Devices | Workday |
 | 430 | Workday | Workday |
+| 476 | Marvell Technology | Workday |
 
 Ranks and verified ATS identifiers are maintained in [`data/companies.json`](data/companies.json).
 

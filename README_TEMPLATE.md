@@ -5,19 +5,20 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-F500Tracker is an automated Fortune 500 job aggregation and enrichment pipeline that discovers U.S.-based internships and full-time opportunities with explicit H-1B/employment visa sponsorship support. It enriches qualifying postings with employer-disclosed salary information and job-relevant keywords, then publishes searchable Markdown, JSON, and a lightweight web interface.
+F500Tracker is an automated pipeline that discovers U.S.-based internships and full-time positions from Fortune 500 career sites, enriches them with salary, skills, categories, and posting-level visa sponsorship signals, and publishes searchable job data.
 
 Last updated: **{{LAST_UPDATED}}**
 
 | Public metric | Count |
 |---|---:|
 | Tracked Fortune 500 companies | {{COMPANY_COUNT}} |
-| H-1B-supporting internships | {{INTERNSHIP_COUNT}} |
-| H-1B-supporting full-time positions | {{FULL_TIME_COUNT}} |
-| Total sponsorship-supported positions | {{TOTAL_COUNT}} |
-| Positions with disclosed salary | {{SALARY_COUNT}} |
-
-If the total is zero, the latest scan completed successfully but found no postings that met the conservative sponsorship-evidence threshold.
+| Internships | {{INTERNSHIP_COUNT}} |
+| Full-time positions | {{FULL_TIME_COUNT}} |
+| Total current jobs | {{TOTAL_COUNT}} |
+| Jobs with disclosed salary | {{SALARY_COUNT}} |
+| Sponsorship-supported jobs | {{SUPPORTED_COUNT}} |
+| Jobs explicitly not offering sponsorship | {{UNSUPPORTED_COUNT}} |
+| Jobs where sponsorship is not specified | {{UNKNOWN_COUNT}} |
 
 [Internships](jobs/internships.md) · [Full-time roles](jobs/full-time.md) · [Searchable site](https://tyelaman.github.io/F500Tracker/) · [Public JSON](data/jobs.json)
 
@@ -31,14 +32,14 @@ If the total is zero, the latest scan completed successfully but found no postin
 - Generated Markdown, JSON, and a dependency-free searchable static site
 - Scheduled updates plus linting and mocked unit tests
 
-## How sponsorship filtering works
+## How sponsorship classification works
 
-F500Tracker evaluates wording in each individual public posting. Explicit H-1B availability or strong role-specific U.S. employment-based immigration sponsorship qualifies. Explicit restrictions override positive-looking text. Missing, vague, conflicting, OPT/CPT-only, or inaccessible language becomes `unknown` and is excluded. Historical employer reputation never qualifies a posting.
+Sponsorship classification is based only on language in the individual job posting. `Sponsorship supported` means the posting contains sufficiently strong positive evidence. `No sponsorship for this position` means the posting explicitly rules it out. `Not specified` means the posting does not contain enough evidence to determine sponsorship availability. Employer sponsorship history is not used to classify a job, and all three statuses remain publishable.
 
 ```text
 Company configuration → ATS connectors → normalize → U.S./employment filter
 → posting details → sponsorship decision → salary/keywords → enrichment cache
-→ sponsored-only publication → JSON + Markdown + static site
+→ publish all eligible jobs → JSON + Markdown + static site
 ```
 
 ## Supported ATS platforms

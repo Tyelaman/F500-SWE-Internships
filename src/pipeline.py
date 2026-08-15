@@ -22,7 +22,7 @@ from src.connectors.workday import (
 from src.enrichment import apply_cached_enrichment, enrich_job, load_cache, save_cache
 from src.locations import is_us_location
 from src.models import Job
-from src.sponsorship import SUPPORTS_H1B
+from src.sponsorship import DOES_NOT_SUPPORT_H1B, SUPPORTS_H1B, UNKNOWN
 
 CONNECTORS = {
     "greenhouse": (
@@ -73,7 +73,7 @@ def fetch_descriptions(
 
 
 def filter_public_jobs(jobs: list[Job]) -> list[Job]:
-    return [job for job in jobs if job.h1b_status == SUPPORTS_H1B]
+    return list(jobs)
 
 
 def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
@@ -117,7 +117,7 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
             raw_jobs = fetch_jobs(company["identifier"])
             successful_companies.add(company_name)
             eligible_jobs = []
-            sponsored_count = 0
+            status_counts = {SUPPORTS_H1B: 0, DOES_NOT_SUPPORT_H1B: 0, UNKNOWN: 0}
 
             for raw_job in raw_jobs:
                 job = normalize_job(
@@ -147,14 +147,15 @@ def collect_jobs() -> tuple[list[Job], set[str], set[str]]:
                     print(f"  detail failed for {job.external_id}: {error}")
                 enrich_job(job, description, cache)
             for job, _ in eligible_jobs:
-                if job.h1b_status != SUPPORTS_H1B:
-                    continue
-                sponsored_count += 1
+                status_counts[job.h1b_status] = status_counts.get(job.h1b_status, 0) + 1
                 collected_jobs.append(job)
 
             print(f"  raw jobs: {len(raw_jobs)}")
             print(f"  U.S. eligible: {len(eligible_jobs)}")
-            print(f"  sponsored jobs: {sponsored_count}")
+            print(f"  public jobs: {len(eligible_jobs)}")
+            print(f"  supports_h1b: {status_counts[SUPPORTS_H1B]}")
+            print(f"  does_not_support_h1b: {status_counts[DOES_NOT_SUPPORT_H1B]}")
+            print(f"  unknown: {status_counts[UNKNOWN]}")
             print("  status: success")
 
         except (RequestException, ValueError, KeyError, TypeError) as error:

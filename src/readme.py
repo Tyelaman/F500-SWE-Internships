@@ -6,7 +6,7 @@ from pathlib import Path
 from src.companies import load_companies
 from src.models import Job
 from src.salary import format_salary
-from src.sponsorship import SUPPORTS_H1B
+from src.sponsorship import DOES_NOT_SUPPORT_H1B, SUPPORTS_H1B, UNKNOWN, sponsorship_label
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 README_PATH = PROJECT_ROOT / "README.md"
@@ -63,7 +63,7 @@ def create_job_table(jobs: list[Job]) -> str:
             f"| {job.fortune_rank} | {clean_markdown(job.company)} "
             f"| {clean_markdown(job.title)} | {clean_markdown(job.location)} "
             f"| {clean_markdown(job.category)} | {salary} | {keywords} "
-            f"| H-1B ✓ | [Apply]({job.url}) |"
+            f"| {sponsorship_label(job.h1b_status)} | [Apply]({job.url}) |"
         )
     if not jobs:
         lines.append("| — | — | No qualifying positions found | — | — | — | — | — | — |")
@@ -96,7 +96,7 @@ def create_category_sections(jobs: list[Job]) -> str:
 
 
 def public_jobs(jobs: list[Job]) -> list[Job]:
-    return [job for job in jobs if job.h1b_status == SUPPORTS_H1B]
+    return list(jobs)
 
 
 def generate_markdown_files(jobs: list[Job]) -> None:
@@ -115,14 +115,14 @@ def generate_markdown_files(jobs: list[Job]) -> None:
     )
     updated = datetime.now(UTC).strftime("%B %d, %Y at %H:%M UTC")
     INTERNSHIPS_PATH.write_text(
-        f"# F500Tracker sponsored internships\n\nLast updated: {updated}\n\n"
-        f"Qualifying internships: {len(internships)}\n\n"
+        f"# F500Tracker internships\n\nLast updated: {updated}\n\n"
+        f"Current internships: {len(internships)}\n\n"
         f"{create_category_sections(internships)}\n",
         encoding="utf-8",
     )
     FULL_TIME_PATH.write_text(
-        f"# F500Tracker sponsored full-time positions\n\nLast updated: {updated}\n\n"
-        f"Qualifying positions: {len(full_time)}\n\n"
+        f"# F500Tracker full-time positions\n\nLast updated: {updated}\n\n"
+        f"Current positions: {len(full_time)}\n\n"
         f"{create_category_sections(full_time)}\n",
         encoding="utf-8",
     )
@@ -140,6 +140,9 @@ def generate_markdown_files(jobs: list[Job]) -> None:
         "FULL_TIME_COUNT": len(full_time),
         "TOTAL_COUNT": len(jobs),
         "SALARY_COUNT": salary_count,
+        "SUPPORTED_COUNT": sum(job.h1b_status == SUPPORTS_H1B for job in jobs),
+        "UNSUPPORTED_COUNT": sum(job.h1b_status == DOES_NOT_SUPPORT_H1B for job in jobs),
+        "UNKNOWN_COUNT": sum(job.h1b_status == UNKNOWN for job in jobs),
         "COMPANY_ROWS": rows,
     }
     for key, value in replacements.items():
@@ -157,6 +160,7 @@ def generate_markdown_files(jobs: list[Job]) -> None:
             "keywords": job.keywords[:8],
             "sponsorship_evidence": job.sponsorship_evidence,
             "h1b_status": job.h1b_status,
+            "sponsorship_label": sponsorship_label(job.h1b_status),
             "url": job.url,
         }
         for job in jobs

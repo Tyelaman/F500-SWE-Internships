@@ -17,5 +17,5 @@ Never add credentials, private applicant information, invented ranks/identifiers
 - [ ] Tests and both Ruff commands pass.
 - [ ] New network behavior is mocked in unit tests.
 - [ ] Company configuration validates and application links were checked.
-- [ ] Public artifacts contain only `supports_h1b` U.S. internship/full-time jobs.
+- [ ] Public artifacts contain all eligible U.S. internship/full-time jobs with a conservative sponsorship status.
 - [ ] Generated artifacts were refreshed when their sources changed.

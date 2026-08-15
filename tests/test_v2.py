@@ -10,7 +10,13 @@ from src.models import Job
 from src.pipeline import filter_public_jobs
 from src.readme import generate_markdown_files
 from src.salary import extract_salary
-from src.sponsorship import DOES_NOT_SUPPORT_H1B, SUPPORTS_H1B, UNKNOWN, classify_sponsorship
+from src.sponsorship import (
+    DOES_NOT_SUPPORT_H1B,
+    SUPPORTS_H1B,
+    UNKNOWN,
+    classify_sponsorship,
+    sponsorship_label,
+)
 
 
 @pytest.mark.parametrize(
@@ -106,9 +112,21 @@ def make_job(status=SUPPORTS_H1B, employment="full-time"):
     )
 
 
-def test_public_filter_excludes_unknown_and_negative():
+def test_public_filter_includes_all_sponsorship_statuses():
     jobs = [make_job(), make_job(UNKNOWN), make_job(DOES_NOT_SUPPORT_H1B)]
-    assert filter_public_jobs(jobs) == [jobs[0]]
+    assert filter_public_jobs(jobs) == jobs
+
+
+@pytest.mark.parametrize(
+    ("status", "label"),
+    [
+        (SUPPORTS_H1B, "Sponsorship supported"),
+        (UNKNOWN, "Not specified"),
+        (DOES_NOT_SUPPORT_H1B, "No sponsorship for this position"),
+    ],
+)
+def test_sponsorship_labels(status, label):
+    assert sponsorship_label(status) == label
 
 
 def test_backward_compatible_model_loading():
@@ -139,7 +157,7 @@ def test_fresh_cache_is_applied_before_detail_fetch():
     assert job.h1b_status == SUPPORTS_H1B
 
 
-def test_generated_outputs_filter_public_jobs(tmp_path, monkeypatch):
+def test_generated_outputs_include_all_public_jobs(tmp_path, monkeypatch):
     import src.readme as readme
 
     monkeypatch.setattr(readme, "PROJECT_ROOT", tmp_path)
@@ -152,6 +170,7 @@ def test_generated_outputs_filter_public_jobs(tmp_path, monkeypatch):
     monkeypatch.setattr(readme, "load_companies", lambda: [])
     (tmp_path / "README_TEMPLATE.md").write_text(
         "{{TOTAL_COUNT}} {{INTERNSHIP_COUNT}} {{FULL_TIME_COUNT}} {{SALARY_COUNT}} "
+        "{{SUPPORTED_COUNT}} {{UNSUPPORTED_COUNT}} {{UNKNOWN_COUNT}} "
         "{{COMPANY_COUNT}} {{LAST_UPDATED}} {{COMPANY_ROWS}}"
     )
     generate_markdown_files(
@@ -163,6 +182,18 @@ def test_generated_outputs_filter_public_jobs(tmp_path, monkeypatch):
         ]
     )
     site_jobs = json.loads((tmp_path / "docs/jobs.json").read_text())
-    assert len(site_jobs) == 2
-    assert all(job["h1b_status"] == SUPPORTS_H1B for job in site_jobs)
-    assert (tmp_path / "README.md").read_text().startswith("2 1 1")
+    assert len(site_jobs) == 4
+    assert {job["h1b_status"] for job in site_jobs} == {
+        SUPPORTS_H1B,
+        UNKNOWN,
+        DOES_NOT_SUPPORT_H1B,
+    }
+    assert {job["sponsorship_label"] for job in site_jobs} == {
+        "Sponsorship supported",
+        "Not specified",
+        "No sponsorship for this position",
+    }
+    assert (tmp_path / "README.md").read_text().startswith("4 1 3 0 2 1 1")
+    markdown = (tmp_path / "jobs/full-time.md").read_text()
+    assert "Not specified" in markdown
+    assert "No sponsorship for this position" in markdown

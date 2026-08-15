@@ -1,5 +1,72 @@
-const PAGE=50;let jobs=[],filtered=[],shown=0;const $=id=>document.getElementById(id);const fields=["search","type","category","company","location","salary","keywords"];
-function options(id,values){for(const value of [...new Set(values)].sort()){const option=document.createElement("option");option.value=option.textContent=value;$(id).append(option)}}
-function apply(){const q=$("search").value.toLowerCase(),kw=$("keywords").value.toLowerCase();filtered=jobs.filter(j=>!$("type").value||j.employment_type===$("type").value).filter(j=>!$("category").value||j.category===$("category").value).filter(j=>!$("company").value||j.company===$("company").value).filter(j=>!$("location").value||j.location.toLowerCase().includes($("location").value.toLowerCase())).filter(j=>!$("salary").value||(j.salary_min??0)>=Number($("salary").value)).filter(j=>!kw||j.keywords.some(k=>k.toLowerCase().includes(kw))).filter(j=>!q||[j.title,j.company,j.location,j.category,...j.keywords].join(" ").toLowerCase().includes(q));shown=0;$("results").replaceChildren();render()}
-function render(){const end=Math.min(shown+PAGE,filtered.length),fragment=document.createDocumentFragment();for(const j of filtered.slice(shown,end)){const article=document.createElement("article");article.className="job";article.innerHTML=`<h2></h2><div class="meta"><span>${j.company}</span><span>• ${j.location}</span><span>• ${j.employment_type}</span><span>• ${j.category}</span></div><p><strong>${j.salary}</strong> · H-1B supported</p><div class="tags"></div><details><summary>Why sponsored?</summary><p></p></details><a class="apply" target="_blank" rel="noopener">Apply on official site</a>`;article.querySelector("h2").textContent=j.title;article.querySelector("details p").textContent=j.sponsorship_evidence;article.querySelector("a").href=j.url;for(const k of j.keywords.slice(0,5)){const tag=document.createElement("span");tag.className="tag";tag.textContent=k;article.querySelector(".tags").append(tag)}fragment.append(article)}$("results").append(fragment);shown=end;$("count").textContent=`Showing ${shown} of ${filtered.length} jobs`;$("more").hidden=shown>=filtered.length}
-fetch("jobs.json").then(r=>{if(!r.ok)throw Error(`HTTP ${r.status}`);return r.json()}).then(data=>{jobs=data;options("category",jobs.map(j=>j.category));options("company",jobs.map(j=>j.company));apply()}).catch(e=>$("count").textContent=`Unable to load jobs: ${e.message}`);for(const id of fields)$(id).addEventListener("input",apply);$("filters").addEventListener("reset",()=>setTimeout(apply));$("more").addEventListener("click",render);
+const PAGE = 50;
+const LABELS = {supports_h1b: "Sponsorship supported", unknown: "Not specified", does_not_support_h1b: "No sponsorship for this position"};
+let jobs = [], filtered = [], shown = 0;
+const $ = id => document.getElementById(id);
+const fields = ["search", "type", "sponsorship", "category", "company", "location", "salary", "keywords"];
+
+function options(id, values) {
+  for (const value of [...new Set(values)].sort()) {
+    const option = document.createElement("option");
+    option.value = option.textContent = value;
+    $(id).append(option);
+  }
+}
+
+function apply() {
+  const q = $("search").value.toLowerCase(), kw = $("keywords").value.toLowerCase();
+  filtered = jobs
+    .filter(j => !$("type").value || j.employment_type === $("type").value)
+    .filter(j => !$("sponsorship").value || j.h1b_status === $("sponsorship").value)
+    .filter(j => !$("category").value || j.category === $("category").value)
+    .filter(j => !$("company").value || j.company === $("company").value)
+    .filter(j => !$("location").value || j.location.toLowerCase().includes($("location").value.toLowerCase()))
+    .filter(j => !$("salary").value || (j.salary_min ?? 0) >= Number($("salary").value))
+    .filter(j => !kw || j.keywords.some(k => k.toLowerCase().includes(kw)))
+    .filter(j => !q || [j.title, j.company, j.location, j.category, ...j.keywords].join(" ").toLowerCase().includes(q));
+  shown = 0;
+  $("results").replaceChildren();
+  render();
+}
+
+function render() {
+  const end = Math.min(shown + PAGE, filtered.length), fragment = document.createDocumentFragment();
+  for (const j of filtered.slice(shown, end)) {
+    const article = document.createElement("article");
+    article.className = `job sponsorship-${j.h1b_status || "unknown"}`;
+    article.innerHTML = `<h2></h2><div class="meta"></div><p><strong class="salary"></strong> · <span class="sponsorship"></span></p><div class="tags"></div><details hidden><summary>Posting evidence</summary><p></p></details><a class="apply" target="_blank" rel="noopener">Apply on official site</a>`;
+    article.querySelector("h2").textContent = j.title;
+    article.querySelector(".meta").textContent = `${j.company} • ${j.location} • ${j.employment_type} • ${j.category}`;
+    article.querySelector(".salary").textContent = j.salary || "Not disclosed";
+    article.querySelector(".sponsorship").textContent = j.sponsorship_label || LABELS[j.h1b_status] || LABELS.unknown;
+    if (j.sponsorship_evidence) {
+      const details = article.querySelector("details");
+      details.hidden = false;
+      details.querySelector("p").textContent = j.sponsorship_evidence;
+    }
+    article.querySelector("a").href = j.url;
+    for (const k of j.keywords.slice(0, 5)) {
+      const tag = document.createElement("span");
+      tag.className = "tag";
+      tag.textContent = k;
+      article.querySelector(".tags").append(tag);
+    }
+    fragment.append(article);
+  }
+  $("results").append(fragment);
+  shown = end;
+  $("count").textContent = `Showing ${shown} of ${filtered.length} jobs (${jobs.length} total)`;
+  $("more").hidden = shown >= filtered.length;
+}
+
+fetch("jobs.json").then(r => {
+  if (!r.ok) throw Error(`HTTP ${r.status}`);
+  return r.json();
+}).then(data => {
+  jobs = data;
+  options("category", jobs.map(j => j.category));
+  options("company", jobs.map(j => j.company));
+  apply();
+}).catch(e => $("count").textContent = `Unable to load jobs: ${e.message}`);
+for (const id of fields) $(id).addEventListener("input", apply);
+$("filters").addEventListener("reset", () => setTimeout(apply));
+$("more").addEventListener("click", render);

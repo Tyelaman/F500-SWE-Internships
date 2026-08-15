@@ -5,6 +5,17 @@ from dataclasses import dataclass
 SUPPORTS_H1B = "supports_h1b"
 DOES_NOT_SUPPORT_H1B = "does_not_support_h1b"
 UNKNOWN = "unknown"
+SPONSORSHIP_LABELS = {
+    SUPPORTS_H1B: "Sponsorship supported",
+    UNKNOWN: "Not specified",
+    DOES_NOT_SUPPORT_H1B: "No sponsorship for this position",
+}
+
+
+def sponsorship_label(status: str) -> str:
+    """Return the conservative public label for a posting-level status."""
+    return SPONSORSHIP_LABELS.get(status, SPONSORSHIP_LABELS[UNKNOWN])
+
 
 NEGATIVE_PATTERNS = [
     re.compile(pattern, re.I)
