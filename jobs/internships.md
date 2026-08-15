@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 15, 2026 at 06:57 UTC
+Last updated: August 15, 2026 at 13:11 UTC
 
-Current internships: 41
+Current internships: 40
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
+[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
 
 <a id="software-it"></a>
 
@@ -39,11 +39,10 @@ Open positions: 2
 
 ## Finance & Accounting
 
-Open positions: 3
+Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 30 | Marathon Petroleum | Associate Accountant (Intern to FT Conversion) | Findlay, Ohio | Finance & Accounting | Not disclosed | Excel · accounting · human resources · contracts | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Accountant--Intern-to-FT-Conversion-_00023289) |
 | 37 | Comcast | Intern, Accounting | PA - Philadelphia, 3601 S Broad St | Finance & Accounting | Not disclosed | accounting · sales · compliance | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Intern--Accounting_R442549) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
 
