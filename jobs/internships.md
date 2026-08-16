@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 16, 2026 at 13:10 UTC
+Last updated: August 16, 2026 at 18:56 UTC
 
-Current internships: 41
+Current internships: 40
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (33)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (33)](#other)
 
 <a id="software-it"></a>
 
@@ -26,11 +26,10 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 49 | RTX | CA Intern (Industrial Trainee) | IN-DL-NEW DELHI-WM2 ~ Asset Area No 8 ~ WORLDMARK 2, Unit No 505 & 506, 5th Flr | Engineering | Not disclosed | accounting · audit · recruiting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-DL-NEW-DELHI-WM2--Asset-Area-No-8--WORLDMARK-2-Unit-No-505--506-5th-Flr/CA-Intern--Industrial-Trainee-_01862649) |
 | 49 | RTX | Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
