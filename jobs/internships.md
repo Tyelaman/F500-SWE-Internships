@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 16, 2026 at 02:07 UTC
+Last updated: August 16, 2026 at 07:08 UTC
 
-Current internships: 40
+Current internships: 41
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
+[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (33)](#other)
 
 <a id="software-it"></a>
 
@@ -64,12 +64,13 @@ Open positions: 1
 
 ## Other
 
-Open positions: 32
+Open positions: 33
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | Other | Not disclosed | SQL · analytics · recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
+| 125 | Micron Technology | Intern - DRAM PI | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) |
 | 125 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Other | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060) |
 | 125 | Micron Technology | Intern - DRAM Process Integration | Boise, ID - Main Site | Other | Not disclosed | machine learning · artificial intelligence · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Process-Integration_JR108075) |
