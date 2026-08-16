@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 15, 2026 at 02:47 UTC
+Last updated: August 16, 2026 at 18:56 UTC
 
-Current internships: 41
+Current internships: 40
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (33)](#other)
 
 <a id="software-it"></a>
 
@@ -26,11 +26,10 @@ Open positions: 3
 
 ## Engineering
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 49 | RTX | CA Intern (Industrial Trainee) | IN-DL-NEW DELHI-WM2 ~ Asset Area No 8 ~ WORLDMARK 2, Unit No 505 & 506, 5th Flr | Engineering | Not disclosed | accounting · audit · recruiting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN-DL-NEW-DELHI-WM2--Asset-Area-No-8--WORLDMARK-2-Unit-No-505--506-5th-Flr/CA-Intern--Industrial-Trainee-_01862649) |
 | 49 | RTX | Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -39,11 +38,10 @@ Open positions: 2
 
 ## Finance & Accounting
 
-Open positions: 3
+Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 30 | Marathon Petroleum | Associate Accountant (Intern to FT Conversion) | Findlay, Ohio | Finance & Accounting | Not disclosed | Excel · accounting · human resources · contracts | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Associate-Accountant--Intern-to-FT-Conversion-_00023289) |
 | 37 | Comcast | Intern, Accounting | PA - Philadelphia, 3601 S Broad St | Finance & Accounting | Not disclosed | accounting · sales · compliance | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Intern--Accounting_R442549) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
 
@@ -65,12 +63,13 @@ Open positions: 1
 
 ## Other
 
-Open positions: 32
+Open positions: 33
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | Other | Not disclosed | SQL · analytics · recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
+| 125 | Micron Technology | Intern - DRAM PI | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) |
 | 125 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Other | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060) |
 | 125 | Micron Technology | Intern - DRAM Process Integration | Boise, ID - Main Site | Other | Not disclosed | machine learning · artificial intelligence · analytics · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Process-Integration_JR108075) |
