@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 17, 2026 at 02:04 UTC
+Last updated: August 17, 2026 at 07:26 UTC
 
-Current internships: 39
+Current internships: 42
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (35)](#other)
 
 <a id="software-it"></a>
 
@@ -63,12 +63,16 @@ Open positions: 1
 
 ## Other
 
-Open positions: 32
+Open positions: 35
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | Other | Not disclosed | SQL · analytics · recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
+| 125 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) |
+| 125 | Micron Technology | Intern - EUV & Materials Lithography | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) |
+| 125 | Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence · data science · analytics · mechanical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323) |
+| 125 | Micron Technology | Intern - Wet Etch Process Development Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050) |
 | 125 | Micron Technology | Intern - DRAM PI | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-PI_JR107483) |
 | 125 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | Other | Not disclosed | Python · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Other | Not disclosed | — | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060) |
@@ -91,7 +95,6 @@ Open positions: 32
 | 33 | Freddie Mac | Summer 2027 Intern - Return Offer Only | McLean, VA | Other | Not disclosed | — | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Summer-2027-Intern---Return-Offer-Only_JR17434) |
 | 37 | Comcast | Corporate Partnerships Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) |
 | 37 | Comcast | Premium Hospitality Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | Excel · sales · contracts | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) |
-| 44 | Walt Disney | KTRK-TV (ABC13) News Intern, Fall 2026 | Houston, TX, USA | Other | $17.75/hr | — | Not specified | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Houston-TX-USA/KTRK-TV--ABC13--News-Intern--Fall-2026_10152696) |
 | 49 | RTX | SkillBridge: AN/ZSQ-2 Electro-Optical Systems Depot Technician Intern | US-KY-FORT CAMPBELL-7228NS-CUST ~ 7228 Nightstalker Wy ~ BLDG 6882, Rm 210 (External Site) | Other | Not disclosed | recruiting · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-KY-FORT-CAMPBELL-7228NS-CUST--7228-Nightstalker-Wy--BLDG-6882-Rm-210-External-Site/SkillBridge--AN-ZSQ-2-Electro-Optical-Systems-Depot-Technician-Intern_01865923) |
 | 49 | RTX | Internship Engineering (m/f/d) | DE-BW-HEIDELBERG-036-751 ~ Grenzhofer Weg 36 ~ BLDG 751 | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601) |
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Marlborough, MA | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/SkillBridge-Intern-DoD---Information-System-Security-Officer---Marlborough--MA_01862583) |
