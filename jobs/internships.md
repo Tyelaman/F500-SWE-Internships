@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 17, 2026 at 07:26 UTC
+Last updated: August 17, 2026 at 13:18 UTC
 
 Current internships: 42
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (35)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (1)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (36)](#other)
 
 <a id="software-it"></a>
 
@@ -38,11 +38,10 @@ Open positions: 1
 
 ## Finance & Accounting
 
-Open positions: 2
+Open positions: 1
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 37 | Comcast | Intern, Accounting | PA - Philadelphia, 3601 S Broad St | Finance & Accounting | Not disclosed | accounting · sales · compliance | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Intern--Accounting_R442549) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -63,11 +62,12 @@ Open positions: 1
 
 ## Other
 
-Open positions: 35
+Open positions: 36
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
 | 63 | Capital One | Analyst Early Internship Program - Summer 2027 | McLean, VA | Other | Not disclosed | SQL · analytics · recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) |
 | 125 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) |
 | 125 | Micron Technology | Intern - EUV & Materials Lithography | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) |
