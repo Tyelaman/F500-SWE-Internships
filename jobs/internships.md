@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 16, 2026 at 18:56 UTC
+Last updated: August 17, 2026 at 02:04 UTC
 
-Current internships: 40
+Current internships: 39
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (33)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Operations & Supply Chain (1)](#operations-supply-chain) · [Other (32)](#other)
 
 <a id="software-it"></a>
 
@@ -63,7 +63,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 33
+Open positions: 32
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -99,6 +99,5 @@ Open positions: 33
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
-| 160 | Applied Materials | 2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering · sales | Not specified | [Apply](https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
