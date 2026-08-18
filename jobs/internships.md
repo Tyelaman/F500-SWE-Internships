@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 18, 2026 at 02:02 UTC
+Last updated: August 18, 2026 at 07:14 UTC
 
-Current internships: 54
+Current internships: 52
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (42)](#other)
+[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (40)](#other)
 
 <a id="software-it"></a>
 
@@ -90,7 +90,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 42
+Open positions: 40
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -132,8 +132,6 @@ Open positions: 42
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Marlborough, MA | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/SkillBridge-Intern-DoD---Information-System-Security-Officer---Marlborough--MA_01862583) |
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Huntsville, AL | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/SkillBridge-Intern-DoD---Information-System-Security-Officer---Huntsville--AL_01862186) |
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
-| 65 | Caterpillar | 2027 Engineering Corporate Internship Program Materials | Mossville, Illinois | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501) |
-| 65 | Caterpillar | 2027 Engineering Corporate Internship Program Welding | Mossville, Illinois | Other | Not disclosed | mechanical engineering | Not specified | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
 
