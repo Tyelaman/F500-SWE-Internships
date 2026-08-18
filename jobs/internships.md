@@ -1,24 +1,23 @@
 # F500Tracker internships
 
-Last updated: August 18, 2026 at 07:14 UTC
+Last updated: August 18, 2026 at 13:19 UTC
 
-Current internships: 52
+Current internships: 50
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (40)](#other)
+[Software & IT (2)](#software-it) · [Engineering (1)](#engineering) · [Finance & Accounting (1)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (1)](#people-legal) · [Other (41)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 3
+Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
-| 88 | Intel | Software Development Graduate Intern | US, California, Folsom | Software & IT | Not disclosed | Python · machine learning · artificial intelligence · electrical engineering · compliance | Not specified | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -38,12 +37,10 @@ Open positions: 1
 
 ## Finance & Accounting
 
-Open positions: 3
+Open positions: 1
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 14 | Cigna Group | MBA Finance Leadership Development Program Intern | Bloomfield, CT | Finance & Accounting | $50–$52/hr | analytics · financial modeling · accounting · audit | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/MBA-Finance-Leadership-Development-Program-Intern_26009131) |
-| 23 | General Motors | 2027 Summer Intern – Finance Operations | Warren, Michigan, United States of America | Finance & Accounting | Not disclosed | Excel · accounting · supply chain · sales | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Operations_JR-202618055) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -90,7 +87,7 @@ Open positions: 1
 
 ## Other
 
-Open positions: 40
+Open positions: 41
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -122,6 +119,7 @@ Open positions: 40
 | 37 | Comcast | Corporate Partnerships Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) |
 | 37 | Comcast | Premium Hospitality Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | Excel · sales · contracts | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
+| 45 | Johnson & Johnson | Materials Engineering Co-op | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | US Surgery Demand Planning Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
 | 45 | Johnson & Johnson | Analytical Chemistry Summer Intern | Raritan, New Jersey, United States of America | Other | $23/hr | recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Analytical-Chemistry-Summer-Intern_R-093897) |
