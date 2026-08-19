@@ -1,21 +1,24 @@
 # F500Tracker internships
 
-Last updated: August 19, 2026 at 02:04 UTC
+Last updated: August 19, 2026 at 07:16 UTC
 
-Current internships: 66
+Current internships: 90
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (54)](#other)
+[Software & IT (5)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (75)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 2
+Open positions: 5
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 16 | NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | Python · Java · JavaScript · SQL · React | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
+| 16 | NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | Software & IT | Not disclosed | Python · AWS · Azure · GCP · Docker | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
 
@@ -90,13 +93,34 @@ Open positions: 2
 
 ## Other
 
-Open positions: 54
+Open positions: 75
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 191 | Block | Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op) | Bay Area, CA, United States of America | Other | Not disclosed | Python · machine learning · legal | Not specified | [Apply](http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Computer Architecture | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | Other | Not disclosed | electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | Other | Not disclosed | Python · React · AWS · Azure · GCP | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Design for Test (DFT) | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | US, CA, Santa Clara | Other | Not disclosed | Python · mechanical engineering · electrical engineering · CAD · SolidWorks | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Verification | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Mixed Signal Design | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Generative AI | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Hardware | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Large Language Models | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) |
+| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Robotics | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) |
+| 16 | NVIDIA | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
 | 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
+| 125 | Micron Technology | Intern - Advanced DRAM Process Integration | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Process-Integration_JR107205) |
 | 125 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) |
 | 125 | Micron Technology | Intern - EUV & Materials Lithography | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---EUV---Materials-Lithography_JR108053) |
 | 125 | Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence · data science · analytics · mechanical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323) |
