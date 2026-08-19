@@ -1,24 +1,21 @@
 # F500Tracker internships
 
-Last updated: August 19, 2026 at 13:20 UTC
+Last updated: August 19, 2026 at 19:06 UTC
 
-Current internships: 93
+Current internships: 83
 
 ## Categories
 
-[Software & IT (6)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (77)](#other)
+[Software & IT (3)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (69)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 6
+Open positions: 3
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 16 | NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | Python · Java · JavaScript · SQL · React | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | Software & IT | Not disclosed | electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
-| 16 | NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | Software & IT | Not disclosed | Python · AWS · Azure · GCP · Docker | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
@@ -81,10 +78,11 @@ Open positions: 3
 
 ## People & Legal
 
-Open positions: 2
+Open positions: 3
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 49 | RTX | Stage - Hiver 2027 - Etudiant en droit / Internship - Winter 2027 - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040) |
 | 49 | RTX | Stage - Hiver - Etudiant en droit / Internship - Winter - Legal student | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | supply chain · legal · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver---Etudiant-en-droit---Internship---Winter---Legal-student_01867495) |
 | 49 | RTX | Stage - Automne - Stagiaire Ressources Humaines /Internship - Fall - HR Internship | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | People & Legal | Not disclosed | human resources | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-Ressources-Humaines--Internship---Fall---HR-Internship_01850296) |
 
@@ -94,7 +92,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 77
+Open positions: 69
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -110,15 +108,6 @@ Open positions: 77
 | 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501) |
 | 16 | NVIDIA | NVIDIA 2027 Internships: Hardware Verification | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500) |
 | 16 | NVIDIA | NVIDIA 2027 Internships: Mixed Signal Design | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Computer Architecture and Systems | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Architecture-and-Systems_JR2023854) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Generative AI | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Hardware | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · CAD · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Hardware_JR2023855) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Large Language Models | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Large-Language-Models_JR2023837) |
-| 16 | NVIDIA | NVIDIA 2027 Internships: Ph.D. Research Robotics | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) |
-| 16 | NVIDIA | NVIDIA 2027 Summer Internships: Ph.D. Engineering | US, CA, Santa Clara | Other | Not disclosed | Python · electrical engineering · recruiting | Not specified | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
 | 63 | Capital One | Strategy Consulting Intern - Summer 2027 | McLean, VA | Other | Not disclosed | recruiting · compliance | No sponsorship for this position | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) |
 | 112 | Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | Other | Not disclosed | mechanical engineering · electrical engineering · supply chain | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322) |
 | 125 | Micron Technology | Intern - Advanced DRAM Process Integration | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Advanced-DRAM-Process-Integration_JR107205) |
@@ -144,15 +133,16 @@ Open positions: 77
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Photo | Boise, ID - Main Site | Other | Not disclosed | Python · artificial intelligence | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312) |
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
-| 30 | Marathon Petroleum | Environmental Engineer 1 Intern to Full-Time Conversion | Texas City, Texas | Other | Not disclosed | human resources · compliance | Not specified | [Apply](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Texas-City-Texas/Environmental-Engineer-1-Intern-to-Full-Time-Conversion_00023377) |
+| 14 | Cigna Group | Health Service Leadership Development Program Summer Associate (Intern) | Bloomfield, CT | Other | $50–$52/hr | analytics | Not specified | [Apply](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Bloomfield-CT/Health-Service-Leadership-Development-Program-Summer-Associate--Intern-_26009376) |
+| 26 | Fannie Mae | Campus - Risk Analyst Program Intern | Plano, TX | Other | Not disclosed | artificial intelligence · risk management | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Plano-TX/Campus---Risk-Analyst-Program-Intern_JR2821) |
 | 33 | Freddie Mac | Summer 2027 Intern - Return Offer Only | McLean, VA | Other | Not disclosed | — | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Summer-2027-Intern---Return-Offer-Only_JR17434) |
-| 34 | Humana | Humana Technology Internship – Summer 2027 | Louisville, KY | Other | $37.44k–$96.8k/yr | Python · Java · C# · JavaScript · SQL | No sponsorship for this position | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) |
-| 37 | Comcast | Video Production Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) |
 | 37 | Comcast | Corporate Partnerships Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) |
 | 37 | Comcast | Premium Hospitality Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | Excel · sales · contracts | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) |
 | 39 | Morgan Stanley | Intern | Atlanta, Georgia, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Intern_JR042337) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
+| 45 | Johnson & Johnson | Automation & Robotics Engineering Spring Co-op | Santa Clara, California, United States of America | Other | $27/hr | Python · artificial intelligence · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526) |
+| 45 | Johnson & Johnson | External Planning Intern | Titusville, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/External-Planning-Intern_R-094377) |
 | 45 | Johnson & Johnson | Materials Engineering Co-op | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | US Surgery Demand Planning Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
