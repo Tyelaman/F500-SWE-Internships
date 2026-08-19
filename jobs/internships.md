@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 18, 2026 at 19:09 UTC
+Last updated: August 19, 2026 at 02:04 UTC
 
-Current internships: 61
+Current internships: 66
 
 ## Categories
 
-[Software & IT (2)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (49)](#other)
+[Software & IT (2)](#software-it) · [Engineering (2)](#engineering) · [Finance & Accounting (2)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (2)](#people-legal) · [Other (54)](#other)
 
 <a id="software-it"></a>
 
@@ -42,8 +42,8 @@ Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
-| 23 | General Motors | 2027 Summer Intern – Finance Controllership | Warren, Michigan, United States of America | Finance & Accounting | Not disclosed | Excel · accounting | Not specified | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Finance-Controllership_JR-202618060) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
+| 150 | Truist Financial | 2027 Finance Internship Program | Charlotte, NC | Finance & Accounting | Not disclosed | financial modeling · accounting · tax | No sponsorship for this position | [Apply](https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Finance-Internship-Program_R0118059) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -90,7 +90,7 @@ Open positions: 2
 
 ## Other
 
-Open positions: 49
+Open positions: 54
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -120,6 +120,10 @@ Open positions: 49
 | 125 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Other | Not disclosed | Python · analytics · mechanical engineering · electrical engineering | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330) |
 | 125 | Micron Technology | Intern - Photolithography Process | Boise, ID - Main Site | Other | Not disclosed | artificial intelligence · data science | Not specified | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508) |
 | 33 | Freddie Mac | Summer 2027 Intern - Return Offer Only | McLean, VA | Other | Not disclosed | — | Not specified | [Apply](https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Summer-2027-Intern---Return-Offer-Only_JR17434) |
+| 34 | Humana | Humana Technology Internship – Summer 2027 | Louisville, KY | Other | $37.44k–$96.8k/yr | Python · Java · C# · JavaScript · SQL | No sponsorship for this position | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) |
+| 37 | Comcast | Video Production Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) |
+| 37 | Comcast | Corporate Partnerships Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) |
+| 37 | Comcast | Premium Hospitality Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | Excel · sales · contracts | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) |
 | 39 | Morgan Stanley | Intern | Atlanta, Georgia, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Intern_JR042337) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
@@ -127,6 +131,9 @@ Open positions: 49
 | 45 | Johnson & Johnson | Materials Engineering Co-Op | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | US Surgery Demand Planning Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
 | 45 | Johnson & Johnson | Analytical Chemistry Summer Intern | Raritan, New Jersey, United States of America | Other | $23/hr | recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Analytical-Chemistry-Summer-Intern_R-093897) |
+| 49 | RTX | Stage - Hiver 2027 - Spécialiste en amélioration des procédés, Leasco / Internship - Winter 2027 - Process Improvement Specialist, Leasco | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Spcialiste-en-amlioration-des-procds--Leasco---Internship---Fall-2026---Process-Improvement-Specialist--Leasco_01847320) |
+| 49 | RTX | Co-Op: Aftermarket Engineer | US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1 | Other | Not disclosed | mechanical engineering · compliance · contracts | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164) |
+| 49 | RTX | Stage - Hiver 2027 - Coordonnateur de projet d’ingénierie/ Internship - Winter 2027 - Engineering Project Coordinator | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordonnateur-de-projet-d-ingnierie--Internship---Winter-2027---Engineering-Project-Coordinator_01863993) |
 | 49 | RTX | Stage Hiver 2027 - Enquêteur Technique / Internship Winter 2027 - Technical Investigator | CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Enquteur-Technique---Internship-Winter-2027---Technical-Investigator_01866082) |
 | 49 | RTX | Stage Hiver 2027 - Analyste de Fabrication Qualite / Internship Winter 2027 Winter - Manufacturing & Quality Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107) |
 | 49 | RTX | Stage Hiver 2027 -  Spécialiste en amélioration continue / Winter 2027 Internship - Continuous Improvement Intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027----Spcialiste-en-amlioration-continue---Winter-2027-Internship---Continuous-Improvement-Intern_01865161) |
@@ -141,7 +148,5 @@ Open positions: 49
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
-| 37 | Comcast | Corporate Partnerships Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | sales | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Corporate-Partnerships-Intern_R441998) |
-| 37 | Comcast | Premium Hospitality Intern | PA - Philadelphia, 3601 S Broad St | Other | Not disclosed | Excel · sales · contracts | Not specified | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Premium-Hospitality-Intern_R441965) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
