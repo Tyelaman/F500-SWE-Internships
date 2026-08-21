@@ -1,24 +1,26 @@
 # F500Tracker internships
 
-Last updated: August 21, 2026 at 13:22 UTC
+Last updated: August 21, 2026 at 19:08 UTC
 
-Current internships: 83
+Current internships: 107
 
 ## Categories
 
-[Software & IT (3)](#software-it) · [Data & AI (1)](#data-ai) · [Engineering (2)](#engineering) · [Finance & Accounting (3)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (3)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (67)](#other)
+[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (4)](#engineering) · [Finance & Accounting (4)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (81)](#other)
 
 <a id="software-it"></a>
 
 ## Software & IT
 
-Open positions: 3
+Open positions: 5
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | $18.5–$33.5/hr | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | 112 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | Software & IT | Not disclosed | — | Not specified | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) |
+| 84 | HP | Enterprise Operations Software Internship | Spring, Texas, United States of America | Software & IT | $31–$37/hr | Python · Java · SQL · React · AWS | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
+| 84 | HP | Software Internship Roles - HP Solutions (HPS) | Spring, Texas, United States of America | Software & IT | $31–$37/hr | Python · Java · JavaScript · TypeScript · SQL | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -26,11 +28,12 @@ Open positions: 3
 
 ## Data & AI
 
-Open positions: 1
+Open positions: 2
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
 | 26 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Data & AI | Not disclosed | Python · SQL · artificial intelligence · data science · analytics | No sponsorship for this position | [Apply](https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815) |
+| 49 | RTX | Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) / Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Data & AI | Not disclosed | SQL · data science · analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
 
@@ -38,10 +41,12 @@ Open positions: 1
 
 ## Engineering
 
-Open positions: 2
+Open positions: 4
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 84 | HP | Technology & Innovation Organization Electrical Engineering Internship | Corvallis, Oregon, United States of America | Engineering | $29–$35/hr | electrical engineering | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270-1) |
+| 49 | RTX | Stage - Hiver 2027 – Ingénieur Qualité / Internship - Winter 2027 - Quality Engineer | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619) |
 | 49 | RTX | Stage - Hiver 2027 - Bureau de la Règlementation sur les Produits / Internship  Winter 2027 - Global Chemical Regulations Office | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Bureau-de-la-Rglementation-sur-les-Produits---Internship--Winter-2027---Global-Chemical-Regulations-Office_01864165) |
 | 49 | RTX | 2027 Stage Hiver - Stagiaire en Hygiene industrielle / 2027 Winter Internship - Industrial Hygiene intern | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Engineering | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-2027-Stage-Hiver---Stagiaire-en-Hygiene-industrielle---2027-Winter-Internship---Industrial-Hygiene-intern_01864096) |
 
@@ -51,10 +56,11 @@ Open positions: 2
 
 ## Finance & Accounting
 
-Open positions: 3
+Open positions: 4
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 49 | RTX | Stage - Hiver 2027 - Département de fiscalité / Internship - Winter 2027 - Tax Department | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | accounting · tax | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dpartement-de-fiscalit---Internship---Winter-2027---Tax-Department_01865926) |
 | 49 | RTX | Stage Hiver 2027 - Analyste financier - Trésorerie / Internship Winter 2027 - Finance Analyst - Treasury | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-financier---Trsorerie---Internship-Winter-2027---Finance-Analyst---Treasury_01864403) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste financier en ingénierie (Power BI) / Internship - Winter 2027 - Engineering Finance Analyst (Power BI) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Finance & Accounting | Not disclosed | Excel · accounting | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-financier-en-ingnierie--Power-BI----Internship---Winter-2027---Engineering-Finance-Analyst--Power-BI-_01863107) |
 | 83 | Cisco Systems | Financial Analyst I - LIFT Intern | RTP, North Carolina, US | Finance & Accounting | Not disclosed | Excel · financial modeling · accounting · sales | Not specified | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Financial-Analyst-I---LIFT-Intern_2022092) |
@@ -77,12 +83,16 @@ Open positions: 1
 
 ## Operations & Supply Chain
 
-Open positions: 3
+Open positions: 7
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
+| 84 | HP | Enterprise Operations Business Internship | Spring, Texas, United States of America | Operations & Supply Chain | $23–$32/hr | Python · SQL · artificial intelligence · analytics · Excel | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Business-Internship_3166959-2) |
+| 84 | HP | Enterprise Operations Engineering Internship | Spring, Texas, United States of America | Operations & Supply Chain | $29–$35/hr | Python · SQL · machine learning · analytics · Excel | Not specified | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Engineering-Internship_3166958-1) |
 | 45 | Johnson & Johnson | Operations Co-Op | Athens, Georgia, United States of America | Operations & Supply Chain | Not disclosed | risk management · compliance | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Athens-Georgia-United-States-of-America/Operations-Co-Op_R-093947) |
 | 45 | Johnson & Johnson | Supplier Operations Spring Co-op | Titusville, New Jersey, United States of America | Operations & Supply Chain | $23.5/hr | data science · analytics · Excel · supply chain · recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Supplier-Operations-Spring-Co-op_R-091274) |
+| 49 | RTX | Stagiaire en logistique d'entreposage - Hiver 2027 / Operations Logistics Internship – Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | Excel · supply chain · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-logistique-d-entreposage---Hiver-2027---Operations-Logistics-Internship---Winter-2027_01867382) |
+| 49 | RTX | Stagiaire - Analyste logistique Atelier MED-Hiver 2027/ Internship- MED Shop logistics Analyst - Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | Excel · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire---Analyste-logistique-Atelier-MED-Hiver-2027--Internship--MED-Shop-logistics-Analyst---Winter-2027_01857807) |
 | 49 | RTX | Stage - Hiver 2027 - Analyste de la chaîne d’approvisionnement / Internship - Winter 2027 - Supply Chain Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Operations & Supply Chain | Not disclosed | mechanical engineering · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Analyst_01863597) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
@@ -105,7 +115,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 67
+Open positions: 81
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -146,6 +156,7 @@ Open positions: 67
 | 39 | Morgan Stanley | Intern | Atlanta, Georgia, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia-United-States-of-America/Intern_JR042337) |
 | 39 | Morgan Stanley | Intern | Jackson, Tennessee, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jackson-Tennessee-United-States-of-America/Intern_JR042465) |
 | 39 | Morgan Stanley | Intern | Columbus, Ohio, United States of America | Other | Not disclosed | sales · recruiting | Not specified | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Intern_JR042395-1) |
+| 45 | Johnson & Johnson | DePuy Synthes Commercialized Product Development Co-Op Orthopedics | Warsaw, Indiana, United States of America | Other | Not disclosed | Excel · supply chain · recruiting · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Warsaw-Indiana-United-States-of-America/DePuy-Synthes-Commercialized-Product-Development-Co-Op-Orthopedics_R-093662) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op Spring 2027 | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1) |
 | 45 | Johnson & Johnson | Materials Engineering Co-Op Fall 2027 | Jacksonville, Florida, United States of America | Other | Not disclosed | — | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380) |
 | 45 | Johnson & Johnson | Sustainability Engagement Coop | New Brunswick, New Jersey, United States of America | Other | $23.5/hr | logistics | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sustainability-Engagement-Coop_R-093946) |
@@ -154,6 +165,20 @@ Open positions: 67
 | 45 | Johnson & Johnson | External Planning Intern | Titusville, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/External-Planning-Intern_R-094377) |
 | 45 | Johnson & Johnson | US Surgery Demand Planning Co-Op | Raritan, New Jersey, United States of America | Other | $23.5/hr | Excel · supply chain · compliance · legal | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/US-Surgery-Demand-Planning-Co-Op_R-094088-1) |
 | 45 | Johnson & Johnson | Analytical Chemistry Summer Intern | Raritan, New Jersey, United States of America | Other | $23/hr | recruiting | Not specified | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Analytical-Chemistry-Summer-Intern_R-093897) |
+| 49 | RTX | Stage - Hiver 2027 - Optimisation des processus d’outillage / Internship - Winter 2027 -Tooling Process Improvement | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Optimisation-des-processus-d-outillage---Internship---Hiver-2027--Tooling-Process-Improvement_01867213) |
+| 49 | RTX | Stage - Responsable de la gestion du matériel- Hiver 2027 / Internship - Material Management Lead - Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Responsable-de-la-gestion-du-matriel--Hiver-2027---Internship---Material-Management-Lead---Winter-2027_01863317) |
+| 49 | RTX | Hiver 2027 - Responsable de la gestion du materiel / Internship - Winter 2027 - Material Management Lead | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Hiver-2027---Responsable-de-la-gestion-du-materiel---Internship---Winter-2027---Material-Management-Lead_01863192) |
+| 49 | RTX | Stage - Hiver 2027 -  Gestionnaire de projets et amélioration continue /  Internship - Winter 2027 - Project Management and Continuous improvement | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · supply chain · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Gestionnaire-de-projets-et-amlioration-continue----Internship---Winter-2027---Project-Management-and-Continuous-improvement_01867346) |
+| 49 | RTX | Stage en formation technique- hiver 2027 / Internship Technical Training - Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-en-formation-technique--hiver-2027---Internship-Technical-Training---Winter-2027_01863561) |
+| 49 | RTX | Stage – Hiver 2027 – Gestion des coûts du produit / Internship - Winter 2027 - Product cost management | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-des-cots-du-produit---Internship---Winter-2027---Product-cost-management_01863853) |
+| 49 | RTX | Stage - Hiver 2027 - Industrialisation  / Internship - Winter 2027 - Industrialization Production Readiness | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · mechanical engineering | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520) |
+| 49 | RTX | Stage - Planificateur de production (Hiver 2027) / Internship – Production Planner Winter 2027 | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel · mechanical engineering · logistics | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Planificateur-de-production--Hiver-2027----Internship---Production-Planner-Winter-2027_01867333) |
+| 49 | RTX | Stage - Génie de la fabrication, amélioration continue - Hiver 2027 /  Internship - Winter 2027 -  Manufacturing engineering, improvement focus | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Gnie-de-la-fabrication--amlioration-continue---Hiver-2027----Internship---Winter-2027----Manufacturing-engineering--improvement-focus_01866837) |
+| 49 | RTX | Stage - Hiver 2027 -  Support technique au Service Fiabilite Maintenance / Internship - Winter 2027 -  Technical Support in the Reliability and Maintenance Department | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Support-technique-au-Service-Fiabilite-Maintenance---Internship---Winter-2027----Technical-Support-in-the-Reliability-and-Maintenance-Department_01863583) |
+| 49 | RTX | Stage - Hiver 2027 -  Support technique à l’introduction de nouveaux équipements au Service Fiabilité Maintenance /  Internship - Winter 2027 - Technical Support for the Implementation of New Equipment in the Reliability and Maintenance | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027----Support-technique--l-introduction-de-nouveaux-quipements-au-Service-Fiabilit-Maintenance----Internship---Winter-2027---Technical-Support-for-the-Implementation-of-New-Equipment-in-the-Reliability-and-Maintenance_01863612) |
+| 49 | RTX | Stage Hiver 2027 - Analyste systèmes d’affaires et transformation / Internship Winter 2027 - Analyst Business Systems and Transformation | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | analytics · Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship-Winter-2027---Analyst-Business-Systems-and-Transformation_01865865) |
+| 49 | RTX | Stage - Hiver 2027 - Analyste en assurance qualité / Intern - Winter 2027 - Quality Assurance Analyst | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | Excel | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-assurance-qualit---Intern---Winter-2027---Quality-Assurance-Analyst_01868724) |
+| 49 | RTX | Stage - Hiver 2027 - Introduction Nouveau Produit / Internship - Winter 2027 - New Product Introduction | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Introduction-Nouveau-Produit---Internship---Winter-2027---New-Product-Introduction_01863063) |
 | 49 | RTX | Internship - Winter 2027 - Model-based Definition (MBD) Computer-aided Design (CAD) Digital Technologies (MISSISSAUGA) | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Park Dr ~ P22M01 BLDG | Other | Not disclosed | audit · CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Model-based-Definition--MBD--Computer-aided-Design--CAD--Digital-Technologies--MISSISSAUGA-_01863899) |
 | 49 | RTX | Stage - Hiver 2027 - Gestion de Projet - Bureau de Transformation Mondiale / Internship - Winter 2027 -  Project Management – Global Transformation Office (GTO) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | supply chain | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-Projet---Bureau-de-Transformation-Mondiale---Internship---Winter-2027----Project-Management---Global-Transformation-Office--GTO-_01864641) |
 | 49 | RTX | Stage - Hiver 2027 - Robotique et Automatisation dans le secteur manufacturier de aéronautique / Internship - Winter 2027 - Robotics and Automation in the Aeronautics Manufacturing Sector | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Other | Not disclosed | C# · SQL · mechanical engineering · electrical engineering · CAD | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Robotique-et-Automatisation-dans-le-secteur-manufacturier-de-aronautique---Internship---Winter-2027---Robotics-and-Automation-in-the-Aeronautics-Manufacturing-Sector_01866622) |
@@ -173,7 +198,6 @@ Open positions: 67
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Marlborough, MA | US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/SkillBridge-Intern-DoD---Information-System-Security-Officer---Marlborough--MA_01862583) |
 | 49 | RTX | SkillBridge Intern DoD – Information System Security Officer - Huntsville, AL | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | Other | Not disclosed | audit · risk management · supply chain · compliance | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/SkillBridge-Intern-DoD---Information-System-Security-Officer---Huntsville--AL_01862186) |
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
-| 65 | Caterpillar | Part Time Intern - Commercial | USA - TX - Seguin - Engine Assembly Plant Bldg 2 | Other | Not disclosed | sales | Not specified | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/USA---TX---Seguin---Engine-Assembly-Plant-Bldg-2/Part-Time-Intern---Commercial_R0000389853) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
 
