@@ -1,12 +1,12 @@
 # F500Tracker internships
 
-Last updated: August 22, 2026 at 06:59 UTC
+Last updated: August 22, 2026 at 13:07 UTC
 
-Current internships: 110
+Current internships: 111
 
 ## Categories
 
-[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (4)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (83)](#other)
+[Software & IT (5)](#software-it) · [Data & AI (2)](#data-ai) · [Engineering (4)](#engineering) · [Finance & Accounting (5)](#finance-accounting) · [Sales & Marketing (1)](#sales-marketing) · [Operations & Supply Chain (7)](#operations-supply-chain) · [People & Legal (3)](#people-legal) · [Other (84)](#other)
 
 <a id="software-it"></a>
 
@@ -116,7 +116,7 @@ Open positions: 3
 
 ## Other
 
-Open positions: 83
+Open positions: 84
 
 | Rank | Company | Position | Location | Category | Salary | Keywords | Sponsorship | Apply |
 |---:|---|---|---|---|---|---|---|---|
@@ -203,5 +203,6 @@ Open positions: 83
 | 49 | RTX | Intern, Field Svc | CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site) | Other | Not disclosed | — | Not specified | [Apply](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Hillsboro, Oregon, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364) |
 | 106 | Thermo Fisher Scientific | Engineering Co-Op | Greenville, North Carolina, USA | Other | Not disclosed | — | Not specified | [Apply](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Greenville-North-Carolina-USA/Engineering-Co-Op_R-01328052) |
+| 396 | Analog Devices | Algorithm Development Engineer Intern | US, MA, Wilmington | Other | Not disclosed | Python · SQL · machine learning | Not specified | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1) |
 
 [Back to categories](#categories) · [Back to README](../README.md)
